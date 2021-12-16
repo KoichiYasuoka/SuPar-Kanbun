@@ -4,7 +4,9 @@
 import os
 PACKAGE_DIR=os.path.abspath(os.path.dirname(__file__))
 DOWNLOAD_DIR=os.path.join(PACKAGE_DIR,"models")
-MODEL_URL="https://raw.githubusercontent.com/KoichiYasuoka/SuPar-Kanbun-1.3.4/main/suparkanbun/models/"
+
+from transformers.file_utils import hf_bucket_url
+MODEL_URL=hf_bucket_url("KoichiYasuoka/SuPar-Kanbun","suparkanbun/models/")
 
 import numpy
 from spacy.language import Language
