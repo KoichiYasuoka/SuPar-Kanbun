@@ -1,0 +1,6153 @@
+㢙 㢙 v,動詞,描写,量 few
+䊷 䊷 䌶 n,名詞,可搬,道具 black-silk
+䌶 䊷 䌶 n,名詞,可搬,道具 black-silk
+䘏 䘏 恤 v,動詞,行為,態度 pity
+一 一 n,数詞,数字,* one
+一 一 v,動詞,行為,設置 unite
+一十 一十 n,数詞,数,* ten
+一十七 一十七 n,数詞,数,* seventeen
+一百 一百 n,数詞,数,* one-hundred
+一百五十 一百五十 n,数詞,数,* one-hundred-and-fifty
+一百五十六 一百五十六 n,数詞,数,* one-hundred-and-fifty-six
+一百四 一百四 n,数詞,数,* one-hundred-and-four
+一万 一萬 一万 n,数詞,数,* ten-thousand
+一萬 一萬 一万 n,数詞,数,* ten-thousand
+一万八千 一萬八千 一万八千 n,数詞,数,* eighteen-thousand
+一萬八千 一萬八千 一万八千 n,数詞,数,* eighteen-thousand
+丁 丁 n,数詞,干支,* [4th-stem]
+丁丑 丁丑 n,数詞,干支,* [14th-sexagenary]
+丁亥 丁亥 n,数詞,干支,* [24th-sexagenary]
+丁卯 丁卯 n,数詞,干支,* [4th-sexagenary]
+丁巳 丁巳 n,数詞,干支,* [54th-sexagenary]
+丁未 丁未 n,数詞,干支,* [44th-sexagenary]
+丁酉 丁酉 n,数詞,干支,* [34th-sexagenary]
+七 七 n,数詞,数字,* seven
+七十 七十 n,数詞,数,* seventy
+七十一 七十一 n,数詞,数,* seventy-one
+七十七 七十七 n,数詞,数,* seventy-seven
+七十三 七十三 n,数詞,数,* seventy-three
+七十九 七十九 n,数詞,数,* seventy-nine
+七十二 七十二 n,数詞,数,* seventy-two
+七十五 七十五 n,数詞,数,* seventy-five
+七十八 七十八 n,数詞,数,* seventy-eight
+七十六 七十六 n,数詞,数,* seventy-six
+七十四 七十四 n,数詞,数,* seventy-four
+七百 七百 n,数詞,数,* seven-hundred
+七万 七萬 七万 n,数詞,数,* seventy-thousand
+七萬 七萬 七万 n,数詞,数,* seventy-thousand
+七万六千 七萬六千 七万六千 n,数詞,数,* seventy-six-thousand
+七萬六千 七萬六千 七万六千 n,数詞,数,* seventy-six-thousand
+丈 丈 n,名詞,人,関係 elder
+丈 丈 n,名詞,度量衡,* [length-unit]
+三 三 n,数詞,数字,* three
+三十 三十 n,数詞,数,* thirty
+三十一 三十一 n,数詞,数,* thirty-one
+三十七 三十七 n,数詞,数,* thirty-seven
+三十三 三十三 n,数詞,数,* thirty-three
+三十九 三十九 n,数詞,数,* thirty-nine
+三十二 三十二 n,数詞,数,* thirty-two
+三十五 三十五 n,数詞,数,* thirty-five
+三十八 三十八 n,数詞,数,* thirty-eight
+三十六 三十六 n,数詞,数,* thirty-six
+三十四 三十四 n,数詞,数,* thirty-four
+三千 三千 n,数詞,数,* three-thousand
+三危 三危 n,名詞,固定物,地名 [place-name]
+三百 三百 n,数詞,数,* three-hundred
+三万 三萬 三万 n,数詞,数,* thirty-thousand
+三萬 三萬 三万 n,数詞,数,* thirty-thousand
+上 上 n,名詞,固定物,関係 up
+上 上 v,動詞,行為,得失 rise
+下 下 n,名詞,固定物,関係 down
+下 下 v,動詞,行為,動作 go-down
+不 不 v,副詞,否定,無界 not
+不勝 不勝 不胜 n,名詞,人,名 [given-name]
+不胜 不勝 不胜 n,名詞,人,名 [given-name]
+不周山 不周山 n,名詞,固定物,地名 [place-name]
+不害 不害 n,名詞,人,名 [given-name]
+且 且 v,副詞,時相,将来 about-to
+且 且 v,副詞,頻度,重複 and
+丕 丕 v,動詞,描写,態度 great
+世 世 n,名詞,制度,場 world
+世 世 n,名詞,時,* generation
+世 世 v,動詞,行為,動作 inherit
+世叔 世叔 n,名詞,人,名 [given-name]
+世子 世子 n,名詞,人,関係 crown-prince
+丘 丘 n,名詞,人,名 [given-name]
+丘 丘 n,名詞,固定物,地形 hillock
+丘明 丘明 n,名詞,人,名 [given-name]
+丘蒙 丘蒙 n,名詞,人,名 [given-name]
+丙 丙 n,数詞,干支,* [3rd-stem]
+丙午 丙午 n,数詞,干支,* [43rd-sexagenary]
+丙子 丙子 n,数詞,干支,* [13th-sexagenary]
+丙寅 丙寅 n,数詞,干支,* [3rd-sexagenary]
+丙戌 丙戌 n,数詞,干支,* [23rd-sexagenary]
+丙申 丙申 n,数詞,干支,* [33rd-sexagenary]
+丙辰 丙辰 n,数詞,干支,* [53rd-sexagenary]
+个 个 n,名詞,度量衡,* [general-classifier]
+中 中 n,名詞,固定物,関係 centre
+中 中 v,動詞,行為,動作 hit
+中央 中央 n,名詞,人,姓氏 [surname]
+串 串 v,動詞,描写,形質 accustomed
+丹朱 丹朱 n,名詞,人,名 [given-name]
+主 主 n,名詞,人,役割 host
+主 主 v,動詞,行為,役割 host
+乃 乃 v,副詞,時相,緊接 then
+久 久 v,動詞,描写,量 for-a-long-time
+之 之 n,代名詞,人称,止格 [3PRON]
+之 之 n,名詞,人,名 [given-name]
+之 之 p,助詞,接続,属格 's
+之 之 v,動詞,行為,移動 go
+之他 之他 n,名詞,人,名 [given-name]
+之反 之反 n,名詞,人,名 [given-name]
+之奇 之奇 n,名詞,人,名 [given-name]
+之斯 之斯 n,名詞,人,名 [given-name]
+乍 乍 v,副詞,時相,緊接 suddenly
+乎 乎 p,助詞,句末,* [Q]
+乎 乎 p,接尾辞,*,* [suffix]
+乎 乎 v,前置詞,基盤,* at
+乏 乏 v,動詞,描写,境遇 lack
+乗 乘 n,名詞,主体,書物 [book-name]
+乘 乘 n,名詞,主体,書物 [book-name]
+乗 乘 n,名詞,可搬,乗り物 vehicle
+乘 乘 n,名詞,可搬,乗り物 vehicle
+乗 乘 n,名詞,数量,* quadruple
+乘 乘 n,名詞,数量,* quadruple
+乗 乘 v,動詞,行為,動作 ride
+乘 乘 v,動詞,行為,動作 ride
+乙 乙 n,数詞,干支,* [2nd-stem]
+乙丑 乙丑 n,数詞,干支,* [2nd-sexagenary]
+乙亥 乙亥 n,数詞,干支,* [12th-sexagenary]
+乙卯 乙卯 n,数詞,干支,* [52nd-sexagenary]
+乙巳 乙巳 n,数詞,干支,* [42nd-sexagenary]
+乙未 乙未 n,数詞,干支,* [32nd-sexagenary]
+乙酉 乙酉 n,数詞,干支,* [22nd-sexagenary]
+九 九 n,数詞,数字,* nine
+九十 九十 n,数詞,数,* ninety
+九十一 九十一 n,数詞,数,* ninety-one
+九十七 九十七 n,数詞,数,* ninety-seven
+九十三 九十三 n,数詞,数,* ninety-three
+九十九 九十九 n,数詞,数,* ninety-nine
+九十二 九十二 n,数詞,数,* ninety-two
+九十五 九十五 n,数詞,数,* ninety-five
+九十八 九十八 n,数詞,数,* ninety-eight
+九十六 九十六 n,数詞,数,* ninety-six
+九十四 九十四 n,数詞,数,* ninety-four
+九百 九百 n,数詞,数,* nine-hundred
+乞 乞 v,動詞,行為,得失 give
+也 也 p,助詞,句末,* [final-particle]
+也 也 p,助詞,提示,* that-which
+乳 乳 n,名詞,可搬,糧食 milk
+乳 乳 v,動詞,行為,飲食 milk
+乾 乾 n,名詞,人,その他の人名 Qian
+乾 乾 n,名詞,天象,天文 heaven
+乾 乾 干 v,動詞,描写,形質 dry
+乱 亂 乱 v,動詞,行為,動作 disorder
+亂 亂 乱 v,動詞,行為,動作 disorder
+予 予 n,代名詞,人称,他 [1PRON]
+事 事 n,名詞,可搬,成果物 affair
+事 事 v,動詞,行為,交流 serve
+二 二 n,数詞,数字,* two
+二 二 v,動詞,行為,設置 duplicate
+二十 二十 n,数詞,数,* twenty
+二十一 二十一 n,数詞,数,* twenty-one
+二十七 二十七 n,数詞,数,* twenty-seven
+二十三 二十三 n,数詞,数,* twenty-three
+二十九 二十九 n,数詞,数,* twenty-nine
+二十二 二十二 n,数詞,数,* twenty-two
+二十五 二十五 n,数詞,数,* twenty-five
+二十八 二十八 n,数詞,数,* twenty-eight
+二十六 二十六 n,数詞,数,* twenty-six
+二十四 二十四 n,数詞,数,* twenty-four
+二十万 二十萬 二十万 n,数詞,数,* two-hundred-thousand
+二十萬 二十萬 二十万 n,数詞,数,* two-hundred-thousand
+二千 二千 n,数詞,数,* two-thousand
+二百 二百 n,数詞,数,* two-hundred
+于 于 p,助詞,句頭,* [filler-character]
+于 于 v,前置詞,基盤,* at
+于 于 v,動詞,存在,存在 go-into
+云 云 p,助詞,句頭,* [filler-character]
+云 云 v,動詞,行為,伝達 says-so
+互 互 v,動詞,行為,交流 mutual
+互郷 互郷 n,名詞,固定物,地名 [place-name]
+互鄉 互郷 n,名詞,固定物,地名 [place-name]
+五 五 n,数詞,数字,* five
+五十 五十 n,数詞,数,* fifty
+五十一 五十一 n,数詞,数,* fifty-one
+五十七 五十七 n,数詞,数,* fifty-seven
+五十三 五十三 n,数詞,数,* fifty-three
+五十九 五十九 n,数詞,数,* fifty-nine
+五十二 五十二 n,数詞,数,* fifty-two
+五十五 五十五 n,数詞,数,* fifty-five
+五十八 五十八 n,数詞,数,* fifty-eight
+五十六 五十六 n,数詞,数,* fifty-six
+五十四 五十四 n,数詞,数,* fifty-four
+五百 五百 n,数詞,数,* five-hundred
+五百二十 五百二十 n,数詞,数,* five-hundred-and-twenty
+井 井 n,名詞,固定物,建造物 well
+些 些 p,助詞,句末,* [final-particle]
+些 些 v,動詞,描写,量 a-few
+亚 亞 亚 n,数詞,数,* second
+亜 亞 亚 n,数詞,数,* second
+亞 亞 亚 n,数詞,数,* second
+亟 亟 v,動詞,描写,形質 hasten
+亡 亡 v,動詞,変化,生物 be-lost
+亢 亢 n,名詞,人,名 [given-name]
+交 交 v,副詞,範囲,共同 reciprocal
+交 交 v,動詞,行為,交流 cross
+亥唐 亥唐 n,名詞,人,名 [given-name]
+亦 亦 v,副詞,頻度,重複 also
+享 享 n,名詞,制度,儀礼 feast
+享 享 v,動詞,行為,得失 offer-a-feast
+京 京 n,名詞,制度,場 capital-city
+京兆 京兆 n,名詞,固定物,地名 [place-name]
+亮 亮 v,動詞,描写,形質 bright
+亶父 亶父 n,名詞,人,名 [given-name]
+人 人 n,名詞,人,人 person
+人皇 人皇 n,名詞,人,名 [given-name]
+什 什 n,数詞,数字,* one-tenth
+仁 仁 n,名詞,描写,態度 benevolence
+仁 仁 v,動詞,描写,態度 benevolent
+仇 仇 v,動詞,行為,交流 hostile
+今 今 n,名詞,時,* now
+介 介 n,名詞,固定物,樹木 mustard
+介 介 v,動詞,行為,態度 lie-between
+仍 仍 v,動詞,行為,態度 continue-as-before
+仕 仕 n,名詞,制度,儀礼 serve-in-office
+仕 仕 v,動詞,行為,交流 serve-in-office
+他 他 n,代名詞,指示,* other
+付 付 v,動詞,行為,動作 hand-over
+仞 仞 n,名詞,度量衡,* [length-unit]
+代 代 n,名詞,時,* generation
+代 代 v,動詞,変化,制度 substitute
+令 令 n,名詞,可搬,伝達 order
+令 令 v,動詞,描写,形質 beautiful
+令 令 v,動詞,行為,使役 order
+以 以 v,動詞,行為,動作 use
+仰 仰 v,動詞,行為,動作 look-up-to
+仲 仲 n,名詞,人,名 [given-name]
+仲 仲 n,名詞,人,関係 second-oldest-brother
+仲 仲 n,数詞,数,* second
+仲壬 仲壬 n,名詞,人,名 [given-name]
+仲子 仲子 n,名詞,人,名 [given-name]
+仲孙 仲孫 仲孙 n,名詞,人,名 [given-name]
+仲孫 仲孫 仲孙 n,名詞,人,名 [given-name]
+仲弓 仲弓 n,名詞,人,名 [given-name]
+仲忽 仲忽 n,名詞,人,名 [given-name]
+仲雍 仲雍 n,名詞,人,名 [given-name]
+仲突 仲突 仲突 n,名詞,人,名 [given-name]
+仲突 仲突 仲突 n,名詞,人,名 [given-name]
+任 任 n,名詞,主体,国名 [country-name]
+任 任 n,名詞,人,名 [given-name]
+任 任 n,名詞,人,役割 responsibility
+任 任 v,動詞,行為,役割 support
+伊 伊 n,代名詞,指示,* [3PRON]
+伊 伊 n,名詞,人,姓氏 [surname]
+伊訓 伊訓 伊训 n,名詞,主体,書物 [book-name]
+伊训 伊訓 伊训 n,名詞,主体,書物 [book-name]
+伍 伍 n,名詞,主体,集団 group-of-five
+伏 伏 v,動詞,行為,動作 lie-prostrate
+伏羲 伏羲 n,名詞,人,名 [given-name]
+伐 伐 v,動詞,行為,交流 hew
+休 休 n,名詞,固定物,地名 [place-name]
+休 休 v,動詞,描写,態度 rest
+伯 伯 n,名詞,人,姓氏 [surname]
+伯 伯 n,名詞,人,役割 earl
+伯 伯 n,名詞,人,関係 father's-elder-brother
+伯夷 伯夷 n,名詞,人,複合的人名 Boyi
+伯子 伯子 n,名詞,人,名 [given-name]
+伯乐 伯樂 伯乐 n,名詞,人,名 [given-name]
+伯楽 伯樂 伯乐 n,名詞,人,名 [given-name]
+伯樂 伯樂 伯乐 n,名詞,人,名 [given-name]
+伯牛 伯牛 n,名詞,人,名 [given-name]
+伯适 伯适 n,名詞,人,名 [given-name]
+伯达 伯達 伯达 n,名詞,人,名 [given-name]
+伯達 伯達 伯达 n,名詞,人,名 [given-name]
+伯魚 伯魚 伯鱼 n,名詞,人,名 [given-name]
+伯鱼 伯魚 伯鱼 n,名詞,人,名 [given-name]
+伶伦 伶倫 伶伦 n,名詞,人,名 [given-name]
+伶倫 伶倫 伶伦 n,名詞,人,名 [given-name]
+似 似 v,動詞,描写,形質 resemble
+佃 佃 v,動詞,行為,動作 cultivate
+但 但 v,副詞,範囲,限定 only
+佇 佇 v,動詞,行為,姿勢 stand-for-a-long-time
+位 位 n,名詞,制度,場 rank
+位 位 v,動詞,行為,設置 rank
+佐 佐 v,動詞,行為,交流 assist
+佑 佑 v,動詞,行為,交流 protect
+何 何 n,代名詞,疑問,* what
+何 何 v,副詞,疑問,原因 what
+余 余 n,代名詞,人称,他 [1PRON]
+佚 佚 v,動詞,描写,態度 feel-at-ease
+佚 佚 v,動詞,行為,得失 escape
+仏 佛 n,名詞,主体,神仏 Buddha
+佛 佛 n,名詞,主体,神仏 Buddha
+仏 佛 v,動詞,行為,動作 resist
+佛 佛 v,動詞,行為,動作 resist
+仏肸 佛肸 n,名詞,人,名 [given-name]
+佛肸 佛肸 n,名詞,人,名 [given-name]
+作 作 v,動詞,行為,生産 make
+佞 佞 n,名詞,描写,態度 flattering
+佞 佞 v,動詞,描写,形質 clever
+佩 佩 n,名詞,可搬,道具 girdle-ornament
+佩 佩 v,動詞,行為,動作 wear-ornament
+佻 佻 v,動詞,描写,態度 reckless
+佾 佾 n,名詞,主体,集団 row-of-dancers
+使 使 n,名詞,人,役割 envoy
+使 使 v,動詞,行為,使役 [make-to-do]
+侃 侃 v,動詞,描写,態度 straightforward
+來 來 来 n,名詞,人,名 [given-name]
+来 來 来 n,名詞,人,名 [given-name]
+來 來 来 v,動詞,行為,移動 come
+来 來 来 v,動詞,行為,移動 come
+侈 侈 n,名詞,描写,態度 extravagance
+侍 侍 v,動詞,行為,設置 serve
+侗 侗 v,動詞,描写,形質 immature
+供 供 v,動詞,行為,交流 supply
+依 依 v,動詞,行為,姿勢 lean-on
+侯 侯 n,名詞,人,役割 marquis
+侯 侯 p,助詞,句頭,* [modal-particle]
+侵 侵 v,動詞,行為,交流 invade
+便 便 v,動詞,描写,形質 convenient
+係 係 系 v,動詞,行為,動作 fasten
+促 促 v,動詞,行為,態度 press
+俊 俊 n,名詞,描写,態度 outstanding-talent
+俎 俎 n,名詞,可搬,道具 stand-for-sacrificial-meat
+俑 俑 n,名詞,可搬,道具 puppet
+俗 俗 n,名詞,描写,形質 vulgarness
+俛 俛 v,動詞,行為,態度 bow-the-head
+保 保 v,動詞,行為,交流 protect
+俟 俟 v,動詞,行為,動作 wait-for
+信 信 n,名詞,描写,態度 trustworthy
+信 信 v,動詞,行為,態度 believe
+修 修 v,動詞,行為,動作 improve
+俯 俯 v,動詞,行為,動作 bow-the-head
+俱 俱 v,副詞,範囲,共同 together
+倶 俱 v,副詞,範囲,共同 together
+俾 俾 v,動詞,行為,動作 cause
+伥 倀 伥 v,動詞,描写,態度 reckless
+倀 倀 伥 v,動詞,描写,態度 reckless
+併 倂 并 v,動詞,行為,動作 combine
+倂 倂 并 v,動詞,行為,動作 combine
+仓 倉 仓 n,名詞,固定物,建造物 storehouse
+倉 倉 仓 n,名詞,固定物,建造物 storehouse
+仓 倉 仓 v,動詞,描写,形質 dark-blue
+倉 倉 仓 v,動詞,描写,形質 dark-blue
+仓 倉 仓 v,動詞,行為,動作 store
+倉 倉 仓 v,動詞,行為,動作 store
+個 個 个 n,名詞,度量衡,* [general-classifier]
+倍 倍 v,動詞,描写,量 double
+倍 倍 v,動詞,行為,態度 turn-the-back-on
+倒 倒 v,動詞,行為,動作 overturn
+候 候 v,動詞,行為,動作 wait
+倚 倚 v,動詞,描写,態度 lean-on
+借 借 v,動詞,行為,交流 lend
+倦 倦 v,動詞,行為,態度 tired
+倨 倨 v,動詞,行為,態度 arrogant
+倩 倩 v,動詞,描写,形質 handsome
+倪 倪 n,名詞,描写,形質 young-and-weak
+伦 倫 伦 n,名詞,制度,儀礼 right-principles
+倫 倫 伦 n,名詞,制度,儀礼 right-principles
+偃 偃 n,名詞,人,名 [given-name]
+偃 偃 v,動詞,行為,姿勢 lay-down
+假 假 v,動詞,行為,動作 borrow
+偏 偏 v,動詞,行為,態度 slanting
+偕 偕 v,副詞,範囲,共同 together
+偝 偝 v,動詞,行為,態度 disobey
+健 健 v,動詞,描写,態度 strong
+偪 偪 v,動詞,行為,移動 encroach-on
+偲 偲 v,動詞,描写,態度 urgent
+侧 側 侧 n,名詞,固定物,関係 side
+側 側 侧 n,名詞,固定物,関係 side
+偶 偶 n,名詞,数量,* pair
+偶 偶 v,副詞,頻度,偶発 unexpectedly
+偷 偷 v,動詞,行為,動作 steal
+偸 偷 v,動詞,行為,動作 steal
+伪 偽 伪 v,動詞,描写,態度 counterfeit
+偽 偽 伪 v,動詞,描写,態度 counterfeit
+僞 偽 伪 v,動詞,描写,態度 counterfeit
+傅 傅 n,名詞,人,役割 tutor
+傅 傅 v,動詞,行為,交流 assist
+傑 傑 杰 n,名詞,描写,態度 hero
+杰 傑 杰 n,名詞,描写,態度 hero
+備 備 备 v,動詞,行為,設置 prepare
+备 備 备 v,動詞,行為,設置 prepare
+伝 傳 传 n,名詞,可搬,伝達 tradition
+传 傳 传 n,名詞,可搬,伝達 tradition
+傳 傳 传 n,名詞,可搬,伝達 tradition
+伝 傳 传 v,動詞,行為,伝達 transmit
+传 傳 传 v,動詞,行為,伝達 transmit
+傳 傳 传 v,動詞,行為,伝達 transmit
+伤 傷 伤 v,動詞,行為,動作 injure
+傷 傷 伤 v,動詞,行為,動作 injure
+倾 傾 倾 v,動詞,行為,動作 overturn
+傾 傾 倾 v,動詞,行為,動作 overturn
+偻 僂 偻 n,名詞,描写,形質 hunchback
+僂 僂 偻 n,名詞,描写,形質 hunchback
+仅 僅 仅 v,副詞,範囲,限定 only
+僅 僅 仅 v,副詞,範囲,限定 only
+僇 僇 v,動詞,行為,態度 insult
+僎 僎 n,名詞,人,名 [given-name]
+像 像 v,動詞,行為,動作 image
+侨 僑 侨 v,動詞,行為,動作 sojourn
+僑 僑 侨 v,動詞,行為,動作 sojourn
+仆 僕 仆 n,名詞,人,役割 servant
+僕 僕 仆 n,名詞,人,役割 servant
+仆 僕 仆 v,動詞,描写,態度 intricate
+僕 僕 仆 v,動詞,描写,態度 intricate
+仆固 僕固 仆固 n,名詞,人,姓氏 [surname]
+僕固 僕固 仆固 n,名詞,人,姓氏 [surname]
+僚 僚 n,名詞,人,役割 colleague
+偾 僨 偾 v,動詞,行為,得失 ruin
+僨 僨 偾 v,動詞,行為,得失 ruin
+僩 僩 v,動詞,描写,態度 martial
+価 價 价 n,名詞,可搬,成果物 price
+價 價 价 n,名詞,可搬,成果物 price
+僻 僻 n,名詞,描写,態度 oblique
+仪 儀 仪 n,名詞,人,関係 collegue
+儀 儀 仪 n,名詞,人,関係 collegue
+仪 儀 仪 n,名詞,制度,儀礼 etiquette
+儀 儀 仪 n,名詞,制度,儀礼 etiquette
+仪 儀 仪 v,助動詞,必要,* fitting
+儀 儀 仪 v,助動詞,必要,* fitting
+亿 億 亿 n,数詞,数字,* hundred-thousand
+億 億 亿 n,数詞,数字,* hundred-thousand
+亿 億 亿 v,動詞,行為,動作 remember
+億 億 亿 v,動詞,行為,動作 remember
+俭 儉 俭 v,動詞,行為,態度 thrifty
+倹 儉 俭 v,動詞,行為,態度 thrifty
+儉 儉 俭 v,動詞,行為,態度 thrifty
+儒 儒 n,名詞,主体,集団 Confucian
+儒 儒 n,名詞,人,役割 scholar
+优 優 优 v,動詞,描写,形質 abundant
+優 優 优 v,動詞,描写,形質 abundant
+储 儲 储 n,名詞,可搬,成果物 saving
+儲 儲 储 n,名詞,可搬,成果物 saving
+储 儲 储 v,動詞,行為,動作 collect
+儲 儲 储 v,動詞,行為,動作 collect
+储子 儲子 储子 n,名詞,人,複合的人名 Chuzi
+儲子 儲子 储子 n,名詞,人,複合的人名 Chuzi
+儳 儳 v,動詞,描写,態度 uneven
+俪 儷 俪 v,動詞,行為,設置 pair
+儷 儷 俪 v,動詞,行為,設置 pair
+傩 儺 傩 v,動詞,行為,儀礼 exorcise
+儺 儺 傩 v,動詞,行為,儀礼 exorcise
+俨 儼 俨 v,動詞,描写,態度 majestic
+儼 儼 俨 v,動詞,描写,態度 majestic
+允 允 v,動詞,描写,態度 sincere
+允 允 v,動詞,行為,交流 agree
+元 元 n,名詞,人,その他の人名 Yuan
+元 元 n,名詞,描写,形質 basic
+元丰 元豐 元丰 n,名詞,時,* [era-name]
+元豊 元豐 元丰 n,名詞,時,* [era-name]
+元豐 元豐 元丰 n,名詞,時,* [era-name]
+元祐 元祐 元祐 n,名詞,時,* [era-name]
+元祐 元祐 元祐 n,名詞,時,* [era-name]
+兄 兄 n,名詞,人,関係 elder-brother
+充 充 n,名詞,人,姓氏 [surname]
+充 充 v,動詞,行為,得失 fill
+兆 兆 n,名詞,描写,形質 omen
+兆 兆 n,数詞,数字,* billion
+先 先 n,名詞,固定物,関係 before
+先 先 v,動詞,行為,移動 precede
+光 光 n,名詞,描写,形質 light
+光 光 v,動詞,描写,形質 bright
+克 克 v,動詞,行為,動作 conquer
+儿 兒 儿 n,名詞,人,人 child
+児 兒 儿 n,名詞,人,人 child
+兒 兒 儿 n,名詞,人,人 child
+兎 兔 n,名詞,主体,動物 hare
+兔 兔 n,名詞,主体,動物 hare
+兕 兕 n,名詞,主体,動物 rhinoceros
+兢 兢 v,動詞,行為,態度 cautious
+入 入 v,動詞,行為,移動 enter
+內 內 内 n,名詞,固定物,関係 inside
+内 內 内 n,名詞,固定物,関係 inside
+內 內 内 v,動詞,行為,動作 include
+内 內 内 v,動詞,行為,動作 include
+全 全 v,動詞,行為,動作 complete
+両 兩 两 n,名詞,可搬,乗り物 chariot
+两 兩 两 n,名詞,可搬,乗り物 chariot
+兩 兩 两 n,名詞,可搬,乗り物 chariot
+両 兩 两 n,名詞,度量衡,* [classifier-for-carriages]
+两 兩 两 n,名詞,度量衡,* [classifier-for-carriages]
+兩 兩 两 n,名詞,度量衡,* [classifier-for-carriages]
+両 兩 两 n,名詞,数量,* pair
+两 兩 两 n,名詞,数量,* pair
+兩 兩 两 n,名詞,数量,* pair
+八 八 n,数詞,数字,* eight
+八十 八十 n,数詞,数,* eighty
+八十一 八十一 n,数詞,数,* eighty-one
+八十七 八十七 n,数詞,数,* eighty-seven
+八十三 八十三 n,数詞,数,* eighty-three
+八十九 八十九 n,数詞,数,* eighty-nine
+八十二 八十二 n,数詞,数,* eighty-two
+八十五 八十五 n,数詞,数,* eighty-five
+八十八 八十八 n,数詞,数,* eighty-eight
+八十六 八十六 n,数詞,数,* eighty-six
+八十四 八十四 n,数詞,数,* eighty-four
+八百 八百 n,数詞,数,* eight-hundred
+八百六十七 八百六十七 n,数詞,数,* eight-hundred-and-sixty-seven
+公 公 n,名詞,人,役割 duke
+公 公 v,動詞,描写,形質 public
+公伯 公伯 n,名詞,人,姓氏 [surname]
+公仪子 公儀子 公仪子 n,名詞,人,複合的人名 Gongyizi
+公儀子 公儀子 公仪子 n,名詞,人,複合的人名 Gongyizi
+公冶 公冶 n,名詞,人,姓氏 [surname]
+公刘 公劉 公刘 n,名詞,人,その他の人名 Duke-Liu
+公劉 公劉 公刘 n,名詞,人,その他の人名 Duke-Liu
+公叔 公叔 n,名詞,人,姓氏 [surname]
+公山 公山 n,名詞,人,姓氏 [surname]
+公明 公明 n,名詞,人,姓氏 [surname]
+公綽 公綽 公绰 n,名詞,人,名 [given-name]
+公绰 公綽 公绰 n,名詞,人,名 [given-name]
+公行子 公行子 n,名詞,人,その他の人名 Gongxingzi
+公西 公西 n,名詞,人,姓氏 [surname]
+公輸子 公輸子 公输子 n,名詞,人,複合的人名 Gongshuzi
+公输子 公輸子 公输子 n,名詞,人,複合的人名 Gongshuzi
+公都子 公都子 公都子 n,名詞,人,複合的人名 Gongduzi
+六 六 n,数詞,数字,* six
+六十 六十 n,数詞,数,* sixty
+六十一 六十一 n,数詞,数,* sixty-one
+六十七 六十七 n,数詞,数,* sixty-seven
+六十三 六十三 n,数詞,数,* sixty-three
+六十九 六十九 n,数詞,数,* sixty-nine
+六十二 六十二 n,数詞,数,* sixty-two
+六十五 六十五 n,数詞,数,* sixty-five
+六十八 六十八 n,数詞,数,* sixty-eight
+六十六 六十六 n,数詞,数,* sixty-six
+六十四 六十四 n,数詞,数,* sixty-four
+六百 六百 n,数詞,数,* six-hundred
+六百二十九 六百二十九 n,数詞,数,* six-hundred-and-twenty-nine
+兮 兮 p,助詞,句末,* [filler-character]
+兮 兮 p,接尾辞,*,* [suffix]
+兮 兮 v,前置詞,基盤,* at
+共 共 v,動詞,行為,交流 join-the-hands
+共工 共工 n,名詞,人,名 [given-name]
+兵 兵 n,名詞,人,役割 soldier
+其 其 n,代名詞,人称,起格 [3PRON]
+其 其 p,助詞,句末,* [final-particle]
+其 其 p,助詞,句頭,* [modal-particle]
+具 具 n,名詞,可搬,道具 utensil
+具 具 v,副詞,範囲,共同 together
+具 具 v,動詞,行為,設置 furnish
+典 典 n,名詞,制度,儀礼 standard
+兼 兼 v,動詞,行為,動作 combine
+冀 冀 v,動詞,行為,態度 hope-for
+冉子 冉子 n,名詞,人,名 [given-name]
+再 再 v,副詞,頻度,重複 twice
+冑 冑 胄 n,名詞,可搬,道具 helmet
+冒 冒 n,名詞,可搬,道具 cap
+冒 冒 v,動詞,行為,動作 cover
+冕 冕 n,名詞,可搬,道具 ceremonial-cap
+冕 冕 v,動詞,行為,動作 wear-ceremonial-cap
+冠 冠 n,名詞,人,姓氏 [surname]
+冠 冠 n,名詞,可搬,道具 cap
+冠 冠 v,動詞,行為,儀礼 cap
+冢 冢 n,名詞,固定物,建造物 tomb
+冥 冥 n,名詞,人,名 [given-name]
+冥 冥 v,動詞,描写,形質 dark
+冬 冬 n,名詞,時,* winter
+冰 冰 n,名詞,固定物,地形 ice
+氷 冰 n,名詞,固定物,地形 ice
+冶 冶 v,動詞,行為,動作 smelt
+冻 凍 冻 v,動詞,描写,形質 freeze
+凍 凍 冻 v,動詞,描写,形質 freeze
+凝 凝 v,動詞,行為,動作 freeze
+几 几 n,名詞,可搬,道具 small-table
+凡 凡 v,動詞,描写,形質 ordinary
+凰 凰 n,名詞,主体,動物 female-phoenix
+凯 凱 凯 v,動詞,描写,態度 triumphant
+凱 凱 凯 v,動詞,描写,態度 triumphant
+凯风 凱風 凯风 n,名詞,主体,書物 [book-name]
+凱風 凱風 凯风 n,名詞,主体,書物 [book-name]
+凶 凶 v,動詞,描写,形質 ill-omened
+出 出 v,動詞,行為,移動 go-out
+函 函 n,名詞,可搬,道具 envelope
+刀 刀 n,名詞,可搬,道具 knife
+刃 刃 n,名詞,可搬,道具 blade
+分 分 n,名詞,数量,* portion
+分 分 v,動詞,行為,設置 divide
+切 切 v,動詞,描写,形質 every
+切 切 v,動詞,描写,態度 earnest
+切 切 v,動詞,行為,動作 cut
+刑 刑 n,名詞,制度,儀礼 punishment
+刑 刑 v,動詞,行為,役割 punish
+列 列 n,名詞,主体,集団 row
+列 列 v,動詞,行為,設置 arrange-in-a-row
+初 初 n,名詞,時,* at-the-beginning
+別 別 别 v,動詞,行為,交流 separate
+别 別 别 v,動詞,行為,交流 separate
+利 利 n,名詞,描写,形質 profit
+利 利 v,動詞,描写,形質 sharp
+利 利 v,動詞,行為,得失 profit
+到 到 v,動詞,行為,移動 reach
+制 制 n,名詞,制度,儀礼 regulation
+制 制 v,動詞,行為,設置 cut-out
+刹 刹 剎 n,名詞,主体,機関 Buddhist-temple
+剎 刹 剎 n,名詞,主体,機関 Buddhist-temple
+刺 刺 v,動詞,行為,動作 pierce
+刻 刻 v,動詞,行為,動作 engrave
+则 則 则 n,名詞,制度,儀礼 standard
+則 則 则 n,名詞,制度,儀礼 standard
+则 則 则 v,副詞,時相,緊接 then
+則 則 则 v,副詞,時相,緊接 then
+则 則 则 v,動詞,行為,動作 act-on
+則 則 则 v,動詞,行為,動作 act-on
+削 削 v,動詞,行為,動作 pare
+前 前 n,名詞,固定物,関係 front
+前 前 n,名詞,時,* before
+刚 剛 刚 v,動詞,描写,形質 hard
+剛 剛 刚 v,動詞,描写,形質 hard
+剪 剪 n,名詞,可搬,道具 scissors
+剪 剪 v,動詞,行為,動作 cut-off
+副 副 v,動詞,行為,交流 aid
+割 割 v,動詞,行為,動作 cut
+创 創 创 v,動詞,行為,設置 create
+創 創 创 v,動詞,行為,設置 create
+剑 劍 剑 n,名詞,可搬,道具 sword
+剣 劍 剑 n,名詞,可搬,道具 sword
+劍 劍 剑 n,名詞,可搬,道具 sword
+力 力 n,名詞,不可譲,身体 strength
+力 力 v,動詞,行為,動作 force
+力牧 力牧 n,名詞,人,名 [given-name]
+功 功 n,名詞,可搬,成果物 achievement
+加 加 v,動詞,行為,得失 add
+助 助 v,動詞,行為,交流 help
+劫 劫 v,動詞,行為,交流 rob
+勃 勃 v,動詞,描写,形質 sudden
+勇 勇 n,名詞,描写,態度 bravery
+勇 勇 v,動詞,描写,態度 brave
+动 動 动 v,動詞,行為,動作 move
+動 動 动 v,動詞,行為,動作 move
+务 務 务 v,動詞,行為,動作 work-at
+務 務 务 v,動詞,行為,動作 work-at
+勝 勝 胜 v,副詞,範囲,総括 fully
+胜 勝 胜 v,副詞,範囲,総括 fully
+勝 勝 胜 v,動詞,行為,交流 conquer
+胜 勝 胜 v,動詞,行為,交流 conquer
+劳 勞 劳 n,名詞,可搬,成果物 work
+労 勞 劳 n,名詞,可搬,成果物 work
+勞 勞 劳 n,名詞,可搬,成果物 work
+劳 勞 劳 v,動詞,描写,境遇 work
+労 勞 劳 v,動詞,描写,境遇 work
+勞 勞 劳 v,動詞,描写,境遇 work
+募 募 v,動詞,行為,交流 recruit
+势 勢 势 n,名詞,行為,* power
+勢 勢 势 n,名詞,行為,* power
+勋 勳 勋 n,名詞,人,名 [given-name]
+勛 勳 勋 n,名詞,人,名 [given-name]
+勲 勳 勋 n,名詞,人,名 [given-name]
+勳 勳 勋 n,名詞,人,名 [given-name]
+勋 勳 勋 n,名詞,可搬,成果物 merit
+勛 勳 勋 n,名詞,可搬,成果物 merit
+勲 勳 勋 n,名詞,可搬,成果物 merit
+勳 勳 勋 n,名詞,可搬,成果物 merit
+励 勵 励 v,動詞,行為,交流 encourage
+勵 勵 励 v,動詞,行為,交流 encourage
+劝 勸 劝 v,動詞,行為,交流 urge
+勸 勸 劝 v,動詞,行為,交流 urge
+勺 勺 n,名詞,可搬,道具 ladle
+勾践 勾踐 勾践 n,名詞,人,名 [given-name]
+勾踐 勾踐 勾践 n,名詞,人,名 [given-name]
+勿 勿 v,副詞,否定,禁止 don't
+包 包 v,動詞,行為,動作 wrap
+匈奴 匈奴 n,名詞,主体,集団 Xiongnu
+匍 匍 v,動詞,行為,移動 crawl
+匏 匏 n,名詞,固定物,樹木 gourd
+匐 匐 v,動詞,行為,移動 crawl
+化 化 v,動詞,変化,性質 transform
+北 北 n,名詞,固定物,関係 north
+北 北 v,動詞,行為,移動 go-north
+北宫 北宮 北宫 n,名詞,人,姓氏 [surname]
+北宮 北宮 北宫 n,名詞,人,姓氏 [surname]
+匠 匠 n,名詞,人,役割 carpenter
+匡 匡 n,名詞,固定物,地名 [place-name]
+匡 匡 v,動詞,行為,動作 rectify
+匪 匪 n,名詞,可搬,道具 box
+匪 匪 v,副詞,否定,体言否定 [negator-of-nouns]
+匪 匪 v,動詞,行為,動作 jail
+匮 匱 匮 n,名詞,可搬,道具 box
+匱 匱 匮 n,名詞,可搬,道具 box
+匮 匱 匮 v,動詞,描写,量 deficient
+匱 匱 匮 v,動詞,描写,量 deficient
+匵 匵 n,名詞,可搬,道具 coffer
+匹 匹 n,名詞,度量衡,* [animal-classifier]
+匹 匹 v,動詞,描写,量 single
+匹䃅 匹磾 匹䃅 n,名詞,人,名 [given-name]
+匹磾 匹磾 匹䃅 n,名詞,人,名 [given-name]
+匿 匿 v,動詞,行為,動作 hide
+区 區 区 v,動詞,行為,分類 classify
+區 區 区 v,動詞,行為,分類 classify
+十 十 n,数詞,数字,* ten
+十一 十一 n,数詞,数,* eleven
+十七 十七 n,数詞,数,* seventeen
+十三 十三 n,数詞,数,* thirteen
+十九 十九 n,数詞,数,* nineteen
+十二 十二 n,数詞,数,* twelve
+十五 十五 n,数詞,数,* fifteen
+十八 十八 n,数詞,数,* eighteen
+十六 十六 n,数詞,数,* sixteen
+十四 十四 n,数詞,数,* fourteen
+十万 十萬 十万 n,数詞,数,* hundred-thousand
+十萬 十萬 十万 n,数詞,数,* hundred-thousand
+千 千 n,数詞,数字,* thousand
+千七百七十三 千七百七十三 n,数詞,数,* one-thousand-seven-hundred-seventy-three
+千万 千萬 千万 n,数詞,数,* ten-million
+千萬 千萬 千万 n,数詞,数,* ten-million
+升 升 n,名詞,度量衡,* [capacity-unit]
+升 升 v,動詞,行為,動作 rise
+午 午 n,名詞,時,* noon
+午 午 v,動詞,描写,態度 opposed
+半 半 v,動詞,描写,量 half
+卒 卒 n,名詞,人,役割 soldier
+卒 卒 v,動詞,変化,生物 end
+卓 卓 v,動詞,描写,形質 tall
+协 協 协 v,動詞,行為,交流 cooperate
+協 協 协 v,動詞,行為,交流 cooperate
+南 南 n,名詞,人,姓氏 [surname]
+南 南 n,名詞,固定物,関係 south
+南 南 v,動詞,行為,移動 go-south
+南子 南子 n,名詞,人,複合的人名 Nanzi
+南宫 南宮 南宫 n,名詞,人,姓氏 [surname]
+南宮 南宮 南宫 n,名詞,人,姓氏 [surname]
+南容 南容 n,名詞,人,名 [given-name]
+博 博 v,動詞,描写,形質 broad
+博 博 v,動詞,行為,交流 play-board-game
+卜 卜 n,名詞,人,姓氏 [surname]
+卜 卜 v,動詞,行為,儀礼 divine-by-cracking-a-bone-or-shell
+卞 卞 n,名詞,固定物,地名 [place-name]
+占 占 v,動詞,行為,儀礼 divine
+占 占 v,動詞,行為,動作 occupy
+卦 卦 n,名詞,制度,儀礼 trigram
+印 印 n,名詞,可搬,道具 seal
+危 危 v,動詞,描写,形質 dangerous
+即 即 v,副詞,時相,緊接 immediately
+卽 即 v,副詞,時相,緊接 immediately
+即 即 v,動詞,行為,動作 go-up-to
+卽 即 v,動詞,行為,動作 go-up-to
+即墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
+即墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
+卽墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
+卽墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
+卷 卷 v,動詞,行為,動作 roll-up
+巻 卷 v,動詞,行為,動作 roll-up
+却 卻 却 v,動詞,行為,交流 reject
+卻 卻 却 v,動詞,行為,交流 reject
+卿 卿 n,名詞,人,役割 minister
+厄 厄 n,名詞,描写,形質 straits
+厄 厄 v,動詞,描写,境遇 in-straits
+厎 厎 v,動詞,行為,移動 reach
+厚 厚 v,動詞,描写,量 thick
+原 原 n,名詞,人,姓氏 [surname]
+原 原 n,名詞,固定物,地名 [place-name]
+原 原 n,名詞,固定物,関係 source
+厕 厠 厕 n,名詞,固定物,建造物 latrine
+厠 厠 厕 n,名詞,固定物,建造物 latrine
+廁 厠 厕 n,名詞,固定物,建造物 latrine
+厤 厤 历 n,名詞,天象,天文 calendar
+厥 厥 n,代名詞,人称,他 [3PRON]
+厌 厭 厌 v,動詞,行為,態度 satiated
+厭 厭 厌 v,動詞,行為,態度 satiated
+厉 厲 厉 n,名詞,人,その他の人名 Li
+厲 厲 厉 n,名詞,人,その他の人名 Li
+厉 厲 厉 n,名詞,人,名 [given-name]
+厲 厲 厉 n,名詞,人,名 [given-name]
+厉 厲 厉 v,動詞,描写,態度 stern
+厲 厲 厉 v,動詞,描写,態度 stern
+去 去 v,動詞,行為,移動 go-away
+参 參 参 n,名詞,人,名 [given-name]
+參 參 参 n,名詞,人,名 [given-name]
+参 參 参 n,名詞,天象,天文 Orion's-Belt
+參 參 参 n,名詞,天象,天文 Orion's-Belt
+参 參 参 v,動詞,行為,役割 consult
+參 參 参 v,動詞,行為,役割 consult
+又 又 v,副詞,頻度,重複 also
+及 及 v,前置詞,関係,* and
+及 及 v,動詞,行為,移動 reach
+友 友 n,名詞,人,関係 friend
+友 友 v,動詞,行為,交流 friend
+反 反 v,動詞,行為,動作 turn-over
+叔 叔 n,名詞,人,関係 father's-younger-brother
+叔圉 叔圉 n,名詞,人,名 [given-name]
+叔夏 叔夏 n,名詞,人,名 [given-name]
+叔敖 叔敖 n,名詞,人,名 [given-name]
+叔斉 叔齊 叔齐 n,名詞,人,複合的人名 Shuqi
+叔齊 叔齊 叔齐 n,名詞,人,複合的人名 Shuqi
+叔齐 叔齊 叔齐 n,名詞,人,複合的人名 Shuqi
+取 取 v,動詞,行為,得失 take
+受 受 v,動詞,行為,得失 receive
+叛 叛 v,動詞,行為,交流 turn-against
+叟 叟 n,名詞,人,人 old-gentleman
+丛 叢 丛 n,名詞,固定物,樹木 thicket
+叢 叢 丛 n,名詞,固定物,樹木 thicket
+丛 叢 丛 v,動詞,行為,動作 crowd-together
+叢 叢 丛 v,動詞,行為,動作 crowd-together
+口 口 n,名詞,不可譲,身体 mouth
+古 古 n,名詞,人,その他の人名 Gu
+古 古 n,名詞,時,* olden-times
+句 句 n,名詞,描写,形質 hook
+叩 叩 v,動詞,行為,動作 strike
+只 只 p,助詞,句頭,* [modal-particle]
+召 召 v,動詞,行為,交流 summon
+召南 召南 n,名詞,固定物,地名 [place-name]
+可 可 v,助動詞,可能,* possible
+可 可 v,動詞,描写,態度 permissible
+史 史 n,名詞,人,役割 recorder
+右 右 n,名詞,固定物,関係 right-hand
+右 右 v,動詞,行為,動作 turn-right
+司 司 n,名詞,人,役割 controller
+司 司 v,動詞,行為,役割 supervise
+吁 吁 p,感嘆詞,*,* sigh
+各 各 v,副詞,範囲,限定 each
+合 合 v,動詞,行為,設置 fit
+吉 吉 v,動詞,描写,形質 auspicious
+同 同 n,名詞,人,名 [given-name]
+同 同 v,副詞,範囲,共同 together
+同 同 v,動詞,描写,形質 same
+名 名 n,名詞,不可譲,属性 name
+名 名 v,動詞,描写,形質 famous
+名 名 v,動詞,行為,伝達 name
+后 后 n,名詞,人,役割 ruler
+后 后 n,名詞,時,* after
+后稷 后稷 n,名詞,人,複合的人名 Houji
+吏 吏 n,名詞,人,役割 clerk
+吐蕃 吐蕃 n,名詞,主体,集団 Tufan
+君 君 n,名詞,人,役割 ruler
+君 君 v,動詞,行為,役割 govern
+君子 君子 n,名詞,人,役割 lord
+君陈 君陳 君陈 n,名詞,主体,書物 [book-name]
+君陳 君陳 君陈 n,名詞,主体,書物 [book-name]
+吝 吝 v,動詞,行為,態度 stingy
+吞 吞 v,動詞,行為,飲食 swallow
+呑 吞 v,動詞,行為,飲食 swallow
+吠 吠 v,動詞,行為,動作 bark
+否 否 v,動詞,描写,態度 not-so
+含 含 v,動詞,行為,得失 hold
+吳 吳 吴 n,名詞,主体,国名 [country-name]
+吴 吳 吴 n,名詞,主体,国名 [country-name]
+呉 吳 吴 n,名詞,主体,国名 [country-name]
+吳孟子 吳孟子 吴孟子 n,名詞,人,複合的人名 Wumengzi
+吴孟子 吳孟子 吴孟子 n,名詞,人,複合的人名 Wumengzi
+呉孟子 吳孟子 吴孟子 n,名詞,人,複合的人名 Wumengzi
+吸 吸 v,動詞,行為,動作 inhale
+吾 吾 n,代名詞,人称,起格 [1PRON]
+吿 吿 告 v,動詞,行為,伝達 proclaim
+告 吿 告 v,動詞,行為,伝達 proclaim
+吿子 吿子 告子 n,名詞,人,複合的人名 Gaozi
+告子 吿子 告子 n,名詞,人,複合的人名 Gaozi
+吕 呂 吕 n,名詞,可搬,道具 pitch-pipe
+呂 呂 吕 n,名詞,可搬,道具 pitch-pipe
+周 周 n,名詞,主体,国名 [country-name]
+周 周 v,動詞,行為,動作 circuit
+周南 周南 n,名詞,固定物,地名 [place-name]
+味 味 n,名詞,描写,形質 taste
+呼 呼 p,感嘆詞,*,* alas
+呼 呼 v,動詞,行為,伝達 call
+命 命 n,名詞,不可譲,身体 life
+命 命 n,名詞,可搬,伝達 decree
+命 命 v,動詞,行為,伝達 decree
+和 和 n,名詞,可搬,道具 bell
+和 和 v,動詞,描写,形質 harmonious
+咎 咎 v,動詞,行為,態度 blame
+呪 咒 v,動詞,行為,動作 curse
+咒 咒 v,動詞,行為,動作 curse
+咤 咤 v,動詞,行為,動作 upbraid
+咨 咨 p,感嘆詞,*,* sigh
+咸 咸 n,名詞,人,姓氏 [surname]
+咸 咸 v,副詞,範囲,総括 all
+咻 咻 v,動詞,行為,動作 shout
+呙 咼 呙 v,動詞,行為,動作 chat
+咼 咼 呙 v,動詞,行為,動作 chat
+咽 咽 n,名詞,不可譲,身体 throat
+咽 咽 v,動詞,行為,飲食 swallow
+哀 哀 n,名詞,人,その他の人名 Ai
+哀 哀 v,動詞,描写,態度 mourn
+哀姜 哀姜 n,名詞,人,名 [given-name]
+品 品 n,名詞,可搬,道具 goods
+品 品 n,名詞,固定物,関係 class
+哂 哂 v,動詞,行為,動作 smile
+哇 哇 v,動詞,行為,動作 vomit
+哉 哉 p,助詞,句末,* [exclamatory-particle]
+员 員 员 n,名詞,人,名 [given-name]
+員 員 员 n,名詞,人,名 [given-name]
+员 員 员 v,動詞,描写,形質 circle
+員 員 员 v,動詞,描写,形質 circle
+哭 哭 v,動詞,行為,動作 cry
+哲 哲 v,動詞,描写,態度 wise
+哿 哿 v,動詞,描写,形質 happy
+唐 唐 n,名詞,主体,国名 [country-name]
+唐 唐 n,名詞,人,名 [given-name]
+唐 唐 v,動詞,行為,態度 boast
+唯 唯 v,副詞,範囲,限定 only
+商 商 n,名詞,主体,国名 [country-name]
+商 商 n,名詞,人,役割 merchant
+問 問 问 v,動詞,行為,伝達 ask
+问 問 问 v,動詞,行為,伝達 ask
+啜 啜 v,動詞,行為,飲食 sip
+启 啟 启 n,名詞,人,名 [given-name]
+啓 啟 启 n,名詞,人,名 [given-name]
+啟 啟 启 n,名詞,人,名 [given-name]
+启 啟 启 v,動詞,行為,動作 open
+啓 啟 启 v,動詞,行為,動作 open
+啟 啟 启 v,動詞,行為,動作 open
+啻 啻 v,副詞,範囲,限定 only
+啼 啼 v,動詞,行為,動作 cry
+啾 啾 n,名詞,可搬,伝達 chirp
+善 善 n,名詞,描写,態度 good
+善 善 v,動詞,描写,態度 good
+喘 喘 v,動詞,行為,動作 pant
+喜 喜 v,動詞,行為,動作 pleased
+喟 喟 v,動詞,行為,態度 sigh
+喧 喧 v,動詞,行為,動作 clamour
+喩 喩 喻 v,動詞,行為,伝達 explain
+喻 喩 喻 v,動詞,行為,伝達 explain
+䘮 喪 丧 n,名詞,制度,儀礼 mourning
+丧 喪 丧 n,名詞,制度,儀礼 mourning
+喪 喪 丧 n,名詞,制度,儀礼 mourning
+䘮 喪 丧 v,動詞,行為,儀礼 mourn
+丧 喪 丧 v,動詞,行為,儀礼 mourn
+喪 喪 丧 v,動詞,行為,儀礼 mourn
+䘮 喪 丧 v,動詞,行為,得失 lose
+丧 喪 丧 v,動詞,行為,得失 lose
+喪 喪 丧 v,動詞,行為,得失 lose
+乔 喬 乔 v,動詞,描写,形質 high
+喬 喬 乔 v,動詞,描写,形質 high
+喭 喭 v,動詞,描写,態度 coarse
+单 單 单 n,名詞,数量,* single
+単 單 单 n,名詞,数量,* single
+單 單 单 n,名詞,数量,* single
+单于 單于 单于 n,名詞,人,名 [given-name]
+単于 單于 单于 n,名詞,人,名 [given-name]
+單于 單于 单于 n,名詞,人,名 [given-name]
+嗅 嗅 v,動詞,行為,動作 sniff
+啬 嗇 啬 v,動詞,行為,態度 stingy
+嗇 嗇 啬 v,動詞,行為,態度 stingy
+呜 嗚 呜 p,感嘆詞,*,* ah
+嗚 嗚 呜 p,感嘆詞,*,* ah
+嗜 嗜 v,動詞,行為,態度 enjoy
+嗟 嗟 p,感嘆詞,*,* sigh
+嗣 嗣 n,名詞,人,役割 succession
+嗣 嗣 v,動詞,行為,役割 succeed
+嘉 嘉 v,動詞,描写,態度 good
+嘉祐 嘉祐 嘉祐 n,名詞,人,名 [given-name]
+嘉祐 嘉祐 嘉祐 n,名詞,人,名 [given-name]
+嘉祐 嘉祐 嘉祐 n,名詞,人,名 [given-name]
+嘐 嘐 v,動詞,描写,態度 pompous
+嘑 嘑 呼 v,動詞,行為,動作 shout
+嘒 嘒 v,動詞,描写,形質 tiny
+呕 嘔 呕 v,動詞,行為,動作 vomit
+嘔 嘔 呕 v,動詞,行為,動作 vomit
+嘗 嘗 尝 n,名詞,制度,儀礼 harvest-festival
+尝 嘗 尝 n,名詞,制度,儀礼 harvest-festival
+嘗 嘗 尝 v,副詞,時相,過去 once
+尝 嘗 尝 v,副詞,時相,過去 once
+嘗 嘗 尝 v,動詞,行為,動作 taste
+尝 嘗 尝 v,動詞,行為,動作 taste
+嘬 嘬 v,動詞,行為,飲食 bite
+噫 噫 p,感嘆詞,*,* alas
+噭 噭 v,動詞,行為,動作 shout
+嚭 嚭 n,名詞,人,名 [given-name]
+嚭 嚭 v,動詞,描写,態度 great
+向 嚮 向 v,動詞,行為,設置 face-to
+嚮 嚮 向 v,動詞,行為,設置 face-to
+严 嚴 严 v,動詞,行為,態度 stern
+厳 嚴 严 v,動詞,行為,態度 stern
+嚴 嚴 严 v,動詞,行為,態度 stern
+嚣 囂 嚣 v,動詞,描写,態度 clamour
+囂 囂 嚣 v,動詞,描写,態度 clamour
+嚢 囊 n,名詞,可搬,道具 bag
+囊 囊 n,名詞,可搬,道具 bag
+囚 囚 v,動詞,行為,交流 imprison
+四 四 n,数詞,数字,* four
+四十 四十 n,数詞,数,* forty
+四十一 四十一 n,数詞,数,* forty-one
+四十七 四十七 n,数詞,数,* forty-seven
+四十三 四十三 n,数詞,数,* forty-three
+四十九 四十九 n,数詞,数,* forty-nine
+四十二 四十二 n,数詞,数,* forty-two
+四十五 四十五 n,数詞,数,* forty-five
+四十八 四十八 n,数詞,数,* forty-eight
+四十六 四十六 n,数詞,数,* forty-six
+四十四 四十四 n,数詞,数,* forty-four
+四百三十二 四百三十二 n,数詞,数,* four-hundred-and-thirty-two
+四百二十六 四百二十六 n,数詞,数,* four-hundred-and-twenty-six
+四百六十九 四百六十九 n,数詞,数,* four-hundred-and-sixty-nine
+四百六十四 四百六十四 n,数詞,数,* four-hundred-and-sixty-four
+四万 四萬 四万 n,数詞,数,* forty-thousand
+四萬 四萬 四万 n,数詞,数,* forty-thousand
+四万五千六百 四萬五千六百 四万五千六百 n,数詞,数,* forty-five-thousand-and-six-hundred
+四萬五千六百 四萬五千六百 四万五千六百 n,数詞,数,* forty-five-thousand-and-six-hundred
+回 回 n,名詞,人,名 [given-name]
+回 回 v,動詞,行為,動作 revolve
+因 因 v,副詞,判断,確定 because
+因 因 v,動詞,行為,動作 depend-on
+困 困 v,動詞,描写,境遇 distressed
+固 固 v,副詞,判断,確定 certainly
+固 固 v,動詞,行為,動作 solidify
+囿 囿 n,名詞,固定物,建造物 park
+圃 圃 n,名詞,固定物,建造物 garden
+圉 圉 n,名詞,固定物,建造物 prison
+国 國 国 n,名詞,主体,集団 country
+國 國 国 n,名詞,主体,集団 country
+国風 國風 国风 n,名詞,主体,書物 [book-name]
+国风 國風 国风 n,名詞,主体,書物 [book-name]
+國風 國風 国风 n,名詞,主体,書物 [book-name]
+囲 圍 围 v,動詞,行為,動作 surround
+围 圍 围 v,動詞,行為,動作 surround
+圍 圍 围 v,動詞,行為,動作 surround
+円 園 园 n,名詞,固定物,建造物 garden
+园 園 园 n,名詞,固定物,建造物 garden
+園 園 园 n,名詞,固定物,建造物 garden
+図 圖 图 n,名詞,可搬,伝達 diagram
+图 圖 图 n,名詞,可搬,伝達 diagram
+圖 圖 图 n,名詞,可搬,伝達 diagram
+図 圖 图 v,動詞,行為,動作 plan
+图 圖 图 v,動詞,行為,動作 plan
+圖 圖 图 v,動詞,行為,動作 plan
+圜 圜 n,名詞,固定物,関係 round
+土 土 n,名詞,固定物,地形 earth
+在 在 v,動詞,存在,存在 be-present
+圭 圭 n,名詞,人,名 [given-name]
+圭 圭 n,名詞,可搬,道具 sceptre
+地 地 n,名詞,固定物,地形 earth
+地皇 地皇 n,名詞,人,名 [given-name]
+均 均 v,動詞,描写,形質 equal
+坊 坊 n,名詞,固定物,建造物 dike
+坊 坊 v,動詞,行為,動作 protect-against
+坐 坐 n,名詞,可搬,道具 seat
+坐 坐 v,動詞,行為,動作 sit
+坤乾 坤乾 n,名詞,主体,書物 [book-name]
+坦 坦 v,動詞,描写,形質 level
+坫 坫 n,名詞,可搬,道具 earthen-shelf
+垂 垂 v,動詞,行為,動作 hang-down
+埀 垂 v,動詞,行為,動作 hang-down
+垂棘 垂棘 n,名詞,固定物,地名 [place-name]
+埀棘 垂棘 n,名詞,固定物,地名 [place-name]
+垣 垣 n,名詞,固定物,建造物 wall
+垤 垤 n,名詞,固定物,地形 anthill
+垤泽 垤澤 垤泽 n,名詞,固定物,地名 [place-name]
+垤澤 垤澤 垤泽 n,名詞,固定物,地名 [place-name]
+埋 埋 v,動詞,行為,動作 bury
+城 城 n,名詞,固定物,建造物 wall
+城 城 v,動詞,行為,設置 wall
+域 域 n,名詞,制度,場 region
+域 域 v,動詞,行為,設置 boundary
+執 執 执 v,動詞,行為,動作 hold
+执 執 执 v,動詞,行為,動作 hold
+培 培 v,動詞,行為,動作 earth-up
+基 基 n,名詞,固定物,建造物 foundation
+埽 埽 v,動詞,行為,動作 sweep
+堂 堂 n,名詞,固定物,建造物 hall
+坚 堅 坚 v,動詞,描写,形質 hard
+堅 堅 坚 v,動詞,描写,形質 hard
+堪 堪 v,動詞,描写,態度 bear
+堯 堯 尧 n,名詞,人,名 [given-name]
+尧 堯 尧 n,名詞,人,名 [given-name]
+尭 堯 尧 n,名詞,人,名 [given-name]
+堯典 堯典 尧典 n,名詞,主体,書物 [book-name]
+尧典 堯典 尧典 n,名詞,主体,書物 [book-name]
+尭典 堯典 尧典 n,名詞,主体,書物 [book-name]
+報 報 报 v,動詞,行為,交流 report-back
+报 報 报 v,動詞,行為,交流 report-back
+场 場 场 n,名詞,固定物,建造物 meeting-place
+場 場 场 n,名詞,固定物,建造物 meeting-place
+堵 堵 n,名詞,度量衡,* [unit-length-of-wall]
+塗 塗 涂 n,名詞,固定物,建造物 road
+涂 塗 涂 n,名詞,固定物,建造物 road
+塞 塞 n,名詞,固定物,建造物 frontier
+塞 塞 v,動詞,行為,設置 block-up
+塡 塡 填 v,動詞,行為,動作 block-up
+填 塡 填 v,動詞,行為,動作 block-up
+墁 墁 n,名詞,可搬,道具 trowel
+境 境 n,名詞,固定物,関係 boundary
+墉 墉 n,名詞,固定物,建造物 high-wall
+垫 墊 垫 n,名詞,人,名 [given-name]
+墊 墊 垫 n,名詞,人,名 [given-name]
+墓 墓 n,名詞,固定物,建造物 grave
+坠 墜 坠 v,動詞,行為,動作 fall
+墜 墜 坠 v,動詞,行為,動作 fall
+墠 墠 𫮃 n,名詞,固定物,建造物 levelled-area-for-sacrifice
+𫮃 墠 𫮃 n,名詞,固定物,建造物 levelled-area-for-sacrifice
+墦 墦 n,名詞,固定物,建造物 grave-mound
+堕 墮 堕 v,動詞,行為,動作 fall
+墮 墮 堕 v,動詞,行為,動作 fall
+壁 壁 n,名詞,固定物,建造物 wall
+壑 壑 n,名詞,固定物,建造物 ditch
+圹 壙 圹 n,名詞,固定物,地形 grave-pit
+壙 壙 圹 n,名詞,固定物,地形 grave-pit
+坏 壞 坏 v,動詞,変化,性質 collapse
+壊 壞 坏 v,動詞,変化,性質 collapse
+壞 壞 坏 v,動詞,変化,性質 collapse
+壌 壤 n,名詞,人,名 [given-name]
+壤 壤 n,名詞,人,名 [given-name]
+壌 壤 n,名詞,固定物,地形 soil
+壤 壤 n,名詞,固定物,地形 soil
+士 士 n,名詞,人,名 [given-name]
+士 士 n,名詞,人,役割 officer
+壬 壬 n,数詞,干支,* [9th-stem]
+壬午 壬午 n,数詞,干支,* [19th-sexagenary]
+壬子 壬子 n,数詞,干支,* [49th-sexagenary]
+壬寅 壬寅 n,数詞,干支,* [39th-sexagenary]
+壬戌 壬戌 n,数詞,干支,* [59th-sexagenary]
+壬申 壬申 n,数詞,干支,* [9th-sexagenary]
+壬辰 壬辰 n,数詞,干支,* [29th-sexagenary]
+壮 壯 壮 n,名詞,人,人 mature-person
+壯 壯 壮 n,名詞,人,人 mature-person
+壮 壯 壮 v,動詞,描写,形質 robust
+壯 壯 壮 v,動詞,描写,形質 robust
+壱 壹 n,名詞,数量,* one
+壹 壹 n,名詞,数量,* one
+壱 壹 v,動詞,行為,設置 unite
+壹 壹 v,動詞,行為,設置 unite
+壶 壺 壶 n,名詞,可搬,道具 wine-bottle
+壺 壺 壶 n,名詞,可搬,道具 wine-bottle
+壻 壻 婿 n,名詞,人,関係 daughter's-husband
+壽 壽 寿 v,動詞,描写,形質 long-life
+寿 壽 寿 v,動詞,描写,形質 long-life
+壽夢 壽夢 寿梦 n,名詞,人,名 [given-name]
+寿梦 壽夢 寿梦 n,名詞,人,名 [given-name]
+夏 夏 n,名詞,主体,国名 [country-name]
+夏 夏 n,名詞,時,* summer
+夏后 夏后 n,名詞,主体,国名 [country-name]
+夔 夔 v,動詞,描写,態度 respectful
+夕 夕 n,名詞,時,* evening
+夕 夕 v,動詞,行為,儀礼 worship-in-the-evening
+外 外 n,名詞,固定物,関係 outside
+外 外 v,動詞,行為,設置 exclude
+外丙 外丙 n,名詞,人,名 [given-name]
+夙 夙 n,名詞,時,* early-morning
+多 多 v,動詞,描写,量 many
+夜 夜 n,名詞,時,* night
+夢 夢 梦 n,名詞,可搬,成果物 dream
+梦 夢 梦 n,名詞,可搬,成果物 dream
+夢 夢 梦 v,動詞,行為,動作 dream
+梦 夢 梦 v,動詞,行為,動作 dream
+大 大 n,名詞,描写,形質 big
+大 大 v,動詞,描写,量 big
+大挠 大撓 大挠 n,名詞,人,名 [given-name]
+大撓 大撓 大挠 n,名詞,人,名 [given-name]
+大甲 大甲 n,名詞,主体,書物 [book-name]
+大誓 大誓 n,名詞,主体,書物 [book-name]
+大雅 大雅 n,名詞,主体,書物 [book-name]
+天 天 n,名詞,制度,場 heaven
+天 天 v,動詞,行為,動作 look-up
+天皇 天皇 n,名詞,人,名 [given-name]
+太 太 n,名詞,人,その他の人名 Tai
+太 太 v,動詞,描写,量 very-great
+太丁 太丁 n,名詞,人,名 [given-name]
+太伯 太伯 n,名詞,人,名 [given-name]
+太公望 太公望 n,名詞,人,複合的人名 Grand-Duke-Wang
+太庭 太庭 n,名詞,人,名 [given-name]
+太昊 太昊 n,名詞,人,名 [given-name]
+太甲 太甲 n,名詞,主体,書物 [book-name]
+太甲 太甲 n,名詞,人,名 [given-name]
+夫 夫 n,代名詞,指示,* that
+夫 夫 n,名詞,人,人 male-person
+夫 夫 n,名詞,人,関係 husband
+夫 夫 p,助詞,句末,* [final-particle]
+夫 夫 p,助詞,句頭,* [modal-particle]
+夫子 夫子 n,名詞,人,人 master
+夫椒 夫椒 n,名詞,固定物,地名 [place-name]
+夭 夭 v,動詞,描写,形質 young
+失 失 n,名詞,描写,態度 fail
+失 失 v,動詞,行為,得失 lose
+夷 夷 n,名詞,主体,国名 [country-name]
+夷 夷 n,名詞,主体,集団 barbarian
+夷 夷 n,名詞,人,姓氏 [surname]
+夷 夷 v,動詞,描写,形質 level
+夷 夷 v,動詞,行為,動作 raze
+夷子 夷子 n,名詞,人,複合的人名 Yizi
+夷逸 夷逸 夷逸 n,名詞,人,名 [given-name]
+奄 奄 n,名詞,主体,国名 [country-name]
+奇 奇 v,動詞,描写,態度 strange
+奈 奈 v,動詞,行為,分類 recourse
+柰 奈 v,動詞,行為,分類 recourse
+奉 奉 v,動詞,行為,動作 esteem
+奏 奏 v,動詞,行為,伝達 present
+奏 奏 v,動詞,行為,儀礼 perform
+契 契 n,名詞,行為,* agreement
+奔 奔 v,動詞,行為,移動 run
+奔 奔 v,動詞,行為,移動 run
+奚 奚 n,代名詞,疑問,* how
+奚 奚 v,副詞,疑問,原因 how
+奚斉 奚齊 奚齐 n,名詞,人,名 [given-name]
+奚齊 奚齊 奚齐 n,名詞,人,名 [given-name]
+奚齐 奚齊 奚齐 n,名詞,人,名 [given-name]
+奠 奠 v,動詞,行為,設置 establish
+奢 奢 v,動詞,行為,態度 extravagant
+奥 奧 n,名詞,固定物,関係 interior
+奧 奧 n,名詞,固定物,関係 interior
+夺 奪 夺 v,動詞,行為,得失 deprive
+奪 奪 夺 v,動詞,行為,得失 deprive
+奖 奬 奖 v,動詞,行為,交流 encourage
+奨 奬 奖 v,動詞,行為,交流 encourage
+奬 奬 奖 v,動詞,行為,交流 encourage
+獎 奬 奖 v,動詞,行為,交流 encourage
+奋 奮 奋 v,動詞,行為,動作 spread-the-wings
+奮 奮 奋 v,動詞,行為,動作 spread-the-wings
+女 女 n,代名詞,人称,起格 [2PRON]
+女 女 n,名詞,人,人 woman
+女 女 n,名詞,人,関係 daughter
+女 女 v,動詞,行為,交流 give-a-woman-in-marriage
+女娲 女媧 女娲 n,名詞,人,名 [given-name]
+女媧 女媧 女娲 n,名詞,人,名 [given-name]
+女子 女子 n,名詞,人,関係 daughter
+女眞 女眞 女真 n,名詞,主体,集団 Jurchen
+女真 女眞 女真 n,名詞,主体,集団 Jurchen
+奴 奴 n,名詞,人,関係 family-dependents
+好 好 v,動詞,行為,態度 favour
+妁 妁 n,名詞,人,役割 matchmaker
+如 如 p,接尾辞,*,* [suffix]
+如 如 v,副詞,判断,推定 if
+如 如 v,動詞,行為,分類 be-like
+妃 妃 n,名詞,人,関係 princely-consort
+妄 妄 v,動詞,描写,態度 reckless
+妒 妒 v,動詞,行為,態度 jealous
+妬 妒 v,動詞,行為,態度 jealous
+妖 妖 v,動詞,描写,態度 bewitching
+妙 妙 v,動詞,描写,態度 wonderful
+妣 妣 n,名詞,人,関係 deceased-mother
+妹 妹 n,名詞,人,関係 younger-sister
+妻 妻 n,名詞,人,関係 wife
+妻 妻 v,動詞,行為,儀礼 give-a-woman-in-marriage
+妾 妾 n,名詞,人,関係 concubine
+姉 姉 姊 n,名詞,人,関係 elder-sister
+姊 姉 姊 n,名詞,人,関係 elder-sister
+始 始 v,動詞,行為,動作 begin
+姑 姑 n,名詞,人,関係 aunt
+姑 姑 v,副詞,描写,* temporary
+姓 姓 n,名詞,不可譲,属性 surname
+姓 姓 n,名詞,人,人 people
+委 委 v,動詞,行為,交流 entrust
+委 委 v,動詞,行為,動作 abandon
+姣 姣 v,動詞,描写,形質 handsome
+姦 姦 奸 v,動詞,行為,態度 adulterous
+侄 姪 侄 n,名詞,人,関係 brother's-son
+姪 姪 侄 n,名詞,人,関係 brother's-son
+姻 姻 n,名詞,人,関係 relationship-by-marriage
+威 威 v,動詞,行為,態度 overawe
+威烈 威烈 n,名詞,人,その他の人名 Weilie
+娛 娛 娱 v,動詞,描写,態度 amuse
+娯 娛 娱 v,動詞,描写,態度 amuse
+娱 娛 娱 v,動詞,描写,態度 amuse
+娶 娶 v,動詞,行為,儀礼 take-a-wife
+婢子 婢子 n,名詞,人,役割 woman
+妇 婦 妇 n,名詞,人,人 female-person
+婦 婦 妇 n,名詞,人,人 female-person
+妇 婦 妇 n,名詞,人,名 [given-name]
+婦 婦 妇 n,名詞,人,名 [given-name]
+妇 婦 妇 n,名詞,人,関係 wife
+婦 婦 妇 n,名詞,人,関係 wife
+婪 婪 v,動詞,行為,態度 greedy
+媒 媒 v,動詞,行為,交流 go-between
+媚 媚 v,動詞,行為,態度 flatter
+媛 媛 n,名詞,人,人 beautiful-woman
+媢 媢 v,動詞,行為,態度 jealous
+嫁 嫁 v,動詞,行為,儀礼 marry
+嫂 嫂 n,名詞,人,関係 elder-brother's-wife
+嫉 嫉 v,動詞,行為,態度 jealous
+嫌 嫌 v,動詞,行為,態度 dislike
+妪 嫗 妪 n,名詞,人,人 old-woman
+嫗 嫗 妪 n,名詞,人,人 old-woman
+媭 嬃 媭 n,名詞,人,関係 sister
+嬃 嬃 媭 n,名詞,人,関係 sister
+婵 嬋 婵 v,動詞,描写,態度 lovely
+嬋 嬋 婵 v,動詞,描写,態度 lovely
+嬖 嬖 n,名詞,描写,形質 favour
+婴 嬰 婴 n,名詞,人,人 baby
+嬰 嬰 婴 n,名詞,人,人 baby
+嬴 嬴 n,名詞,固定物,地名 [place-name]
+子 子 n,代名詞,人称,他 [2PRON]
+子 子 n,名詞,人,人 master
+子 子 n,名詞,人,役割 viscount
+子 子 n,名詞,人,関係 child
+子 子 v,動詞,行為,役割 childlike
+子叔 子叔 n,名詞,人,姓氏 [surname]
+子哙 子噲 子哙 n,名詞,人,名 [given-name]
+子噲 子噲 子哙 n,名詞,人,名 [given-name]
+子夏 子夏 n,名詞,人,名 [given-name]
+子张 子張 子张 n,名詞,人,名 [given-name]
+子張 子張 子张 n,名詞,人,名 [given-name]
+子思 子思 n,名詞,人,名 [given-name]
+子成 子成 n,名詞,人,名 [given-name]
+子敖 子敖 n,名詞,人,名 [given-name]
+子文 子文 n,名詞,人,名 [given-name]
+子服 子服 n,名詞,人,姓氏 [surname]
+子朝 子朝 n,名詞,人,名 [given-name]
+子木 子木 n,名詞,人,名 [given-name]
+子柳 子柳 n,名詞,人,名 [given-name]
+子桑 子桑 n,名詞,人,姓氏 [surname]
+子游 子游 n,名詞,人,名 [given-name]
+子濯 子濯 n,名詞,人,名 [given-name]
+子然 子然 n,名詞,人,名 [given-name]
+子犯 子犯 n,名詞,人,名 [given-name]
+子产 子產 子产 n,名詞,人,名 [given-name]
+子產 子產 子产 n,名詞,人,名 [given-name]
+子産 子產 子产 n,名詞,人,名 [given-name]
+子禽 子禽 n,名詞,人,名 [given-name]
+子羔 子羔 n,名詞,人,名 [given-name]
+子羽 子羽 n,名詞,人,名 [given-name]
+子莫 子莫 n,名詞,人,名 [given-name]
+子华 子華 子华 n,名詞,人,名 [given-name]
+子華 子華 子华 n,名詞,人,名 [given-name]
+子襄 子襄 n,名詞,人,名 [given-name]
+子西 子西 n,名詞,人,名 [given-name]
+子貢 子貢 子贡 n,名詞,人,名 [given-name]
+子贡 子貢 子贡 n,名詞,人,名 [given-name]
+子賤 子賤 子贱 n,名詞,人,名 [given-name]
+子贱 子賤 子贱 n,名詞,人,名 [given-name]
+子路 子路 n,名詞,人,名 [given-name]
+子騫 子騫 子骞 n,名詞,人,名 [given-name]
+子骞 子騫 子骞 n,名詞,人,名 [given-name]
+子都 子都 子都 n,名詞,人,名 [given-name]
+子都 子都 子都 n,名詞,人,名 [given-name]
+孑 孑 n,名詞,人,関係 alone
+孔 孔 n,名詞,人,姓氏 [surname]
+孔 孔 v,動詞,描写,量 great
+孔子 孔子 n,名詞,人,複合的人名 Confucius
+字 字 n,名詞,不可譲,属性 polite-name
+字 字 v,動詞,行為,交流 foster
+存 存 v,動詞,存在,存在 exist
+孚 孚 n,名詞,描写,形質 confidence
+孚 孚 v,動詞,変化,生物 hatch
+孚尹 孚尹 n,名詞,描写,形質 beautiful-colour
+孝 孝 n,名詞,人,その他の人名 Xiao
+孝 孝 n,名詞,描写,態度 filial
+孝 孝 v,動詞,行為,態度 filial
+孝文 孝文 n,名詞,人,その他の人名 Xiaowen
+孟 孟 n,名詞,人,名 [given-name]
+孟 孟 n,名詞,人,姓氏 [surname]
+孟 孟 n,名詞,時,* first-month
+孟子 孟子 n,名詞,人,複合的人名 Mencius
+孟敬子 孟敬子 n,名詞,人,複合的人名 Mengjingzi
+季 季 n,名詞,人,姓氏 [surname]
+季 季 n,名詞,時,* season
+季任 季任 n,名詞,人,名 [given-name]
+季子 季子 n,名詞,人,複合的人名 Jizi
+季路 季路 n,名詞,人,名 [given-name]
+季随 季隨 季随 n,名詞,人,名 [given-name]
+季隨 季隨 季随 n,名詞,人,名 [given-name]
+季䯄 季騧 季䯄 n,名詞,人,名 [given-name]
+季騧 季騧 季䯄 n,名詞,人,名 [given-name]
+孤 孤 n,名詞,人,関係 orphan
+孤 孤 v,動詞,描写,境遇 alone
+孥 孥 v,動詞,行為,交流 wife-and-children
+孩 孩 n,名詞,人,人 baby
+孙 孫 孙 n,名詞,人,姓氏 [surname]
+孫 孫 孙 n,名詞,人,姓氏 [surname]
+孙 孫 孙 n,名詞,人,関係 grandson
+孫 孫 孙 n,名詞,人,関係 grandson
+孙 孫 孙 v,動詞,描写,態度 modest
+孫 孫 孙 v,動詞,描写,態度 modest
+孙贾 孫賈 孙贾 n,名詞,人,名 [given-name]
+孫賈 孫賈 孙贾 n,名詞,人,名 [given-name]
+孰 孰 n,代名詞,疑問,* who
+孳 孳 v,動詞,変化,生物 breed
+学 學 学 n,名詞,行為,* study
+學 學 学 n,名詞,行為,* study
+学 學 学 v,動詞,行為,動作 study
+學 學 学 v,動詞,行為,動作 study
+孺 孺 n,名詞,人,人 baby
+孺子 孺子 n,名詞,人,その他の人名 Ruzi
+孺悲 孺悲 n,名詞,人,名 [given-name]
+孽 孽 n,名詞,人,関係 bastard
+孽 孽 n,名詞,描写,形質 evil
+它 它 n,代名詞,指示,* [3PRON]
+宅 宅 n,名詞,固定物,建造物 residence
+宇 宇 v,動詞,行為,動作 stay
+守 守 n,名詞,人,役割 guard
+守 守 v,動詞,行為,動作 guard
+安 安 v,副詞,疑問,所在 how
+安 安 v,動詞,行為,態度 peaceful
+宋 宋 n,名詞,主体,国名 [country-name]
+完 完 v,動詞,変化,性質 complete
+宗 宗 n,名詞,人,名 [given-name]
+宗 宗 n,名詞,人,関係 ancestor
+宗 宗 v,動詞,行為,態度 honour
+官 官 n,名詞,人,役割 officer
+官 官 n,名詞,行為,* function
+定 定 n,名詞,人,その他の人名 Ding
+定 定 v,動詞,行為,動作 establish
+宛丘 宛丘 n,名詞,固定物,地名 [place-name]
+宜 宜 v,助動詞,必要,* fitting
+宜 宜 v,動詞,描写,態度 right
+宜生 宜生 n,名詞,人,名 [given-name]
+客 客 n,名詞,人,関係 guest
+宣 宣 n,名詞,人,その他の人名 Xuan
+宣 宣 v,動詞,行為,動作 spread
+室 室 n,名詞,人,関係 family
+室 室 n,名詞,固定物,建造物 room
+宥 宥 v,動詞,描写,態度 pardon
+宦 宦 n,名詞,人,役割 eunuch
+宫 宮 宫 n,名詞,固定物,建造物 palace
+宮 宮 宫 n,名詞,固定物,建造物 palace
+宰 宰 n,名詞,人,姓氏 [surname]
+宰 宰 n,名詞,人,役割 minister
+害 害 n,代名詞,疑問,* what
+害 害 n,名詞,描写,形質 harm
+害 害 v,動詞,行為,態度 injure
+宴 宴 v,動詞,行為,交流 repose
+宵 宵 n,名詞,時,* night
+家 家 n,名詞,主体,集団 family
+家 家 n,名詞,固定物,建造物 house
+容 容 n,名詞,不可譲,身体 face
+容 容 v,動詞,行為,設置 contain
+容成 容成 n,名詞,人,名 [given-name]
+宿 宿 v,動詞,行為,動作 stay
+寄 寄 v,動詞,行為,動作 lodge
+密 密 v,動詞,描写,形質 silent
+寇 寇 n,名詞,人,役割 robber
+富 富 n,名詞,可搬,成果物 wealth
+富 富 v,動詞,描写,境遇 rich
+寐 寐 v,動詞,行為,動作 sleep
+寒 寒 v,動詞,描写,境遇 cold
+寓 寓 v,動詞,行為,動作 reside
+察 察 v,動詞,行為,伝達 examine
+寡 寡 n,名詞,人,関係 widow
+寡 寡 v,動詞,描写,量 few
+寝 寢 寝 v,動詞,行為,動作 sleep
+寢 寢 寝 v,動詞,行為,動作 sleep
+实 實 实 n,名詞,可搬,成果物 fruit
+実 實 实 n,名詞,可搬,成果物 fruit
+實 實 实 n,名詞,可搬,成果物 fruit
+实 實 实 v,副詞,程度,極度 truely
+実 實 实 v,副詞,程度,極度 truely
+寔 實 实 v,副詞,程度,極度 truely
+實 實 实 v,副詞,程度,極度 truely
+实 實 实 v,動詞,行為,動作 fruit
+実 實 实 v,動詞,行為,動作 fruit
+寔 實 实 v,動詞,行為,動作 fruit
+實 實 实 v,動詞,行為,動作 fruit
+宁 寧 宁 p,助詞,句頭,* [filler-character]
+寧 寧 宁 p,助詞,句頭,* [filler-character]
+宁 寧 宁 v,副詞,疑問,原因 rather
+寧 寧 宁 v,副詞,疑問,原因 rather
+宁 寧 宁 v,動詞,描写,境遇 peaceful
+寧 寧 宁 v,動詞,描写,境遇 peaceful
+审 審 审 v,動詞,行為,動作 examine-closely
+審 審 审 v,動詞,行為,動作 examine-closely
+写 寫 写 v,動詞,行為,動作 drain-off
+寫 寫 写 v,動詞,行為,動作 drain-off
+宽 寬 宽 v,動詞,描写,形質 wide
+寛 寬 宽 v,動詞,描写,形質 wide
+寬 寬 宽 v,動詞,描写,形質 wide
+寮 寮 n,名詞,人,名 [given-name]
+宠 寵 宠 v,動詞,行為,態度 favour
+寵 寵 宠 v,動詞,行為,態度 favour
+宝 寶 宝 n,名詞,可搬,道具 treasure
+寶 寶 宝 n,名詞,可搬,道具 treasure
+宝 寶 宝 v,動詞,行為,態度 precious
+寶 寶 宝 v,動詞,行為,態度 precious
+寸 寸 n,名詞,度量衡,* [length-unit]
+寺 寺 n,名詞,主体,機関 Buddhist-temple
+寺 寺 n,名詞,人,役割 eunuch
+封 封 v,動詞,行為,役割 enfief
+射 射 n,名詞,人,役割 shooter
+射 射 v,動詞,行為,動作 shoot-at
+将 將 将 n,名詞,人,役割 general
+將 將 将 n,名詞,人,役割 general
+将 將 将 v,副詞,時相,将来 about-to
+將 將 将 v,副詞,時相,将来 about-to
+将 將 将 v,動詞,行為,交流 undertake
+將 將 将 v,動詞,行為,交流 undertake
+专 專 专 v,動詞,行為,動作 have-sole-charge
+専 專 专 v,動詞,行為,動作 have-sole-charge
+專 專 专 v,動詞,行為,動作 have-sole-charge
+尉 尉 n,名詞,人,役割 military-official
+尊 尊 v,動詞,行為,態度 honour
+尊盧 尊盧 尊卢 n,名詞,人,名 [given-name]
+尊卢 尊盧 尊卢 n,名詞,可搬物,道具 food-vessel
+寻 尋 寻 n,名詞,度量衡,* [length-measure]
+尋 尋 寻 n,名詞,度量衡,* [length-measure]
+寻 尋 寻 v,動詞,行為,動作 seek
+尋 尋 寻 v,動詞,行為,動作 seek
+对 對 对 v,動詞,行為,伝達 reply
+対 對 对 v,動詞,行為,伝達 reply
+對 對 对 v,動詞,行為,伝達 reply
+导 導 导 v,動詞,行為,動作 lead
+導 導 导 v,動詞,行為,動作 lead
+小 小 n,名詞,描写,形質 small
+小 小 v,動詞,描写,量 small
+小子 小子 n,名詞,人,人 people
+小弁 小弁 n,名詞,主体,書物 [book-name]
+小雅 小雅 n,名詞,主体,書物 [book-name]
+少 少 v,動詞,描写,量 few
+少典 少典 n,名詞,人,名 [given-name]
+少连 少連 少连 n,名詞,人,名 [given-name]
+少連 少連 少连 n,名詞,人,名 [given-name]
+尙 尙 尚 n,名詞,人,姓氏 [surname]
+尚 尙 尚 n,名詞,人,姓氏 [surname]
+尙 尙 尚 v,動詞,行為,態度 esteem
+尚 尙 尚 v,動詞,行為,態度 esteem
+尤 尤 v,動詞,描写,態度 excessive
+尤 尤 v,動詞,行為,態度 blame
+就 就 v,動詞,行為,移動 go-to
+尸 尸 n,名詞,人,役割 substitute-for-the-spirit
+尹 尹 n,名詞,人,その他の人名 Yin
+尹 尹 n,名詞,人,名 [given-name]
+尹 尹 n,名詞,人,姓氏 [surname]
+尹 尹 n,名詞,人,役割 prime-minister
+尺 尺 n,名詞,度量衡,* [foot-measure]
+尼 尼 v,動詞,行為,動作 near
+居 居 n,名詞,固定物,建造物 residence
+居 居 v,動詞,行為,動作 sit-down
+居州 居州 n,名詞,人,名 [given-name]
+屈 屈 v,動詞,行為,動作 bend
+屈产 屈產 屈产 n,名詞,固定物,地名 [place-name]
+屈產 屈產 屈产 n,名詞,固定物,地名 [place-name]
+屈産 屈產 屈产 n,名詞,固定物,地名 [place-name]
+屋 屋 n,名詞,固定物,建造物 house
+屋庐子 屋廬子 屋庐子 n,名詞,人,複合的人名 Wuluzi
+屋廬子 屋廬子 屋庐子 n,名詞,人,複合的人名 Wuluzi
+屏 屏 v,動詞,行為,交流 reject
+屑 屑 v,動詞,描写,態度 scraps
+展 展 v,動詞,行為,動作 unfold
+屡 屢 屡 v,副詞,頻度,頻繁 frequently
+屢 屢 屡 v,副詞,頻度,頻繁 frequently
+履 履 n,名詞,人,名 [given-name]
+履 履 n,名詞,可搬,伝達 oracle
+履 履 n,名詞,可搬,道具 shoe
+履 履 v,動詞,行為,動作 walk-on
+屦 屨 屦 n,名詞,可搬,道具 sandal
+屨 屨 屦 n,名詞,可搬,道具 sandal
+属 屬 属 v,動詞,行為,設置 belong
+屬 屬 属 v,動詞,行為,設置 belong
+属镂 屬鏤 属镂 n,名詞,可搬,道具 [sword-name]
+屬鏤 屬鏤 属镂 n,名詞,可搬,道具 [sword-name]
+山 山 n,名詞,固定物,地形 mountain
+山甫 山甫 n,名詞,人,名 [given-name]
+岌 岌 v,動詞,描写,形質 precipitous
+岐 岐 n,名詞,固定物,地名 [place-name]
+岐周 岐周 n,名詞,固定物,地名 [place-name]
+岑 岑 v,動詞,描写,形質 small-and-high
+岫 岫 n,名詞,固定物,地形 mountain-peak
+峯 峰 n,名詞,固定物,地形 peak
+峰 峰 n,名詞,固定物,地形 peak
+峻 峻 v,動詞,描写,形質 high
+峡 峽 峡 n,名詞,固定物,地形 gorge
+峽 峽 峡 n,名詞,固定物,地形 gorge
+崇 崇 n,名詞,固定物,地名 [place-name]
+崇 崇 v,動詞,行為,態度 honour
+崑崙 崑崙 昆仑 n,名詞,固定物,地名 [place-name]
+昆仑 崑崙 昆仑 n,名詞,固定物,地名 [place-name]
+崔子 崔子 n,名詞,人,複合的人名 Cuizi
+崩 崩 v,動詞,変化,制度 collapse
+崴 崴 v,動詞,描写,形質 lofty
+嵎 嵎 n,名詞,固定物,地形 corner-of-mountain
+嵩 嵩 v,動詞,描写,形質 lofty
+嵬 嵬 v,動詞,描写,形質 lofty
+嶰 嶰 n,名詞,固定物,地形 valley
+岭 嶺 岭 n,名詞,固定物,地形 mountain-range
+嶺 嶺 岭 n,名詞,固定物,地形 mountain-range
+岳 嶽 岳 n,名詞,固定物,地名 [place-name]
+嶽 嶽 岳 n,名詞,固定物,地名 [place-name]
+岳 嶽 岳 n,名詞,固定物,地形 great-mountain
+嶽 嶽 岳 n,名詞,固定物,地形 great-mountain
+巍 巍 v,動詞,描写,形質 lofty
+巌 巖 岩 v,動詞,描写,形質 rocky
+巖 巖 岩 v,動詞,描写,形質 rocky
+川 川 n,名詞,固定物,地形 river
+州 州 n,名詞,制度,場 region
+巡 巡 v,動詞,行為,移動 tour-of-inspection
+廵 巡 v,動詞,行為,移動 tour-of-inspection
+巢 巢 n,名詞,人,姓氏 [surname]
+巣 巢 n,名詞,人,姓氏 [surname]
+巢 巢 n,名詞,固定物,建造物 nest
+巣 巢 n,名詞,固定物,建造物 nest
+工 工 n,名詞,人,役割 workman
+左 左 n,名詞,固定物,関係 left-hand
+左 左 v,動詞,行為,交流 assist
+左 左 v,動詞,行為,動作 turn-left
+巧 巧 v,動詞,描写,形質 clever
+巨 巨 v,動詞,描写,量 great
+巫 巫 n,名詞,人,役割 shaman
+巫峡 巫峽 巫峡 n,名詞,固定物,地名 [place-name]
+巫峽 巫峽 巫峡 n,名詞,固定物,地名 [place-name]
+巫馬 巫馬 巫马 n,名詞,人,姓氏 [surname]
+巫马 巫馬 巫马 n,名詞,人,姓氏 [surname]
+差 差 v,動詞,描写,形質 unequal
+己 己 n,代名詞,人称,他 self
+己 己 n,数詞,干支,* [6th-stem]
+己丑 己丑 n,数詞,干支,* [26th-sexagenary]
+己亥 己亥 n,数詞,干支,* [36th-sexagenary]
+己卯 己卯 n,数詞,干支,* [16th-sexagenary]
+己巳 己巳 n,数詞,干支,* [6th-sexagenary]
+己未 己未 n,数詞,干支,* [56th-sexagenary]
+己酉 己酉 n,数詞,干支,* [46th-sexagenary]
+已 已 p,助詞,句末,* only
+已 已 v,副詞,時相,完了 already
+已 已 v,副詞,程度,極度 very-much
+已 已 v,動詞,行為,動作 stop
+巷 巷 n,名詞,固定物,建造物 lane
+巽 巽 v,動詞,描写,態度 submissive
+巾 巾 n,名詞,可搬,道具 kerchief
+巾 巾 v,動詞,行為,設置 cover-with-kerchief
+市 市 n,名詞,固定物,建造物 market
+布 布 n,名詞,可搬,成果物 cloth
+布 布 v,動詞,行為,交流 spread
+希 希 v,動詞,描写,量 thin
+帑 帑 n,名詞,人,関係 child
+帛 帛 n,名詞,可搬,道具 silk-cloth
+帝 帝 n,名詞,人,役割 emperor
+帝典 帝典 n,名詞,主体,書物 [book-name]
+帅 帥 帅 n,名詞,人,役割 leader
+帥 帥 帅 n,名詞,人,役割 leader
+帅 帥 帅 v,動詞,行為,交流 lead
+帥 帥 帅 v,動詞,行為,交流 lead
+师 師 师 n,名詞,人,役割 teacher
+師 師 师 n,名詞,人,役割 teacher
+师 師 师 v,動詞,行為,交流 study-under
+師 師 师 v,動詞,行為,交流 study-under
+师旷 師曠 师旷 n,名詞,人,複合的人名 Shikuang
+師曠 師曠 师旷 n,名詞,人,複合的人名 Shikuang
+席 席 n,名詞,可搬,道具 sitting-mat
+带 帶 带 n,名詞,可搬,道具 belt
+帯 帶 带 n,名詞,可搬,道具 belt
+帶 帶 带 n,名詞,可搬,道具 belt
+帷 帷 n,名詞,固定物,建造物 curtain
+常 常 n,名詞,描写,態度 usual
+常 常 v,副詞,時相,恒常 usually
+帏 幃 帏 n,名詞,可搬,道具 bag
+幃 幃 帏 n,名詞,可搬,道具 bag
+幎 幎 v,動詞,行為,設置 cover
+幕 幕 n,名詞,可搬,道具 tent
+幡 幡 v,動詞,描写,形質 banner
+币 幣 币 n,名詞,可搬,道具 money
+幣 幣 币 n,名詞,可搬,道具 money
+帱 幬 帱 v,動詞,行為,動作 cover-up
+幬 幬 帱 v,動詞,行為,動作 cover-up
+干 干 n,名詞,主体,国名 [country-name]
+干 干 n,名詞,人,名 [given-name]
+干 干 n,名詞,可搬,道具 shield
+干 干 v,動詞,行為,交流 infringe
+干木 干木 n,名詞,人,名 [given-name]
+平 平 n,名詞,人,その他の人名 Ping
+平 平 v,動詞,描写,形質 level
+平陆 平陸 平陆 n,名詞,固定物,地名 [place-name]
+平陸 平陸 平陆 n,名詞,固定物,地名 [place-name]
+年 年 n,名詞,時,* year
+秊 年 n,名詞,時,* year
+并 并 v,副詞,範囲,共同 together
+幷 并 v,副詞,範囲,共同 together
+并 并 v,動詞,行為,動作 combine
+幷 并 v,動詞,行為,動作 combine
+幸 幸 v,動詞,描写,境遇 fortunate
+幼 幼 n,名詞,人,関係 young
+幼 幼 v,動詞,描写,形質 young
+幽 幽 n,名詞,人,名 [given-name]
+幽 幽 n,名詞,固定物,地名 [place-name]
+幽 幽 v,動詞,変化,性質 obscure
+幾 幾 几 v,副詞,判断,推定 how-many
+幾 幾 几 v,動詞,描写,形質 near
+幾 幾 几 v,動詞,描写,量 few
+庇 庇 v,動詞,行為,設置 cover
+床 床 n,名詞,可搬,道具 bed
+序 序 n,名詞,固定物,建造物 school
+序 序 n,名詞,固定物,関係 order
+序 序 v,動詞,行為,設置 arrange-in-order
+底 底 n,名詞,可搬,道具 whetstone
+底 底 n,名詞,固定物,関係 bottom
+庖 庖 n,名詞,固定物,建造物 kitchen
+庖牺 庖犧 庖牺 n,名詞,人,名 [given-name]
+庖犠 庖犧 庖牺 n,名詞,人,名 [given-name]
+庖犧 庖犧 庖牺 n,名詞,人,名 [given-name]
+庚 庚 n,数詞,干支,* [7th-stem]
+庚午 庚午 n,数詞,干支,* [7th-sexagenary]
+庚子 庚子 n,数詞,干支,* [37th-sexagenary]
+庚寅 庚寅 n,数詞,干支,* [27th-sexagenary]
+庚戌 庚戌 n,数詞,干支,* [47th-sexagenary]
+庚申 庚申 n,数詞,干支,* [57th-sexagenary]
+庚辰 庚辰 n,数詞,干支,* [17th-sexagenary]
+府 府 n,名詞,主体,機関 repository
+庠 庠 n,名詞,固定物,建造物 school
+度 度 n,名詞,制度,儀礼 degree
+度 度 v,動詞,行為,態度 measure
+库 庫 库 n,名詞,固定物,建造物 storehouse
+庫 庫 库 n,名詞,固定物,建造物 storehouse
+庭 庭 n,名詞,固定物,建造物 courtyard
+庶 庶 v,動詞,描写,量 common
+康子 康子 n,名詞,人,名 [given-name]
+康誥 康誥 康诰 n,名詞,主体,書物 [book-name]
+康诰 康誥 康诰 n,名詞,主体,書物 [book-name]
+庸 庸 n,名詞,描写,形質 ordinary
+庸 庸 v,動詞,行為,動作 employ
+庾 庾 n,名詞,人,その他の人名 Yu
+庾 庾 n,名詞,度量衡,* [capacity-unit]
+厩 廄 厩 n,名詞,固定物,建造物 stable
+廄 廄 厩 n,名詞,固定物,建造物 stable
+廐 廄 厩 n,名詞,固定物,建造物 stable
+廉 廉 v,動詞,描写,態度 incorruptible
+廋 廋 v,動詞,行為,設置 conceal
+厨 廚 厨 n,名詞,固定物,建造物 kitchen
+廚 廚 厨 n,名詞,固定物,建造物 kitchen
+廛 廛 n,名詞,固定物,建造物 market-place
+廛 廛 v,動詞,行為,動作 collect-tax-on-market
+庙 廟 庙 n,名詞,固定物,建造物 ancestral-temple
+廟 廟 庙 n,名詞,固定物,建造物 ancestral-temple
+废 廢 废 v,動詞,変化,制度 abolish
+廃 廢 废 v,動詞,変化,制度 abolish
+廢 廢 废 v,動詞,変化,制度 abolish
+广 廣 广 v,動詞,描写,量 wide
+広 廣 广 v,動詞,描写,量 wide
+廣 廣 广 v,動詞,描写,量 wide
+廩 廩 廪 n,名詞,固定物,建造物 granary
+廪 廩 廪 n,名詞,固定物,建造物 granary
+庐 廬 庐 n,名詞,固定物,建造物 hut
+廬 廬 庐 n,名詞,固定物,建造物 hut
+廱 廱 n,名詞,固定物,建造物 ceremonial-hall
+延 延 v,動詞,行為,動作 prolong
+廷 廷 n,名詞,制度,場 court
+建 建 v,動詞,行為,動作 establish
+弁 弁 n,名詞,可搬,道具 cap
+弁 弁 n,名詞,固定物,地名 [place-name]
+弁 弁 v,動詞,行為,動作 wear-cap
+弄 弄 v,動詞,行為,動作 play-with
+弈 弈 n,名詞,可搬,道具 board-game
+弊 弊 v,動詞,変化,性質 ruin
+弋 弋 v,動詞,行為,動作 shoot
+式 式 n,名詞,制度,儀礼 rule
+式 式 v,動詞,行為,儀礼 salute-on-carriage
+式 式 v,動詞,行為,動作 pattern
+弑 弒 弑 v,動詞,行為,交流 murder
+弒 弒 弑 v,動詞,行為,交流 murder
+弓 弓 n,名詞,人,名 [given-name]
+弓 弓 n,名詞,可搬,道具 bow
+弔 弔 吊 v,動詞,行為,儀礼 bring-condolences
+引 引 v,動詞,行為,動作 stretch
+弗 弗 v,副詞,否定,無界 not
+弗扰 弗擾 弗扰 n,名詞,人,名 [given-name]
+弗擾 弗擾 弗扰 n,名詞,人,名 [given-name]
+弘 弘 v,動詞,描写,形質 great
+弛 弛 v,動詞,行為,動作 slacken
+弟 弟 n,名詞,人,関係 younger-brother
+弟 弟 v,動詞,行為,態度 duty-towards-elder-brother
+弟子 弟子 n,名詞,人,関係 disciple
+弤 弤 n,名詞,可搬,道具 bow
+弦 弦 n,名詞,可搬,道具 bowstring
+弱 弱 v,動詞,描写,形質 weak
+张 張 张 v,動詞,行為,動作 stretch
+張 張 张 v,動詞,行為,動作 stretch
+強 強 强 v,動詞,描写,形質 strong
+强 強 强 v,動詞,描写,形質 strong
+彀 彀 v,動詞,行為,動作 draw-a-bow-to-the-full
+彊 彊 强 v,動詞,描写,形質 strong
+弥 彌 弥 v,副詞,時相,変化 extensively
+彌 彌 弥 v,副詞,時相,変化 extensively
+弥子 彌子 弥子 n,名詞,人,名 [given-name]
+彌子 彌子 弥子 n,名詞,人,名 [given-name]
+彘 彘 n,名詞,主体,動物 swine
+形 形 n,名詞,描写,形質 shape
+形 形 v,動詞,描写,形質 form
+彥 彥 彦 v,動詞,描写,態度 elegant
+彦 彥 彦 v,動詞,描写,態度 elegant
+彫 彫 雕 v,動詞,行為,動作 carve
+彬 彬 v,動詞,描写,態度 have-both-substance-and-refinement
+彰 彰 v,動詞,描写,形質 evident
+役 役 n,名詞,制度,儀礼 military-expedition
+役 役 v,動詞,行為,動作 serve
+彼 彼 n,代名詞,指示,* that
+往 往 v,動詞,行為,移動 go
+征 征 n,名詞,行為,* expedition
+征 征 v,動詞,行為,交流 expedite
+徂 徂 v,動詞,変化,生物 pass-away
+徂 徂 v,動詞,行為,移動 advance
+待 待 v,動詞,行為,動作 wait-for
+徇 徇 v,動詞,行為,伝達 obay
+很 很 v,動詞,描写,態度 fractious
+律 律 n,名詞,可搬,道具 pitch-pipe
+律 律 v,動詞,行為,動作 statute
+後 後 后 n,名詞,人,関係 posterity
+後 後 后 n,名詞,固定物,関係 back
+後 後 后 n,名詞,時,* after
+後 後 后 v,動詞,行為,移動 back
+徐 徐 n,名詞,主体,国名 [country-name]
+徐 徐 v,動詞,行為,態度 slow
+徐子 徐子 n,名詞,人,複合的人名 Xuzi
+径 徑 径 n,名詞,固定物,地形 way-across
+徑 徑 径 n,名詞,固定物,地形 way-across
+徒 徒 n,名詞,人,役割 disciple
+徒 徒 v,副詞,範囲,限定 only
+徒 徒 v,動詞,行為,移動 go-on-foot
+得 得 v,助動詞,可能,* must
+得 得 v,動詞,行為,得失 get
+徙 徙 v,動詞,行為,移動 move
+从 從 从 v,前置詞,経由,* from
+従 從 从 v,前置詞,経由,* from
+從 從 从 v,前置詞,経由,* from
+从 從 从 v,動詞,行為,動作 follow
+従 從 从 v,動詞,行為,動作 follow
+從 從 从 v,動詞,行為,動作 follow
+御 御 v,動詞,行為,交流 drive-a-chariot
+徧 徧 遍 v,動詞,描写,形質 all-around
+徨 徨 v,動詞,行為,動作 wander
+復 復 复 v,副詞,頻度,重複 again
+復 復 复 v,動詞,行為,伝達 reply
+復 復 复 v,動詞,行為,動作 repeat
+復 復 复 v,動詞,行為,移動 return
+循 循 v,動詞,行為,動作 follow
+徬 徬 v,動詞,描写,態度 hesitant
+微 微 v,動詞,存在,存在 were-it-not-for
+微仲 微仲 n,名詞,人,複合的人名 Weizhong
+微子 微子 n,名詞,人,複合的人名 Weizi
+徯 徯 v,動詞,行為,動作 wait-for
+徴 徵 征 v,動詞,行為,交流 summon
+徵 徵 征 v,動詞,行為,交流 summon
+徴招 徵招 征招 n,名詞,主体,書物 [book-name]
+徵招 徵招 征招 n,名詞,主体,書物 [book-name]
+徳 德 n,名詞,人,名 [given-name]
+德 德 n,名詞,人,名 [given-name]
+徳 德 n,名詞,描写,態度 virtue
+德 德 n,名詞,描写,態度 virtue
+徳 德 v,動詞,描写,形質 benevolent
+德 德 v,動詞,描写,形質 benevolent
+彻 徹 彻 v,動詞,変化,制度 tax-one-tenth
+徹 徹 彻 v,動詞,変化,制度 tax-one-tenth
+彻 徹 彻 v,動詞,行為,設置 penetrate
+徹 徹 彻 v,動詞,行為,設置 penetrate
+徼 徼 v,動詞,行為,動作 seek
+心 心 n,名詞,不可譲,身体 heart
+必 必 v,副詞,判断,確定 necessarily
+忌 忌 v,動詞,行為,態度 avoid
+忍 忍 v,動詞,描写,態度 bear
+忒 忒 v,動詞,変化,性質 err
+忖 忖 v,動詞,行為,態度 ponder
+志 志 n,名詞,主体,書物 [book-name]
+志 志 n,名詞,思考,* aim
+志 志 v,動詞,行為,態度 aim
+忘 忘 v,動詞,行為,動作 forget
+忝 忝 v,動詞,行為,動作 shame
+忞 忞 v,動詞,行為,態度 exert-oneself
+忠 忠 n,名詞,描写,態度 loyal
+忠 忠 v,動詞,行為,態度 devoted
+忤 忤 v,動詞,描写,態度 opposed
+快 快 v,動詞,描写,態度 pleased
+忮 忮 v,動詞,描写,態度 perverse
+念 念 v,動詞,行為,動作 ponder
+忸 忸 v,動詞,描写,態度 ashamed
+忽 忽 v,副詞,時相,緊接 suddenly
+忽 忽 v,動詞,行為,態度 overlook
+忿 忿 n,名詞,描写,態度 anger
+忿 忿 v,動詞,行為,態度 angry
+怍 怍 v,動詞,描写,態度 ashamed
+怒 怒 v,動詞,行為,態度 angry
+怖 怖 v,動詞,行為,態度 fear
+怛 怛 v,動詞,行為,態度 sad
+思 思 n,名詞,人,名 [given-name]
+思 思 p,助詞,句末,* [final-particle]
+思 思 v,動詞,行為,動作 think
+怠 怠 v,動詞,行為,態度 idle
+怡 怡 v,動詞,描写,形質 harmony
+急 急 v,動詞,描写,態度 hasty
+性 性 n,名詞,不可譲,属性 nature
+性 性 v,動詞,描写,形質 natural
+怨 怨 n,名詞,思考,* resentment
+怨 怨 v,動詞,行為,態度 resent
+怩 怩 v,動詞,描写,態度 bashful
+怪 怪 v,動詞,描写,態度 strange
+怵 怵 v,動詞,描写,態度 anxious
+恂 恂 v,動詞,描写,態度 sincere
+恆 恆 恒 n,名詞,人,名 [given-name]
+恒 恆 恒 n,名詞,人,名 [given-name]
+恆 恆 恒 v,動詞,描写,形質 constant
+恒 恆 恒 v,動詞,描写,形質 constant
+恆山 恆山 恒山 n,名詞,固定物,地名 [place-name]
+恒山 恆山 恒山 n,名詞,固定物,地名 [place-name]
+恐 恐 v,動詞,行為,態度 fear
+恔 恔 v,動詞,描写,態度 sagacious
+恕 恕 v,動詞,描写,態度 forgiving
+恝 恝 v,動詞,描写,態度 carefree
+恣 恣 v,動詞,描写,態度 unrestrained
+恤 恤 v,動詞,行為,態度 pity
+恥 恥 耻 n,名詞,可搬,成果物 shame
+耻 恥 耻 n,名詞,可搬,成果物 shame
+恥 恥 耻 v,動詞,行為,態度 shame
+耻 恥 耻 v,動詞,行為,態度 shame
+恨 恨 v,動詞,行為,交流 hate
+恩 恩 n,名詞,可搬,成果物 benevolence
+恭 恭 v,動詞,描写,態度 reverent
+息 息 v,動詞,行為,動作 breathe
+悄 悄 v,動詞,描写,態度 anxious
+悅 悅 悦 v,動詞,行為,態度 relaxed
+悦 悅 悦 v,動詞,行為,態度 relaxed
+悉 悉 v,副詞,範囲,総括 completely
+悌 悌 v,動詞,行為,態度 duty-towards-elder-brother
+悖 悖 v,動詞,描写,形質 contrary
+悠 悠 v,動詞,描写,量 distant
+患 患 n,名詞,描写,態度 trouble
+患 患 v,動詞,行為,態度 trouble
+悱 悱 v,動詞,行為,態度 be-at-a-loss-for-words
+悲 悲 v,動詞,行為,態度 sad
+悴 悴 v,動詞,描写,態度 distressed
+悻 悻 v,動詞,描写,態度 angry
+悽 悽 凄 v,動詞,描写,態度 sorrowful
+悾 悾 v,動詞,描写,態度 simple-minded
+惄 惄 v,動詞,描写,態度 hunger-for
+情 情 n,名詞,描写,態度 passion
+惑 惑 n,名詞,描写,態度 confused
+惑 惑 v,動詞,描写,態度 confused
+惕 惕 v,動詞,描写,態度 fear
+惜 惜 v,動詞,行為,態度 cherish
+惟 惟 n,代名詞,指示,* that
+惟 惟 v,副詞,範囲,限定 only
+恵 惠 n,名詞,人,その他の人名 Hui
+惠 惠 n,名詞,人,その他の人名 Hui
+惠 惠 n,名詞,人,名 [given-name]
+恵 惠 n,名詞,描写,態度 benevolence
+惠 惠 n,名詞,描写,態度 benevolence
+恵 惠 v,動詞,描写,態度 benevolent
+惠 惠 v,動詞,描写,態度 benevolent
+恶 惡 恶 n,名詞,描写,態度 bad
+悪 惡 恶 n,名詞,描写,態度 bad
+惡 惡 恶 n,名詞,描写,態度 bad
+恶 惡 恶 p,感嘆詞,*,* oh
+悪 惡 恶 p,感嘆詞,*,* oh
+惡 惡 恶 p,感嘆詞,*,* oh
+恶 惡 恶 v,副詞,疑問,所在 how
+悪 惡 恶 v,副詞,疑問,所在 how
+惡 惡 恶 v,副詞,疑問,所在 how
+恶 惡 恶 v,動詞,行為,動作 hate
+悪 惡 恶 v,動詞,行為,動作 hate
+惡 惡 恶 v,動詞,行為,動作 hate
+惰 惰 v,動詞,描写,態度 lazy
+惴 惴 v,動詞,行為,態度 anxious-and-fearful
+惶 惶 v,動詞,描写,態度 frightened
+恻 惻 恻 v,動詞,描写,態度 sorrowful
+惻 惻 恻 v,動詞,描写,態度 sorrowful
+惽 惽 v,動詞,描写,態度 confused
+愀 愀 v,動詞,描写,態度 change-countenance
+愆 愆 n,名詞,描写,態度 fault
+愆 愆 v,動詞,行為,動作 overflow
+愈 愈 v,動詞,変化,生物 better
+愉 愉 v,動詞,描写,態度 pleased
+意 意 v,動詞,行為,動作 think
+愕 愕 v,動詞,行為,態度 startle
+愚 愚 v,動詞,描写,形質 stupid
+愛 愛 爱 n,名詞,行為,* love
+爱 愛 爱 n,名詞,行為,* love
+愛 愛 爱 v,動詞,行為,交流 love
+爱 愛 爱 v,動詞,行為,交流 love
+感 感 v,動詞,行為,態度 feel
+愧 愧 v,動詞,描写,態度 ashamed
+愬 愬 v,動詞,行為,伝達 inform
+怆 愴 怆 v,動詞,描写,態度 grieved
+愴 愴 怆 v,動詞,描写,態度 grieved
+愼 愼 慎 v,動詞,行為,態度 careful
+慎 愼 慎 v,動詞,行為,態度 careful
+愼子 愼子 慎子 n,名詞,人,複合的人名 Shenzi
+慎子 愼子 慎子 n,名詞,人,複合的人名 Shenzi
+忾 愾 忾 v,動詞,行為,交流 sigh
+愾 愾 忾 v,動詞,行為,交流 sigh
+愿 愿 v,動詞,行為,態度 sincere-and-attentive
+慁 慁 v,動詞,行為,交流 disturb
+慄 慄 栗 v,動詞,描写,態度 fearful
+慈 慈 n,名詞,描写,形質 affection
+慈 慈 v,動詞,行為,態度 affectionate
+慊 慊 v,動詞,行為,態度 unsatisfied
+愠 慍 愠 v,動詞,行為,態度 angry
+慍 慍 愠 v,動詞,行為,態度 angry
+慕 慕 v,動詞,行為,態度 yearn-for
+惭 慚 惭 v,動詞,行為,態度 ashamed
+慚 慚 惭 v,動詞,行為,態度 ashamed
+慝 慝 n,名詞,思考,* evil
+慝 慝 n,名詞,描写,態度 evil
+恸 慟 恸 v,動詞,描写,態度 sorely-grieved
+慟 慟 恸 v,動詞,描写,態度 sorely-grieved
+慢 慢 v,動詞,行為,態度 slow
+惯 慣 惯 v,動詞,描写,形質 accustomed
+慣 慣 惯 v,動詞,描写,形質 accustomed
+慥 慥 v,動詞,描写,態度 sincere
+慧 慧 n,名詞,描写,形質 intelligent
+慮 慮 虑 v,動詞,行為,交流 think
+虑 慮 虑 v,動詞,行為,交流 think
+慰 慰 v,動詞,行為,交流 comfort
+庆 慶 庆 v,動詞,描写,態度 congratulate
+慶 慶 庆 v,動詞,描写,態度 congratulate
+慾 慾 欲 v,動詞,行為,動作 desire
+忧 憂 忧 n,名詞,描写,態度 worry
+憂 憂 忧 n,名詞,描写,態度 worry
+忧 憂 忧 v,動詞,行為,態度 worry
+憂 憂 忧 v,動詞,行為,態度 worry
+憃 憃 v,動詞,描写,形質 stupid
+憐 憐 怜 v,動詞,行為,態度 pity
+憔 憔 v,動詞,描写,態度 thin
+惮 憚 惮 v,動詞,行為,態度 fear
+憚 憚 惮 v,動詞,行為,態度 fear
+愤 憤 愤 v,動詞,行為,態度 anger
+憤 憤 愤 v,動詞,行為,態度 anger
+悯 憫 悯 v,動詞,行為,態度 sympathize
+憫 憫 悯 v,動詞,行為,態度 sympathize
+怃 憮 怃 v,動詞,描写,態度 startled
+憮 憮 怃 v,動詞,描写,態度 startled
+憯 憯 v,動詞,行為,態度 miserable
+宪 憲 宪 n,名詞,制度,儀礼 law
+憲 憲 宪 n,名詞,制度,儀礼 law
+宪 憲 宪 v,動詞,描写,態度 happy
+憲 憲 宪 v,動詞,描写,態度 happy
+忆 憶 忆 v,動詞,行為,動作 remember
+憶 憶 忆 v,動詞,行為,動作 remember
+憾 憾 v,動詞,行為,態度 resent
+恳 懇 恳 v,動詞,描写,態度 sincere
+懇 懇 恳 v,動詞,描写,態度 sincere
+应 應 应 v,助動詞,必要,* ought
+応 應 应 v,助動詞,必要,* ought
+應 應 应 v,助動詞,必要,* ought
+应 應 应 v,動詞,行為,交流 answer
+応 應 应 v,動詞,行為,交流 answer
+應 應 应 v,動詞,行為,交流 answer
+怼 懟 怼 v,動詞,行為,交流 hate
+懟 懟 怼 v,動詞,行為,交流 hate
+懥 懥 n,名詞,描写,態度 anger
+懥 懥 v,動詞,行為,態度 angry
+懦 懦 v,動詞,描写,態度 timid
+怀 懷 怀 v,動詞,行為,動作 hold-in-the-bosom
+懐 懷 怀 v,動詞,行為,動作 hold-in-the-bosom
+懷 懷 怀 v,動詞,行為,動作 hold-in-the-bosom
+怀 懷 怀 v,動詞,行為,態度 cherish
+懐 懷 怀 v,動詞,行為,態度 cherish
+懷 懷 怀 v,動詞,行為,態度 cherish
+悬 懸 悬 v,動詞,行為,動作 suspend
+懸 懸 悬 v,動詞,行為,動作 suspend
+惧 懼 惧 v,動詞,行為,態度 fear
+懼 懼 惧 v,動詞,行為,態度 fear
+懿 懿 v,動詞,描写,形質 excellent
+懿子 懿子 n,名詞,人,名 [given-name]
+恋 戀 恋 v,動詞,行為,態度 love
+戀 戀 恋 v,動詞,行為,態度 love
+戈 戈 n,名詞,可搬,道具 dagger-axe
+戊 戊 n,数詞,干支,* [5th-stem]
+戊午 戊午 n,数詞,干支,* [55th-sexagenary]
+戊子 戊子 n,数詞,干支,* [25th-sexagenary]
+戊寅 戊寅 n,数詞,干支,* [15th-sexagenary]
+戊戌 戊戌 n,数詞,干支,* [35th-sexagenary]
+戊申 戊申 n,数詞,干支,* [45th-sexagenary]
+戊辰 戊辰 n,数詞,干支,* [5th-sexagenary]
+戎 戎 n,名詞,主体,集団 western-barbarians
+戎 戎 n,名詞,可搬,道具 weapons-of-war
+成 成 n,名詞,人,その他の人名 Cheng
+成 成 v,動詞,行為,生産 complete
+成子 成子 n,名詞,人,名 [given-name]
+成季 成季 n,名詞,人,名 [given-name]
+成覵 成覵 n,名詞,人,名 [given-name]
+我 我 n,代名詞,人称,止格 [1PRON]
+我 我 n,名詞,人,名 [given-name]
+戒 戒 v,動詞,行為,態度 take-precaution
+戕 戕 v,動詞,行為,動作 wound
+或 或 n,代名詞,人称,起格 someone
+或 或 n,名詞,描写,態度 confused
+或 或 v,副詞,判断,推定 perhaps
+戚 戚 n,名詞,人,関係 relationship-by-marriage
+戚 戚 n,名詞,可搬,道具 battle-axe
+戚 戚 v,動詞,描写,態度 sad
+戟 戟 n,名詞,可搬,道具 lance
+戢 戢 v,動詞,行為,動作 collect
+戮 戮 v,動詞,行為,交流 punish
+战 戰 战 n,名詞,人,名 [given-name]
+戦 戰 战 n,名詞,人,名 [given-name]
+戰 戰 战 n,名詞,人,名 [given-name]
+战 戰 战 n,名詞,行為,* war
+戦 戰 战 n,名詞,行為,* war
+戰 戰 战 n,名詞,行為,* war
+战 戰 战 v,動詞,行為,交流 war
+戦 戰 战 v,動詞,行為,交流 war
+戰 戰 战 v,動詞,行為,交流 war
+戏 戲 戏 p,感嘆詞,*,* alas
+戯 戲 戏 p,感嘆詞,*,* alas
+戲 戲 戏 p,感嘆詞,*,* alas
+戏 戲 戏 v,動詞,行為,動作 sport
+戯 戲 戏 v,動詞,行為,動作 sport
+戲 戲 戏 v,動詞,行為,動作 sport
+戴 戴 n,名詞,人,名 [given-name]
+戴 戴 v,動詞,行為,設置 carry-on-the-head
+戶 戶 户 n,名詞,固定物,建造物 door
+户 戶 户 n,名詞,固定物,建造物 door
+戸 戶 户 n,名詞,固定物,建造物 door
+戹 戹 厄 v,動詞,描写,境遇 in-straits
+戻 戾 v,動詞,描写,態度 do-violence
+戾 戾 v,動詞,描写,態度 do-violence
+戻 戾 v,動詞,行為,移動 turn
+戾 戾 v,動詞,行為,移動 turn
+所 所 n,名詞,制度,場 place
+所 所 p,助詞,接続,体言化 that-which
+扃 扃 n,名詞,可搬,道具 bar-of-a-gate
+扈 扈 v,動詞,行為,動作 groom
+扉 扉 n,名詞,固定物,建造物 leaf-of-a-door
+手 手 n,名詞,不可譲,身体 hand
+才 才 n,名詞,可搬,成果物 talent
+扶 扶 v,動詞,行為,動作 support
+承 承 v,動詞,行為,伝達 receive
+技 技 n,名詞,可搬,伝達 skill
+抃 抃 v,動詞,行為,動作 clap-the-hands
+抉 抉 v,動詞,行為,動作 pull-out
+把 把 v,動詞,行為,動作 hold
+抑 抑 v,副詞,判断,逆接 or
+抑 抑 v,動詞,行為,動作 repress
+投 投 v,動詞,行為,動作 throw
+折 折 v,動詞,行為,動作 break
+披 披 v,動詞,行為,動作 open
+抱 抱 v,動詞,行為,動作 embrace
+抽 抽 v,動詞,行為,動作 pull-out
+払 拂 v,動詞,行為,動作 brush-away
+拂 拂 v,動詞,行為,動作 brush-away
+拒 拒 v,動詞,行為,態度 oppose
+㧞 拔 v,動詞,行為,動作 pull-up
+抜 拔 v,動詞,行為,動作 pull-up
+拔 拔 v,動詞,行為,動作 pull-up
+扡 拖 v,動詞,行為,動作 drag
+拖 拖 v,動詞,行為,動作 drag
+拘 拘 v,動詞,行為,動作 grasp
+拙 拙 v,動詞,描写,態度 clumsy
+招 招 v,動詞,行為,動作 invite
+拜 拜 v,動詞,行為,動作 salute
+拝 拜 v,動詞,行為,動作 salute
+括 括 n,名詞,人,名 [given-name]
+括 括 v,動詞,行為,動作 draw-together
+拯 拯 v,動詞,行為,交流 rescue
+拱 拱 v,動詞,行為,動作 join-hands-in-front-of-chest
+拳 拳 n,名詞,不可譲,身体 fist
+拾 拾 v,動詞,行為,動作 gather
+持 持 v,動詞,行為,動作 hold
+指 指 n,名詞,不可譲,身体 finger
+指 指 v,動詞,行為,動作 point
+挍 挍 v,動詞,行為,動作 collate
+挫 挫 v,動詞,行為,動作 push
+振 振 v,動詞,行為,動作 shake
+振羽 振羽 n,名詞,主体,書物 [book-name]
+挟 挾 挟 v,動詞,行為,動作 clasp-under-the-arm
+挾 挾 挟 v,動詞,行為,動作 clasp-under-the-arm
+捆 捆 v,動詞,行為,動作 beat
+捉 捉 v,動詞,行為,動作 grasp
+捐 捐 v,動詞,行為,動作 abandon
+捕 捕 v,動詞,行為,得失 catch
+捨 捨 舍 v,動詞,行為,得失 release
+㨗 捷 v,動詞,行為,交流 victory
+捷 捷 v,動詞,行為,交流 victory
+授 授 v,動詞,行為,得失 give
+掊 掊 v,動詞,行為,動作 take-in-cupped-hands
+掌 掌 n,名詞,不可譲,身体 palm
+掌 掌 v,動詞,行為,動作 handle
+排 排 v,動詞,行為,動作 bank-up
+掖 掖 n,名詞,可搬,道具 armpit
+掘 掘 v,動詞,行為,動作 dig-out
+挂 掛 挂 v,動詞,行為,動作 hang
+掛 掛 挂 v,動詞,行為,動作 hang
+採 採 采 v,動詞,行為,動作 pick
+探 探 v,動詞,行為,動作 explore
+接 接 v,動詞,行為,設置 join
+接舆 接輿 接舆 n,名詞,人,名 [given-name]
+接輿 接輿 接舆 n,名詞,人,名 [given-name]
+控 控 v,動詞,行為,伝達 accuse
+推 推 v,動詞,行為,動作 push
+掩 掩 v,動詞,行為,動作 cover
+措 措 v,動詞,行為,設置 establish
+揆 揆 n,名詞,制度,儀礼 standard
+揆 揆 v,動詞,行為,動作 measure
+揉 揉 v,動詞,行為,動作 soften
+提 提 v,動詞,行為,動作 lift
+挿 插 n,名詞,可搬,道具 spade
+插 插 n,名詞,可搬,道具 spade
+挿 插 v,動詞,行為,動作 insert
+插 插 v,動詞,行為,動作 insert
+揖 揖 v,動詞,行為,交流 salute
+扬 揚 扬 n,名詞,可搬,道具 army-axe
+揚 揚 扬 n,名詞,可搬,道具 army-axe
+扬 揚 扬 v,動詞,行為,動作 raise
+揚 揚 扬 v,動詞,行為,動作 raise
+换 換 换 v,動詞,行為,動作 change
+換 換 换 v,動詞,行為,動作 change
+揜 揜 v,動詞,行為,動作 cover
+揠 揠 v,動詞,行為,動作 pull-up-out-of-the-ground
+握 握 v,動詞,行為,動作 grasp
+揣 揣 v,動詞,行為,動作 guess
+掲 揭 v,動詞,行為,動作 raise
+揭 揭 v,動詞,行為,動作 raise
+援 援 v,動詞,行為,動作 pull-up
+搆 搆 构 v,動詞,行為,動作 cross
+损 損 损 v,動詞,行為,得失 decrease
+損 損 损 v,動詞,行為,得失 decrease
+搏 搏 v,動詞,行為,動作 beat
+捣 搗 捣 v,動詞,行為,動作 beat-with-pestle
+搗 搗 捣 v,動詞,行為,動作 beat-with-pestle
+搴 搴 v,動詞,行為,動作 seize
+搂 摟 搂 v,動詞,行為,動作 drag-away
+摟 摟 搂 v,動詞,行為,動作 drag-away
+揔 摠 v,動詞,行為,交流 bind-together
+摠 摠 v,動詞,行為,交流 bind-together
+摩 摩 v,動詞,行為,動作 rub
+摽 摽 v,動詞,行為,動作 wave-away
+撅 撅 噘 v,動詞,行為,動作 dig-out
+撤 撤 v,動詞,行為,動作 remove
+拨 撥 拨 n,名詞,可搬,道具 tum
+撥 撥 拨 n,名詞,可搬,道具 tum
+抚 撫 抚 v,動詞,行為,態度 pacify
+撫 撫 抚 v,動詞,行為,態度 pacify
+播 播 v,動詞,行為,動作 sow
+撮 撮 n,名詞,行為,* pinch-with-the-fingers
+撮 撮 v,動詞,行為,動作 pinch-with-the-fingers
+撰 撰 v,動詞,行為,動作 compile
+挞 撻 挞 v,動詞,行為,動作 beat
+撻 撻 挞 v,動詞,行為,動作 beat
+拥 擁 拥 v,動詞,行為,動作 embrace
+擁 擁 拥 v,動詞,行為,動作 embrace
+択 擇 择 v,動詞,行為,動作 pick-out
+择 擇 择 v,動詞,行為,動作 pick-out
+擇 擇 择 v,動詞,行為,動作 pick-out
+击 擊 击 v,動詞,行為,動作 strike
+撃 擊 击 v,動詞,行為,動作 strike
+擊 擊 击 v,動詞,行為,動作 strike
+操 操 n,名詞,描写,態度 tenets
+操 操 v,動詞,行為,動作 grasp
+擒 擒 v,動詞,行為,動作 catch
+擘 擘 n,名詞,不可譲,身体 thumb
+据 據 据 v,動詞,行為,姿勢 rely-on
+據 據 据 v,動詞,行為,姿勢 rely-on
+擣 擣 捣 v,動詞,行為,動作 beat-with-pestle
+𢭏 擣 捣 v,動詞,行為,動作 beat-with-pestle
+擭 擭 n,名詞,可搬,道具 trap-for-animals
+摈 擯 摈 v,動詞,行為,役割 host
+擯 擯 摈 v,動詞,行為,役割 host
+摈 擯 摈 v,動詞,行為,態度 reject
+擯 擯 摈 v,動詞,行為,態度 reject
+扩 擴 扩 v,動詞,行為,動作 extend
+拡 擴 扩 v,動詞,行為,動作 extend
+擴 擴 扩 v,動詞,行為,動作 extend
+摅 攄 摅 v,動詞,行為,交流 spread
+攄 攄 摅 v,動詞,行為,交流 spread
+撄 攖 撄 v,動詞,行為,移動 bump-into
+攖 攖 撄 v,動詞,行為,移動 bump-into
+攘 攘 v,動詞,行為,動作 steal
+携 攜 携 v,動詞,行為,動作 lead-by-hand
+攜 攜 携 v,動詞,行為,動作 lead-by-hand
+摂 攝 摄 v,動詞,行為,動作 grasp
+摄 攝 摄 v,動詞,行為,動作 grasp
+攝 攝 摄 v,動詞,行為,動作 grasp
+摂提 攝提 摄提 n,名詞,天象,天文 [name-of-star]
+摄提 攝提 摄提 n,名詞,天象,天文 [name-of-star]
+攝提 攝提 摄提 n,名詞,天象,天文 [name-of-star]
+攫 攫 v,動詞,行為,動作 seize
+㧛 攬 㧛 v,動詞,行為,動作 clasp
+擥 攬 㧛 v,動詞,行為,動作 clasp
+揽 攬 揽 v,動詞,行為,動作 clasp
+攬 攬 揽 v,動詞,行為,動作 clasp
+支 支 n,名詞,可搬,道具 branch
+収 收 v,動詞,行為,動作 receive
+收 收 v,動詞,行為,動作 receive
+攸 攸 p,助詞,接続,体言化 the-place-where
+改 改 v,動詞,行為,動作 change
+攻 攻 v,動詞,行為,交流 attack
+放 放 n,名詞,描写,態度 willfulness
+放 放 v,動詞,行為,動作 release
+放勋 放勳 放勋 n,名詞,人,名 [given-name]
+放勛 放勳 放勋 n,名詞,人,名 [given-name]
+放勲 放勳 放勋 n,名詞,人,名 [given-name]
+放勳 放勳 放勋 n,名詞,人,名 [given-name]
+政 政 n,名詞,制度,儀礼 government
+故 故 n,名詞,思考,* reason
+故 故 n,名詞,描写,形質 trouble
+故 故 n,名詞,時,* former
+故 故 v,副詞,判断,確定 therefore
+効 效 v,動詞,行為,動作 imitate
+效 效 v,動詞,行為,動作 imitate
+敎 敎 教 n,名詞,可搬,伝達 teaching
+教 敎 教 n,名詞,可搬,伝達 teaching
+敎 敎 教 v,動詞,行為,伝達 teach
+教 敎 教 v,動詞,行為,伝達 teach
+救 救 v,動詞,行為,動作 rescue
+敖 敖 v,動詞,行為,動作 stroll
+敗 敗 败 n,名詞,可搬,成果物 defeat
+败 敗 败 n,名詞,可搬,成果物 defeat
+敗 敗 败 v,動詞,行為,交流 lose-out
+败 敗 败 v,動詞,行為,交流 lose-out
+叙 敘 叙 v,動詞,行為,設置 arrange-in-order
+敘 敘 叙 v,動詞,行為,設置 arrange-in-order
+敝 敝 v,動詞,行為,動作 wear-out
+敢 敢 v,助動詞,願望,* dare
+敢 敢 v,動詞,行為,動作 dare
+散 散 n,名詞,人,姓氏 [surname]
+散 散 v,動詞,行為,動作 dispel
+敦 敦 v,動詞,行為,態度 solid
+敬 敬 n,名詞,人,その他の人名 Jing
+敬 敬 n,名詞,描写,態度 respect
+敬 敬 v,動詞,行為,態度 respect
+整 整 v,動詞,行為,動作 put-in-order
+敌 敵 敌 n,名詞,人,人 enemy
+敵 敵 敌 n,名詞,人,人 enemy
+敌 敵 敌 v,動詞,行為,交流 oppose
+敵 敵 敌 v,動詞,行為,交流 oppose
+敷 敷 v,動詞,行為,動作 spread
+数 數 数 n,名詞,数量,* number
+數 數 数 n,名詞,数量,* number
+数 數 数 v,動詞,描写,量 frequent
+數 數 数 v,動詞,描写,量 frequent
+数 數 数 v,動詞,行為,動作 count
+數 數 数 v,動詞,行為,動作 count
+敺 敺 驱 v,動詞,行為,動作 expel
+敛 斂 敛 n,名詞,制度,儀礼 collection
+斂 斂 敛 n,名詞,制度,儀礼 collection
+敛 斂 敛 v,動詞,行為,動作 restrain
+斂 斂 敛 v,動詞,行為,動作 restrain
+斃 斃 毙 v,動詞,変化,生物 die
+毙 斃 毙 v,動詞,変化,生物 die
+文 文 n,名詞,人,その他の人名 Wen
+文 文 n,名詞,可搬,伝達 writing
+文 文 n,名詞,描写,形質 ornament
+文 文 n,名詞,描写,態度 civil
+文 文 v,動詞,描写,態度 civil
+文子 文子 n,名詞,人,複合的人名 Wenzi
+斐 斐 v,動詞,行為,動作 ornate
+斑 斑 v,動詞,描写,形質 variegated
+斗 斗 n,名詞,天象,天文 polar-star
+斗 斗 n,名詞,度量衡,* [capacity-unit]
+料 料 n,名詞,可搬,糧食 seed
+料 料 v,動詞,行為,動作 measure-out
+斤 斤 n,名詞,可搬,道具 axe
+斧 斧 n,名詞,可搬,道具 axe
+斫 斫 v,動詞,行為,動作 chop
+斩 斬 斩 v,動詞,行為,動作 cut-off
+斬 斬 斩 v,動詞,行為,動作 cut-off
+斯 斯 n,代名詞,指示,* this
+斯 斯 n,名詞,人,名 [given-name]
+斯 斯 v,副詞,時相,緊接 then
+斯須 斯須 斯须 n,名詞,時,* short-time
+斯须 斯須 斯须 n,名詞,時,* short-time
+新 新 v,動詞,描写,形質 new
+斲 斲 斫 v,動詞,行為,動作 chop
+断 斷 断 n,名詞,描写,形質 cut-off
+斷 斷 断 n,名詞,描写,形質 cut-off
+断 斷 断 v,動詞,行為,動作 decide
+斷 斷 断 v,動詞,行為,動作 decide
+方 方 n,名詞,固定物,関係 direction
+方 方 n,名詞,度量衡,* square
+方 方 v,副詞,時相,現在 just-then
+方 方 v,動詞,描写,形質 square
+方 方 v,動詞,行為,動作 pattern
+方叔 方叔 n,名詞,人,名 [given-name]
+於 於 于 p,感嘆詞,*,* ah
+於 於 于 v,前置詞,基盤,* at
+於 於 于 v,動詞,存在,存在 go-into
+於陵 於陵 于陵 n,名詞,固定物,地名 [place-name]
+施 施 n,名詞,人,名 [given-name]
+施 施 v,動詞,行為,交流 spread
+旁 旁 n,名詞,固定物,関係 side
+旂 旂 旗 n,名詞,可搬,道具 banner-with-bells
+旃 旃 n,名詞,可搬,道具 banner
+旄 旄 n,名詞,可搬,道具 ox-tail-banner
+旅 旅 n,名詞,人,人 troop
+旅 旅 v,動詞,行為,移動 travel
+旋 旋 v,動詞,行為,動作 whirl
+旌 旌 n,名詞,可搬,道具 yak-tail-banner-on-a-feather-decked-pole
+族 族 n,名詞,人,関係 clan
+旗 旗 n,名詞,可搬,道具 banner
+既 既 n,名詞,制度,儀礼 sacrificial-animal
+旣 既 n,名詞,制度,儀礼 sacrificial-animal
+既 既 n,名詞,制度,儀礼 sacrificial-animal
+既 既 v,副詞,時相,完了 already
+旣 既 v,副詞,時相,完了 already
+既 既 v,副詞,時相,完了 already
+既 既 v,動詞,行為,得失 complete
+旣 既 v,動詞,行為,得失 complete
+既 既 v,動詞,行為,得失 complete
+日 日 n,名詞,天象,天文 sun
+日 日 n,名詞,時,* day
+旦 旦 n,名詞,天象,気象 sunrise
+㫖 旨 v,動詞,描写,形質 fine-tasting
+旨 旨 v,動詞,描写,形質 fine-tasting
+早 早 v,動詞,描写,形質 early
+旬 旬 n,名詞,時,* [cycle-of-ten-days]
+旱 旱 n,名詞,天象,気象 drought
+旱 旱 v,動詞,描写,形質 droughty
+旻 旻 n,名詞,天象,気象 autumnal-sky
+昆 昆 n,名詞,人,関係 elder-brother
+昇 昇 升 n,名詞,固定物,地名 [place-name]
+昇 昇 升 v,動詞,行為,動作 rise
+昊英 昊英 n,名詞,人,名 [given-name]
+明 明 n,名詞,人,その他の人名 Ming
+明 明 n,名詞,描写,形質 light
+明 明 v,動詞,描写,形質 bright
+昏 昏 n,名詞,制度,儀礼 marriage
+昏 昏 n,名詞,時,* evening
+昏 昏 v,動詞,描写,形質 dark
+易 易 n,名詞,主体,書物 [book-name]
+易 易 v,動詞,描写,形質 easy
+易 易 v,動詞,行為,動作 change
+易牙 易牙 n,名詞,人,名 [given-name]
+昔 昔 n,名詞,時,* formerly
+星 星 n,名詞,天象,天文 star
+映 映 v,動詞,行為,動作 shine
+春 春 n,名詞,人,名 [given-name]
+春 春 n,名詞,時,* spring
+春秋 春秋 n,名詞,主体,書物 [book-name]
+昧 昧 n,名詞,時,* dark
+昨 昨 n,名詞,時,* yesterday
+昭 昭 n,名詞,人,その他の人名 Zhao
+昭 昭 n,名詞,固定物,関係 left-hand-of-temple
+昭 昭 v,動詞,描写,形質 bright
+寔 是 n,代名詞,指示,* this
+是 是 n,代名詞,指示,* this
+是 是 n,名詞,描写,態度 right
+是 是 v,動詞,存在,存在 be
+昴 昴 n,名詞,天象,天文 Pleiades
+时 時 时 n,代名詞,指示,* this
+時 時 时 n,代名詞,指示,* this
+时 時 时 n,名詞,時,* time
+時 時 时 n,名詞,時,* time
+时 時 时 v,動詞,行為,態度 take-chance
+時 時 时 v,動詞,行為,態度 take-chance
+时子 時子 时子 n,名詞,人,複合的人名 Shizi
+時子 時子 时子 n,名詞,人,複合的人名 Shizi
+晉 晉 晋 n,名詞,主体,国名 [country-name]
+晋 晉 晋 n,名詞,主体,国名 [country-name]
+晏 晏 v,動詞,描写,形質 clear
+晏 晏 v,動詞,描写,態度 late
+晏子 晏子 n,名詞,人,複合的人名 Yanzi
+晚 晚 v,動詞,描写,形質 late
+晩 晚 v,動詞,描写,形質 late
+昼 晝 昼 n,名詞,固定物,地名 [place-name]
+晝 晝 昼 n,名詞,固定物,地名 [place-name]
+昼 晝 昼 n,名詞,時,* daytime
+晝 晝 昼 n,名詞,時,* daytime
+晨 晨 n,名詞,時,* morning
+普 普 n,名詞,人,名 [given-name]
+普 普 v,動詞,描写,量 common
+景 景 n,名詞,人,その他の人名 Jing
+景 景 v,動詞,描写,態度 bright
+景伯 景伯 n,名詞,人,名 [given-name]
+景子 景子 n,名詞,人,複合的人名 Jingzi
+晳 晳 n,名詞,人,名 [given-name]
+智 智 n,名詞,描写,形質 wisdom
+智 智 v,動詞,描写,形質 wise
+暇 暇 v,動詞,行為,態度 leisure
+暑 暑 v,動詞,描写,境遇 heat
+暢 暢 畅 v,動詞,行為,動作 penetrate
+畅 暢 畅 v,動詞,行為,動作 penetrate
+暮 暮 n,名詞,時,* evening
+暴 暴 v,動詞,描写,態度 expose
+暦 曆 历 n,名詞,天象,天文 calendar
+曆 曆 历 n,名詞,天象,天文 calendar
+晓 曉 晓 n,名詞,天象,気象 dawn
+暁 曉 晓 n,名詞,天象,気象 dawn
+曉 曉 晓 n,名詞,天象,気象 dawn
+暧 曖 暧 v,動詞,変化,性質 obscure
+曖 曖 暧 v,動詞,変化,性質 obscure
+曙 曙 n,名詞,天象,気象 dawn
+旷 曠 旷 v,動詞,描写,形質 vast
+曠 曠 旷 v,動詞,描写,形質 vast
+曩 曩 v,副詞,時相,過去 formerly
+曰 曰 v,動詞,行為,伝達 say
+曲 曲 v,動詞,行為,動作 bent
+曲阜 曲阜 n,名詞,固定物,地名 [place-name]
+曳 曳 v,動詞,行為,動作 drag
+更 更 n,名詞,人,名 [given-name]
+更 更 n,名詞,人,役割 watch-of-night
+更 更 v,動詞,行為,動作 replace
+曷 曷 n,代名詞,疑問,* what
+曷 曷 v,副詞,疑問,原因 what
+书 書 书 n,名詞,主体,書物 written-document
+書 書 书 n,名詞,主体,書物 written-document
+书 書 书 v,動詞,行為,動作 write
+書 書 书 v,動詞,行為,動作 write
+曹 曹 n,名詞,主体,国名 [country-name]
+曹 曹 n,名詞,主体,集団 bureau
+曾 曾 n,名詞,人,姓氏 [surname]
+曾 曾 v,副詞,時相,過去 once
+曾子 曾子 n,名詞,人,複合的人名 Zengzi
+最 最 v,副詞,程度,極度 highest
+最 最 v,動詞,行為,動作 collect
+㑹 會 会 n,名詞,制度,場 meeting
+会 會 会 n,名詞,制度,場 meeting
+會 會 会 n,名詞,制度,場 meeting
+㑹 會 会 v,動詞,行為,交流 come-together
+会 會 会 v,動詞,行為,交流 come-together
+會 會 会 v,動詞,行為,交流 come-together
+㑹 會 会 v,動詞,行為,動作 happen
+会 會 会 v,動詞,行為,動作 happen
+會 會 会 v,動詞,行為,動作 happen
+月 月 n,名詞,天象,天文 moon
+月 月 n,名詞,時,* month
+有 有 n,名詞,人,名 [given-name]
+有 有 v,動詞,存在,存在 have
+有子 有子 n,名詞,人,複合的人名 Youzi
+有庳 有庳 n,名詞,固定物,地名 [place-name]
+有若 有若 n,名詞,人,名 [given-name]
+有莘 有莘 n,名詞,人,姓氏 [surname]
+朋 朋 n,名詞,人,関係 friend
+服 服 n,名詞,可搬,道具 clothing
+服 服 v,動詞,行為,交流 submit
+服 服 v,動詞,行為,動作 wear
+朔 朔 n,名詞,時,* first-day-of-the-new-moon
+朕 朕 n,代名詞,人称,他 [1PRON]
+望 望 v,動詞,行為,動作 expect
+朝 朝 n,名詞,人,名 [given-name]
+朝 朝 n,名詞,制度,場 court
+朝 朝 n,名詞,時,* morning
+朝 朝 v,動詞,行為,役割 go-to-court
+朝儛 朝儛 n,名詞,固定物,地名 [place-name]
+朞 期 n,名詞,数量,* complete-cycle-of-time
+期 期 n,名詞,数量,* complete-cycle-of-time
+期 期 v,動詞,行為,動作 expect
+木 木 n,名詞,固定物,樹木 tree
+未 未 v,副詞,否定,有界 not-yet
+末 末 n,名詞,固定物,関係 end
+末 末 v,動詞,存在,存在 be-nothing
+本 本 n,名詞,描写,形質 base
+本 本 v,動詞,行為,動作 fundamental
+札 札 n,名詞,人,名 [given-name]
+札 札 n,名詞,可搬,道具 writing-slip
+朱 朱 n,名詞,描写,形質 vermilion
+朱张 朱張 朱张 n,名詞,人,名 [given-name]
+朱張 朱張 朱张 n,名詞,人,名 [given-name]
+朱襄 朱襄 n,名詞,人,姓氏 [surname]
+朴 朴 n,名詞,固定物,樹木 Celtis-sinensis
+朴 朴 v,動詞,描写,態度 uncarved
+朽 朽 v,動詞,変化,性質 rotten
+杇 杇 v,動詞,行為,動作 plaster
+李 李 n,名詞,固定物,樹木 plum
+材 材 n,名詞,描写,形質 timber
+杖 杖 n,名詞,可搬,道具 stick
+杖 杖 v,動詞,行為,動作 lean-on-a-stick
+杜 杜 n,名詞,人,姓氏 [surname]
+杜鵑 杜鵑 杜鹃 n,名詞,主体,動物 cuckoo
+杜鹃 杜鵑 杜鹃 n,名詞,主体,動物 cuckoo
+杞 杞 n,名詞,主体,国名 [country-name]
+杞 杞 n,名詞,人,姓氏 [surname]
+杞 杞 n,名詞,固定物,樹木 Salix-purpurea
+束 束 v,動詞,行為,動作 tie-in-a-bundle
+杠 杠 n,名詞,固定物,建造物 single-plank-bridge
+杯 杯 n,名詞,可搬,道具 cup
+东 東 东 n,名詞,固定物,関係 east
+東 東 东 n,名詞,固定物,関係 east
+东 東 东 v,動詞,行為,移動 go-east
+東 東 东 v,動詞,行為,移動 go-east
+东坡 東坡 东坡 n,名詞,人,名 [given-name]
+東坡 東坡 东坡 n,名詞,人,名 [given-name]
+东蒙 東蒙 东蒙 n,名詞,固定物,地名 [place-name]
+東蒙 東蒙 东蒙 n,名詞,固定物,地名 [place-name]
+东郭 東郭 东郭 n,名詞,人,姓氏 [surname]
+東郭 東郭 东郭 n,名詞,人,姓氏 [surname]
+东里 東里 东里 n,名詞,固定物,地名 [place-name]
+東里 東里 东里 n,名詞,固定物,地名 [place-name]
+杵 杵 n,名詞,可搬,道具 pestle
+松 松 n,名詞,固定物,樹木 pine-tree
+枉 枉 v,動詞,行為,動作 bent
+析 析 v,動詞,行為,動作 split
+枕 枕 n,名詞,可搬,道具 pillow
+枕 枕 v,動詞,行為,動作 use-as-a-pillow
+林 林 n,名詞,固定物,地形 woods
+枚 枚 n,名詞,固定物,樹木 stem
+果 果 v,動詞,描写,態度 courageous
+果 果 v,動詞,行為,動作 result
+枝 枝 n,名詞,可搬,道具 branch
+枷 枷 n,名詞,可搬,道具 flail
+柏 柏 n,名詞,固定物,樹木 cypress
+柏皇 柏皇 n,名詞,人,姓氏 [surname]
+某 某 n,代名詞,指示,* such-and-such
+染 染 v,動詞,行為,動作 dye
+柔 柔 v,動詞,描写,形質 soft
+柙 柙 n,名詞,固定物,建造物 cage
+柝 柝 n,名詞,可搬,道具 night-watchman's-rattle
+柯 柯 n,名詞,固定物,樹木 stalk
+柱 柱 n,名詞,固定物,建造物 pillar
+柳 柳 n,名詞,人,名 [given-name]
+柳 柳 n,名詞,固定物,樹木 willow
+柳下 柳下 n,名詞,人,その他の人名 Liuxia
+柴 柴 n,名詞,人,名 [given-name]
+柵 柵 栅 n,名詞,固定物,建造物 fence
+栅 柵 栅 n,名詞,固定物,建造物 fence
+柷 柷 n,名詞,可搬,道具 wood-percussion
+栖 栖 v,動詞,描写,態度 restless
+栗 栗 n,名詞,固定物,樹木 chestnut
+栗 栗 v,動詞,描写,態度 trembling
+校 校 n,名詞,固定物,建造物 school
+校 校 v,動詞,行為,動作 examine
+根 根 n,名詞,固定物,樹木 root
+根 根 v,動詞,行為,設置 root
+格 格 v,動詞,行為,動作 reach-to
+栽 栽 v,動詞,行為,設置 plant
+桀 桀 n,名詞,人,名 [given-name]
+桀溺 桀溺 n,名詞,人,名 [given-name]
+桃 桃 n,名詞,固定物,樹木 peach
+桃应 桃應 桃应 n,名詞,人,名 [given-name]
+桃応 桃應 桃应 n,名詞,人,名 [given-name]
+桃應 桃應 桃应 n,名詞,人,名 [given-name]
+案 案 n,名詞,可搬,伝達 plan
+案 案 v,動詞,行為,動作 plan
+桎 桎 n,名詞,可搬,道具 foot-fetters
+桐 桐 n,名詞,固定物,地名 [place-name]
+桐 桐 n,名詞,固定物,樹木 Paulownia
+桑 桑 n,名詞,固定物,樹木 mulberry-tree
+桓 桓 n,名詞,人,その他の人名 Huan
+桓子 桓子 n,名詞,人,名 [given-name]
+桮 桮 杯 n,名詞,可搬,道具 cup
+桴 桴 n,名詞,可搬,道具 raft
+梁 梁 n,名詞,主体,国名 [country-name]
+梁 梁 n,名詞,固定物,地名 [place-name]
+梁 梁 n,名詞,固定物,地形 bridge
+梃 梃 n,名詞,可搬,道具 stick
+梏 梏 n,名詞,可搬,道具 fetters
+梓 梓 n,名詞,人,役割 carpenter
+梓 梓 n,名詞,固定物,樹木 catalpa
+条 條 条 n,名詞,可搬,伝達 article
+條 條 条 n,名詞,可搬,伝達 article
+条 條 条 n,名詞,固定物,樹木 twig
+條 條 条 n,名詞,固定物,樹木 twig
+梧 梧 n,名詞,固定物,樹木 parasol-tree
+梩 梩 n,名詞,可搬,道具 spade
+械 械 n,名詞,可搬,道具 tool
+梲 梲 棁 n,名詞,固定物,建造物 short-pillars-supporting-rafters-of-a-house
+棁 梲 棁 n,名詞,固定物,建造物 short-pillars-supporting-rafters-of-a-house
+梵 梵 n,名詞,人,その他の人名 Brahma
+梵 梵 n,名詞,描写,形質 Buddhistic
+弃 棄 弃 v,動詞,行為,動作 abandon
+棄 棄 弃 v,動詞,行為,動作 abandon
+枨 棖 枨 n,名詞,人,名 [given-name]
+棖 棖 枨 n,名詞,人,名 [given-name]
+枣 棗 枣 n,名詞,固定物,樹木 jujube
+棗 棗 枣 n,名詞,固定物,樹木 jujube
+棘 棘 n,名詞,人,姓氏 [surname]
+棘 棘 n,名詞,固定物,樹木 sour-jujube
+棠 棠 n,名詞,固定物,地名 [place-name]
+棠 棠 n,名詞,固定物,樹木 Pyrus
+棣 棣 n,名詞,固定物,樹木 kerria
+棬 棬 n,名詞,可搬,道具 round-box
+森 森 n,名詞,固定物,樹木 dense-trees
+棲 棲 栖 n,名詞,固定物,建造物 perch
+棲 棲 栖 v,動詞,行為,設置 perch
+棺 棺 n,名詞,可搬,道具 coffin
+椁 椁 n,名詞,可搬,道具 outer-coffin
+槨 椁 n,名詞,可搬,道具 outer-coffin
+植 植 v,動詞,行為,動作 plant
+椸 椸 n,名詞,可搬,道具 clothes-horse
+杨子 楊子 杨子 n,名詞,人,複合的人名 Yangzi
+楊子 楊子 杨子 n,名詞,人,複合的人名 Yangzi
+楎 楎 n,名詞,可搬,道具 peg
+楚 楚 n,名詞,主体,国名 [country-name]
+楡 楡 榆 n,名詞,人,名 [given-name]
+榆 楡 榆 n,名詞,人,名 [given-name]
+楡 楡 榆 n,名詞,固定物,樹木 elm
+榆 楡 榆 n,名詞,固定物,樹木 elm
+业 業 业 n,名詞,可搬,成果物 work
+業 業 业 n,名詞,可搬,成果物 work
+极 極 极 n,名詞,固定物,関係 pole-end
+極 極 极 n,名詞,固定物,関係 pole-end
+极 極 极 v,動詞,行為,動作 reach-the-end
+極 極 极 v,動詞,行為,動作 reach-the-end
+楷 楷 n,名詞,描写,態度 model
+楹 楹 n,名詞,固定物,建造物 pillar
+概 概 n,名詞,描写,形質 overview
+槪 概 n,名詞,描写,形質 overview
+栄 榮 荣 v,動詞,描写,形質 flourish
+榮 榮 荣 v,動詞,描写,形質 flourish
+荣 榮 荣 v,動詞,描写,形質 flourish
+榱 榱 n,名詞,固定物,建造物 rafter
+槁 槁 v,動詞,変化,生物 dry
+构 構 构 v,動詞,行為,設置 construct
+構 構 构 v,動詞,行為,設置 construct
+槿 槿 n,名詞,固定物,樹木 hibiscus
+乐 樂 乐 n,名詞,制度,儀礼 music
+楽 樂 乐 n,名詞,制度,儀礼 music
+樂 樂 乐 n,名詞,制度,儀礼 music
+乐 樂 乐 n,名詞,描写,態度 joy
+楽 樂 乐 n,名詞,描写,態度 joy
+樂 樂 乐 n,名詞,描写,態度 joy
+乐 樂 乐 v,動詞,行為,儀礼 perform
+楽 樂 乐 v,動詞,行為,儀礼 perform
+樂 樂 乐 v,動詞,行為,儀礼 perform
+乐 樂 乐 v,動詞,行為,態度 enjoy
+楽 樂 乐 v,動詞,行為,態度 enjoy
+樂 樂 乐 v,動詞,行為,態度 enjoy
+乐正子 樂正子 乐正子 n,名詞,人,複合的人名 Yuezhengzi
+楽正子 樂正子 乐正子 n,名詞,人,複合的人名 Yuezhengzi
+樂正子 樂正子 乐正子 n,名詞,人,複合的人名 Yuezhengzi
+楼 樓 楼 n,名詞,固定物,建造物 building
+樓 樓 楼 n,名詞,固定物,建造物 building
+枢 樞 枢 n,名詞,可搬,道具 pivot
+樞 樞 枢 n,名詞,可搬,道具 pivot
+枢 樞 枢 n,名詞,天象,天文 [name-of-star]
+樞 樞 枢 n,名詞,天象,天文 [name-of-star]
+模 模 n,名詞,描写,態度 standard
+樲 樲 n,名詞,固定物,樹木 sour-jujube
+樵 樵 v,動詞,行為,動作 gather-firewood
+树 樹 树 n,名詞,固定物,樹木 tree
+樹 樹 树 n,名詞,固定物,樹木 tree
+树 樹 树 v,動詞,行為,設置 plant
+樹 樹 树 v,動詞,行為,設置 plant
+桡 橈 桡 v,動詞,行為,動作 bend
+橈 橈 桡 v,動詞,行為,動作 bend
+桥 橋 桥 n,名詞,固定物,建造物 bridge
+橋 橋 桥 n,名詞,固定物,建造物 bridge
+橐 橐 n,名詞,可搬,道具 sack
+機 機 机 n,名詞,可搬,道具 latch
+横 橫 横 v,動詞,描写,形質 crosswise
+橫 橫 横 v,動詞,描写,形質 crosswise
+槚 檟 槚 n,名詞,固定物,樹木 mountain-catalpa
+檟 檟 槚 n,名詞,固定物,樹木 mountain-catalpa
+检 檢 检 v,動詞,行為,動作 regulate
+検 檢 检 v,動詞,行為,動作 regulate
+檢 檢 检 v,動詞,行為,動作 regulate
+梼杌 檮杌 梼杌 n,名詞,主体,書物 [book-name]
+檮杌 檮杌 梼杌 n,名詞,主体,書物 [book-name]
+橹 櫓 橹 n,名詞,固定物,建造物 large-shield
+櫓 櫓 橹 n,名詞,固定物,建造物 large-shield
+栉 櫛 栉 n,名詞,可搬,道具 comb
+櫛 櫛 栉 n,名詞,可搬,道具 comb
+椟 櫝 椟 n,名詞,可搬,道具 coffer
+櫝 櫝 椟 n,名詞,可搬,道具 coffer
+权 權 权 v,動詞,行為,動作 balance
+権 權 权 v,動詞,行為,動作 balance
+權 權 权 v,動詞,行為,動作 balance
+次 次 n,名詞,固定物,関係 next
+次 次 v,動詞,行為,設置 arrange-in-order
+欣 欣 v,動詞,描写,形質 joyful
+欲 欲 n,名詞,描写,態度 desire
+欲 欲 v,助動詞,願望,* wish
+欲 欲 v,動詞,行為,動作 desire
+欷 欷 v,動詞,行為,態度 sigh
+欺 欺 v,動詞,行為,交流 cheat
+款 款 v,動詞,行為,態度 sincere
+欿 欿 v,動詞,描写,態度 insufficient
+歃 歃 v,動詞,行為,動作 smear-mouth-at-oathtaking
+歌 歌 n,名詞,可搬,伝達 song
+歌 歌 v,動詞,行為,動作 sing
+歎 歎 叹 v,動詞,行為,態度 sigh
+歔 歔 v,動詞,行為,態度 sigh
+欤 歟 欤 p,助詞,句末,* [Q]
+歟 歟 欤 p,助詞,句末,* [Q]
+歠 歠 v,動詞,行為,飲食 sip
+欢 歡 欢 v,動詞,行為,態度 happy
+歓 歡 欢 v,動詞,行為,態度 happy
+歡 歡 欢 v,動詞,行為,態度 happy
+止 止 p,助詞,句末,* [filler-character]
+止 止 v,動詞,行為,動作 stop
+正 正 n,名詞,時,* first-month-of-the-year
+正 正 v,動詞,描写,形質 correct
+此 此 n,代名詞,指示,* this
+步 步 n,名詞,度量衡,* pace
+歩 步 n,名詞,度量衡,* pace
+步 步 v,動詞,行為,移動 walk
+歩 步 v,動詞,行為,移動 walk
+武 武 n,名詞,人,その他の人名 Wu
+武 武 n,名詞,制度,儀礼 [ancient-music]
+武 武 v,動詞,描写,態度 martial
+武丁 武丁 n,名詞,人,その他の人名 Wuding
+武叔 武叔 n,名詞,人,名 [given-name]
+武城 武城 n,名詞,固定物,地名 [place-name]
+武子 武子 n,名詞,人,複合的人名 Wuzi
+武成 武成 n,名詞,主体,書物 [book-name]
+岁 歲 岁 n,名詞,天象,天文 Jupiter
+歲 歲 岁 n,名詞,天象,天文 Jupiter
+歳 歲 岁 n,名詞,天象,天文 Jupiter
+岁 歲 岁 n,名詞,時,* year
+歲 歲 岁 n,名詞,時,* year
+歳 歲 岁 n,名詞,時,* year
+歴 歷 历 v,動詞,行為,役割 pass-through-in-order
+歷 歷 历 v,動詞,行為,役割 pass-through-in-order
+历陆 歷陸 历陆 n,名詞,人,名 [given-name]
+歴陸 歷陸 历陆 n,名詞,人,名 [given-name]
+歷陸 歷陸 历陆 n,名詞,人,名 [given-name]
+帰 歸 归 v,動詞,行為,移動 return
+归 歸 归 v,動詞,行為,移動 return
+歸 歸 归 v,動詞,行為,移動 return
+死 死 n,名詞,行為,* death
+死 死 v,動詞,変化,生物 die
+歿 歿 没 v,動詞,変化,生物 die
+殁 歿 没 v,動詞,変化,生物 die
+殀 殀 夭 v,動詞,変化,生物 die-prematurely
+殂 殂 v,動詞,変化,生物 pass-away
+殃 殃 n,名詞,天象,気象 disaster
+殃 殃 v,動詞,行為,態度 disaster
+殄 殄 v,動詞,行為,動作 exterminate
+殆 殆 v,副詞,判断,推定 almost
+殆 殆 v,動詞,描写,形質 dangerous
+殉 殉 v,動詞,行為,交流 accompany-in-death
+殊 殊 v,動詞,描写,形質 special
+殍 殍 v,動詞,描写,境遇 starve-to-death
+殖 殖 v,動詞,変化,生物 propagate
+残 殘 残 n,名詞,数量,* remnant
+殘 殘 残 n,名詞,数量,* remnant
+残 殘 残 v,動詞,行為,動作 injure
+殘 殘 残 v,動詞,行為,動作 injure
+殛 殛 v,動詞,行為,動作 kill
+殒 殞 殒 v,動詞,行為,動作 perish
+殞 殞 殒 v,動詞,行為,動作 perish
+殇 殤 殇 v,動詞,変化,生物 die-prematurely
+殤 殤 殇 v,動詞,変化,生物 die-prematurely
+殡 殯 殡 v,動詞,行為,動作 lay-in-a-coffin-to-await-burial
+殯 殯 殡 v,動詞,行為,動作 lay-in-a-coffin-to-await-burial
+㱩 殰 㱩 v,動詞,行為,動作 stillborn
+殰 殰 㱩 v,動詞,行為,動作 stillborn
+殷 殷 n,名詞,主体,国名 [country-name]
+殿 殿 n,名詞,固定物,関係 rear-of-an-army
+毀 毀 毁 n,名詞,可搬,伝達 defame
+毁 毀 毁 n,名詞,可搬,伝達 defame
+毀 毀 毁 v,動詞,行為,動作 destroy
+毁 毀 毁 v,動詞,行為,動作 destroy
+毅 毅 v,動詞,描写,態度 resolute
+毋 毋 v,副詞,否定,禁止 don't
+母 母 n,名詞,人,関係 mother
+母 母 v,動詞,行為,役割 motherlike
+毎 每 v,動詞,描写,形質 every
+每 每 v,動詞,描写,形質 every
+毒 毒 n,名詞,可搬,道具 poison
+比 比 v,動詞,行為,動作 compare
+比干 比干 n,名詞,人,複合的人名 Bigan
+毛 毛 n,名詞,不可譲,身体 hair
+毫 毫 n,名詞,可搬,道具 fine-hair
+氂 氂 n,名詞,不可譲,身体 hair
+氄 氄 n,名詞,不可譲,身体 fine-hair
+氏 氏 n,名詞,不可譲,属性 lineage
+民 民 n,名詞,人,人 people
+氓 氓 n,名詞,人,人 people
+氛 氛 n,名詞,描写,形質 vapour
+气 氣 气 n,名詞,描写,形質 air
+気 氣 气 n,名詞,描写,形質 air
+氣 氣 气 n,名詞,描写,形質 air
+水 水 n,名詞,可搬,道具 water
+永 永 v,動詞,描写,量 perpetual
+氾 氾 泛 v,動詞,行為,動作 overflow
+求 求 n,名詞,人,名 [given-name]
+求 求 n,名詞,人,姓氏 [surname]
+求 求 v,動詞,行為,動作 seek
+汎 汎 汛 v,動詞,行為,動作 float
+汛 汎 汛 v,動詞,行為,動作 float
+汙 汙 污 v,動詞,描写,形質 low-lying
+汚 汚 污 v,動詞,描写,形質 dirty
+污 汚 污 v,動詞,描写,形質 dirty
+汝 汝 n,代名詞,人称,起格 [2PRON]
+江 江 n,名詞,固定物,地名 [place-name]
+江 江 n,名詞,固定物,地形 river
+江戶 江戶 江户 n,名詞,固定物,地名 [place-name]
+江户 江戶 江户 n,名詞,固定物,地名 [place-name]
+江戸 江戶 江户 n,名詞,固定物,地名 [place-name]
+池 池 n,名詞,固定物,建造物 pond
+汲 汲 v,動詞,行為,動作 draw-water
+决 決 决 v,動詞,行為,動作 open-a-passage-for-a-stream
+決 決 决 v,動詞,行為,動作 open-a-passage-for-a-stream
+沈 沈 沉 v,動詞,行為,動作 submerge
+沈犹 沈猶 沈犹 n,名詞,人,姓氏 [surname]
+沈猶 沈猶 沈犹 n,名詞,人,姓氏 [surname]
+沐 沐 v,動詞,行為,動作 wash-the-hair
+沒 沒 没 v,動詞,変化,生物 die
+没 沒 没 v,動詞,変化,生物 die
+沓 沓 v,動詞,描写,形質 crowded
+沛 沛 n,名詞,固定物,地形 marsh
+沛 沛 v,動詞,描写,形質 torrential
+沮 沮 v,動詞,行為,動作 prevent
+河 河 n,名詞,固定物,地形 river
+油 油 n,名詞,可搬,道具 oil
+治 治 v,動詞,行為,動作 govern
+沼 沼 n,名詞,固定物,地形 pond
+沽 沽 v,動詞,行為,交流 trade
+况 況 况 v,動詞,行為,動作 compare
+況 況 况 v,動詞,行為,動作 compare
+泄 泄 n,名詞,人,姓氏 [surname]
+泄 泄 v,動詞,描写,形質 dragging
+泆 泆 v,動詞,描写,態度 reckless
+泉 泉 n,名詞,固定物,地形 spring
+法 法 n,名詞,制度,儀礼 law
+法 法 v,動詞,行為,動作 pattern
+泚 泚 v,動詞,描写,形質 limpid
+波 波 n,名詞,可搬,成果物 wave
+泣 泣 v,動詞,行為,動作 weep
+泥 泥 v,動詞,描写,形質 mired
+注 注 v,動詞,行為,動作 pour
+泰 泰 n,名詞,固定物,地名 [place-name]
+泰 泰 v,動詞,描写,態度 excessive
+泰伯 泰伯 n,名詞,人,名 [given-name]
+泳 泳 v,動詞,行為,動作 swim
+洋 洋 n,名詞,固定物,地形 ocean
+洒 洒 v,動詞,行為,動作 sprinkle
+洗 洗 v,動詞,行為,動作 wash
+洚 洚 v,動詞,行為,動作 inundate
+津 津 n,名詞,固定物,地形 ford
+洧 洧 n,名詞,固定物,地名 [place-name]
+洩 洩 泄 v,動詞,行為,動作 leak
+洪 洪 n,名詞,天象,気象 inundation
+洫 洫 n,名詞,固定物,建造物 water-channel
+活 活 v,動詞,行為,動作 live
+洽 洽 v,動詞,行為,動作 permeate
+洿 洿 n,名詞,固定物,地形 pool
+流 流 v,動詞,行為,動作 flow
+浚 浚 v,動詞,行為,動作 dig-out
+浡 浡 v,動詞,描写,形質 burst-forth
+浩 浩 v,動詞,描写,形質 vast
+浩生 浩生 n,名詞,人,姓氏 [surname]
+浮 浮 v,動詞,行為,動作 float
+浴 浴 v,動詞,行為,動作 bathe
+浸 浸 v,動詞,行為,動作 soak
+浼 浼 v,動詞,行為,動作 defile
+涅 涅 v,動詞,行為,動作 dye-black
+消 消 v,動詞,変化,性質 melt
+涉 涉 v,動詞,行為,移動 wade
+渉 涉 v,動詞,行為,移動 wade
+涕 涕 n,名詞,不可譲,身体 tears
+涖 涖 莅 v,動詞,行為,動作 oversee
+涸 涸 v,動詞,変化,性質 become-dry
+凉 涼 凉 v,動詞,描写,形質 cool
+涼 涼 凉 v,動詞,描写,形質 cool
+涿鹿 涿鹿 n,名詞,固定物,地名 [place-name]
+淅 淅 v,動詞,行為,動作 wash-rice
+淇 淇 n,名詞,固定物,地名 [place-name]
+淑 淑 v,動詞,描写,態度 gentle
+淡 淡 v,動詞,描写,形質 thin
+淫 淫 n,名詞,描写,態度 licentious
+淫 淫 v,動詞,描写,態度 excessive
+深 深 v,動詞,描写,量 deep
+淳于 淳于 n,名詞,人,姓氏 [surname]
+淵 淵 渊 n,名詞,固定物,地形 abyss
+渊 淵 渊 n,名詞,固定物,地形 abyss
+混 混 v,動詞,行為,動作 mix
+混夷 混夷 n,名詞,主体,集団 Hun'yi
+混沌 混沌 n,名詞,人,名 [given-name]
+淹 淹 v,動詞,行為,動作 submerge
+浅 淺 浅 v,動詞,描写,量 shallow
+淺 淺 浅 v,動詞,描写,量 shallow
+淸 清 v,動詞,描写,形質 clear
+清 清 v,動詞,描写,形質 clear
+减 減 减 v,動詞,行為,動作 reduce
+減 減 减 v,動詞,行為,動作 reduce
+渡 渡 v,動詞,行為,移動 ford
+测 測 测 v,動詞,行為,動作 estimate
+測 測 测 v,動詞,行為,動作 estimate
+渇 渴 v,動詞,描写,境遇 thirst
+渴 渴 v,動詞,描写,境遇 thirst
+游 游 n,名詞,人,名 [given-name]
+游 游 v,動詞,行為,動作 float
+凑 湊 凑 n,名詞,固定物,建造物 pool
+湊 湊 凑 n,名詞,固定物,建造物 pool
+凑 湊 凑 v,動詞,行為,動作 gather-together
+湊 湊 凑 v,動詞,行為,動作 gather-together
+湍 湍 n,名詞,可搬,道具 rushing-water
+湖 湖 n,名詞,固定物,地形 lake
+汤 湯 汤 n,名詞,人,名 [given-name]
+湯 湯 汤 n,名詞,人,名 [given-name]
+汤 湯 汤 n,名詞,可搬,道具 hot-water
+湯 湯 汤 n,名詞,可搬,道具 hot-water
+汤誓 湯誓 汤誓 n,名詞,主体,書物 [book-name]
+湯誓 湯誓 汤誓 n,名詞,主体,書物 [book-name]
+溉 溉 v,動詞,行為,動作 irrigate
+漑 溉 v,動詞,行為,動作 irrigate
+源 源 n,名詞,固定物,地形 spring
+源 源 v,動詞,描写,態度 continuous
+准 準 准 n,名詞,可搬,道具 water-level
+準 準 准 n,名詞,可搬,道具 water-level
+沟 溝 沟 n,名詞,固定物,建造物 ditch
+溝 溝 沟 n,名詞,固定物,建造物 ditch
+溢 溢 v,動詞,行為,動作 overflow
+溥 溥 v,動詞,描写,形質 vast
+渓 溪 n,名詞,固定物,地形 rivulet
+溪 溪 n,名詞,固定物,地形 rivulet
+温 溫 温 v,動詞,描写,形質 warm
+溫 溫 温 v,動詞,描写,形質 warm
+溱 溱 n,名詞,固定物,地名 [place-name]
+溲 溲 v,動詞,行為,動作 urinate
+溺 溺 v,動詞,行為,動作 sink
+溽 溽 v,動詞,描写,形質 moist
+沧浪 滄浪 沧浪 n,名詞,固定物,地名 [place-name]
+滄浪 滄浪 沧浪 n,名詞,固定物,地名 [place-name]
+滅 滅 灭 v,動詞,変化,制度 extinguish
+灭 滅 灭 v,動詞,変化,制度 extinguish
+滅明 滅明 灭明 n,名詞,人,名 [given-name]
+灭明 滅明 灭明 n,名詞,人,名 [given-name]
+滋 滋 v,副詞,程度,やや高度 increasingly
+滑厘 滑釐 滑厘 n,名詞,人,名 [given-name]
+滑釐 滑釐 滑厘 n,名詞,人,名 [given-name]
+滔 滔 v,動詞,描写,形質 inundate
+滕 滕 n,名詞,主体,国名 [country-name]
+滞 滯 滞 v,動詞,行為,動作 obstruct
+滯 滯 滞 v,動詞,行為,動作 obstruct
+浒 滸 浒 n,名詞,固定物,地形 river-bank
+滸 滸 浒 n,名詞,固定物,地形 river-bank
+満 滿 满 v,動詞,行為,得失 full
+满 滿 满 v,動詞,行為,得失 full
+滿 滿 满 v,動詞,行為,得失 full
+渔 漁 渔 v,動詞,行為,動作 fish
+漁 漁 渔 v,動詞,行為,動作 fish
+漂 漂 v,動詞,行為,動作 bleach
+漆彫 漆彫 漆雕 n,名詞,人,姓氏 [surname]
+漏 漏 n,名詞,描写,形質 drip
+漏 漏 v,動詞,行為,動作 drip
+漠 漠 n,名詞,固定物,地形 desert
+漠 漠 v,動詞,描写,形質 quiet
+漫 漫 v,動詞,行為,動作 overflow
+漯 漯 n,名詞,固定物,地名 [place-name]
+渐 漸 渐 v,副詞,時相,変化 gradually
+漸 漸 渐 v,副詞,時相,変化 gradually
+渐 漸 渐 v,動詞,描写,形質 moisten
+漸 漸 渐 v,動詞,描写,形質 moisten
+浆 漿 浆 n,名詞,可搬,糧食 rice-water
+漿 漿 浆 n,名詞,可搬,糧食 rice-water
+洁 潔 洁 v,動詞,描写,形質 pure
+潔 潔 洁 v,動詞,描写,形質 pure
+潛 潛 潜 v,動詞,行為,動作 submerge
+潜 潛 潜 v,動詞,行為,動作 submerge
+润 潤 润 v,動詞,描写,形質 moisten
+潤 潤 润 v,動詞,描写,形質 moisten
+潦 潦 n,名詞,固定物,地形 rain-water
+潦 潦 n,名詞,天象,気象 heavy-rain
+澄 澄 v,動詞,描写,形質 clear-and-still
+涧 澗 涧 n,名詞,固定物,地形 ravine
+澗 澗 涧 n,名詞,固定物,地形 ravine
+澡 澡 v,動詞,行為,動作 bathe
+沢 澤 泽 n,名詞,可搬,成果物 lustre
+泽 澤 泽 n,名詞,可搬,成果物 lustre
+澤 澤 泽 n,名詞,可搬,成果物 lustre
+沢 澤 泽 n,名詞,固定物,地形 marsh
+泽 澤 泽 n,名詞,固定物,地形 marsh
+澤 澤 泽 n,名詞,固定物,地形 marsh
+沢 澤 泽 v,動詞,描写,形質 moisten
+泽 澤 泽 v,動詞,描写,形質 moisten
+澤 澤 泽 v,動詞,描写,形質 moisten
+浍 澮 浍 n,名詞,固定物,建造物 ditch
+澮 澮 浍 n,名詞,固定物,建造物 ditch
+澳 澳 n,名詞,固定物,地形 back-bay
+澹台 澹臺 澹台 n,名詞,人,姓氏 [surname]
+澹臺 澹臺 澹台 n,名詞,人,姓氏 [surname]
+激 激 v,動詞,行為,動作 surge
+浊 濁 浊 v,動詞,描写,形質 turbid
+濁 濁 浊 v,動詞,描写,形質 turbid
+湿 濕 湿 n,名詞,描写,形質 moist
+溼 濕 湿 n,名詞,描写,形質 moist
+濕 濕 湿 n,名詞,描写,形質 moist
+济 濟 济 v,動詞,行為,動作 carry-across
+済 濟 济 v,動詞,行為,動作 carry-across
+濟 濟 济 v,動詞,行為,動作 carry-across
+濡 濡 v,動詞,行為,動作 soak
+滥 濫 滥 v,動詞,描写,形質 overflowing
+濫 濫 滥 v,動詞,描写,形質 overflowing
+濯 濯 v,動詞,行為,動作 pull
+浜 濱 滨 n,名詞,固定物,地形 shore
+滨 濱 滨 n,名詞,固定物,地形 shore
+濱 濱 滨 n,名詞,固定物,地形 shore
+涜 瀆 渎 n,名詞,固定物,建造物 ditch
+渎 瀆 渎 n,名詞,固定物,建造物 ditch
+瀆 瀆 渎 n,名詞,固定物,建造物 ditch
+涜 瀆 渎 v,動詞,行為,動作 defile
+渎 瀆 渎 v,動詞,行為,動作 defile
+瀆 瀆 渎 v,動詞,行為,動作 defile
+瀹 瀹 v,動詞,描写,形質 moisten
+澜 瀾 澜 n,名詞,可搬,成果物 big-waves
+瀾 瀾 澜 n,名詞,可搬,成果物 big-waves
+潅 灌 v,動詞,行為,動作 irrigate
+灌 灌 v,動詞,行為,動作 irrigate
+火 火 n,名詞,可搬,道具 fire
+灰 灰 n,名詞,可搬,成果物 ashes
+災 災 灾 n,名詞,天象,気象 disaster
+灾 災 灾 n,名詞,天象,気象 disaster
+炙 炙 n,名詞,可搬,糧食 roast-meat
+炙 炙 v,動詞,行為,動作 roast
+炭 炭 n,名詞,可搬,道具 charcoal
+烈 烈 n,名詞,可搬,成果物 achievement
+烈 烈 v,動詞,描写,形質 ardent
+乌 烏 乌 n,名詞,主体,動物 crow
+烏 烏 乌 n,名詞,主体,動物 crow
+乌获 烏獲 乌获 n,名詞,人,名 [given-name]
+烏獲 烏獲 乌获 n,名詞,人,名 [given-name]
+烝 烝 v,動詞,描写,量 numerous
+烝 烝 v,動詞,行為,動作 steam
+烹 烹 v,動詞,行為,動作 boil
+焄 焄 v,動詞,描写,形質 aflame
+焉 焉 n,代名詞,指示,* there
+焉 焉 p,助詞,句末,* [final-particle]
+焉 焉 p,接尾辞,*,* [suffix]
+焉 焉 v,副詞,疑問,所在 where
+焚 焚 v,動詞,行為,動作 burn
+无 無 无 v,動詞,存在,存在 not-have
+無 無 无 v,動詞,存在,存在 not-have
+无怀 無懷 无怀 n,名詞,人,名 [given-name]
+無懐 無懷 无怀 n,名詞,人,名 [given-name]
+無懷 無懷 无怀 n,名詞,人,名 [given-name]
+焦 焦 v,動詞,行為,動作 roast
+然 然 p,接尾辞,*,* [suffix]
+然 然 v,動詞,描写,態度 like-this
+然友 然友 n,名詞,人,名 [given-name]
+煇 煇 辉 v,動詞,描写,形質 flaming
+煖 煖 v,動詞,描写,形質 warm
+煙 煙 烟 n,名詞,天象,気象 smoke
+焭 煢 茕 n,名詞,人,関係 orphan
+煢 煢 茕 n,名詞,人,関係 orphan
+茕 煢 茕 n,名詞,人,関係 orphan
+焭 煢 茕 v,動詞,描写,境遇 isolated
+煢 煢 茕 v,動詞,描写,境遇 isolated
+茕 煢 茕 v,動詞,描写,境遇 isolated
+焕 煥 焕 v,動詞,描写,形質 bright
+煥 煥 焕 v,動詞,描写,形質 bright
+照 照 v,動詞,行為,動作 shine
+烦 煩 烦 n,名詞,描写,形質 trouble
+煩 煩 烦 n,名詞,描写,形質 trouble
+烦 煩 烦 v,動詞,描写,態度 trouble
+煩 煩 烦 v,動詞,描写,態度 trouble
+熄 熄 v,動詞,変化,性質 extinguish
+熊 熊 n,名詞,主体,動物 bear
+熊 熊 n,名詞,主体,国名 [country-name]
+煕 熙 v,動詞,描写,形質 bright
+熙 熙 v,動詞,描写,形質 bright
+熟 熟 v,動詞,描写,形質 ripe
+热 熱 热 v,動詞,描写,形質 hot
+熱 熱 热 v,動詞,描写,形質 hot
+烧 燒 烧 v,動詞,行為,動作 burn
+焼 燒 烧 v,動詞,行為,動作 burn
+燒 燒 烧 v,動詞,行為,動作 burn
+燔 燔 v,動詞,行為,動作 burn
+燕 燕 n,名詞,主体,動物 swallow
+燕 燕 n,名詞,主体,国名 [country-name]
+燕 燕 v,動詞,描写,態度 rest
+営 營 营 n,名詞,固定物,建造物 camp
+營 營 营 n,名詞,固定物,建造物 camp
+营 營 营 n,名詞,固定物,建造物 camp
+営 營 营 v,動詞,行為,動作 plan
+營 營 营 v,動詞,行為,動作 plan
+营 營 营 v,動詞,行為,動作 plan
+燧 燧 n,名詞,可搬,道具 device-for-making-fire
+燧人 燧人 n,名詞,人,名 [given-name]
+烛 燭 烛 n,名詞,可搬,道具 torch
+燭 燭 烛 n,名詞,可搬,道具 torch
+烂 爛 烂 v,動詞,行為,動作 burn-up
+爛 爛 烂 v,動詞,行為,動作 burn-up
+爨 爨 v,動詞,行為,動作 stove
+争 爭 争 v,動詞,行為,交流 quarrel
+爭 爭 争 v,動詞,行為,交流 quarrel
+爰 爰 n,代名詞,指示,* there
+为 爲 为 v,前置詞,源泉,* for
+為 爲 为 v,前置詞,源泉,* for
+爲 爲 为 v,前置詞,源泉,* for
+为 爲 为 v,動詞,存在,存在 be
+為 爲 为 v,動詞,存在,存在 be
+爲 爲 为 v,動詞,存在,存在 be
+为 爲 为 v,動詞,行為,生産 make
+為 爲 为 v,動詞,行為,生産 make
+爲 爲 为 v,動詞,行為,生産 make
+爵 爵 n,名詞,主体,動物 sparrow
+爵 爵 n,名詞,制度,儀礼 [title-of-honour]
+爵 爵 n,名詞,可搬,道具 wine-vessel
+爵 爵 v,動詞,行為,儀礼 honour
+父 父 n,名詞,人,関係 father
+父 父 v,動詞,行為,役割 fatherlike
+爽 爽 v,動詞,行為,交流 lively
+尔 爾 尔 n,代名詞,人称,止格 [2PRON]
+爾 爾 尔 n,代名詞,人称,止格 [2PRON]
+尔 爾 尔 p,助詞,句末,* [final-particle]
+爾 爾 尔 p,助詞,句末,* [final-particle]
+尔 爾 尔 p,接尾辞,*,* [suffix]
+爾 爾 尔 p,接尾辞,*,* [suffix]
+尔 爾 尔 v,動詞,描写,形質 near
+爾 爾 尔 v,動詞,描写,形質 near
+尔 爾 尔 v,動詞,描写,態度 like-this
+爾 爾 尔 v,動詞,描写,態度 like-this
+墙 牆 墙 n,名詞,固定物,建造物 wall-of-a-house
+墻 牆 墙 n,名詞,固定物,建造物 wall-of-a-house
+牆 牆 墙 n,名詞,固定物,建造物 wall-of-a-house
+片 片 v,動詞,描写,形質 one-sided
+版 版 n,名詞,可搬,道具 board
+牖 牖 n,名詞,固定物,建造物 window
+牛 牛 n,名詞,主体,動物 cattle
+牛 牛 n,名詞,人,名 [given-name]
+牛山 牛山 n,名詞,固定物,地名 [place-name]
+牡 牡 n,名詞,主体,動物 male-of-animals
+牢 牢 n,名詞,主体,動物 sacrifice-of-an-ox
+牢 牢 n,名詞,人,名 [given-name]
+牣 牣 v,動詞,描写,形質 full
+牧 牧 n,名詞,人,姓氏 [surname]
+牧 牧 n,名詞,人,役割 herdsman
+牧 牧 n,名詞,固定物,地名 [place-name]
+牧 牧 v,動詞,行為,動作 herd
+牧皮 牧皮 n,名詞,人,名 [given-name]
+物 物 n,名詞,可搬,道具 thing
+牲 牲 n,名詞,主体,動物 sacrificial-animal
+特 特 v,動詞,行為,動作 specialize
+牼 牼 n,名詞,人,名 [given-name]
+牵 牽 牵 v,動詞,行為,動作 pull
+牽 牽 牵 v,動詞,行為,動作 pull
+犀 犀 n,名詞,主体,動物 rhinoceros
+犂 犂 v,動詞,行為,動作 plough
+牺 犧 牺 n,名詞,主体,動物 sacrificial-animal
+犠 犧 牺 n,名詞,主体,動物 sacrificial-animal
+犧 犧 牺 n,名詞,主体,動物 sacrificial-animal
+犬 犬 n,名詞,主体,動物 dog
+犯 犯 v,動詞,行為,態度 transgress
+状 狀 状 n,名詞,描写,形質 appearance
+狀 狀 状 n,名詞,描写,形質 appearance
+狂 狂 v,動詞,描写,態度 wild
+狄 狄 n,名詞,主体,集団 [northern-people]
+狎 狎 v,動詞,行為,態度 familiar
+狐 狐 n,名詞,主体,動物 fox
+狗 狗 n,名詞,主体,動物 dog
+狩 狩 v,動詞,行為,動作 hunt
+狷 狷 v,動詞,行為,態度 cautious
+狭 狹 狭 v,動詞,描写,形質 narrow
+狹 狹 狭 v,動詞,描写,形質 narrow
+狼 狼 n,名詞,主体,動物 wolf
+狼 狼 v,動詞,描写,態度 caught-in-a-dilemma
+猗 猗 v,動詞,行為,態度 sigh
+猛 猛 v,動詞,描写,形質 fierce
+猩 猩 n,名詞,主体,動物 orangutan
+犹 猶 犹 n,名詞,可搬,伝達 plan
+猶 猶 犹 n,名詞,可搬,伝達 plan
+犹 猶 犹 v,副詞,頻度,重複 yet
+猶 猶 犹 v,副詞,頻度,重複 yet
+犹 猶 犹 v,動詞,行為,分類 similar
+猶 猶 犹 v,動詞,行為,分類 similar
+猷 猷 n,名詞,可搬,伝達 plan
+猷 猷 v,動詞,行為,動作 plan
+狱 獄 狱 n,名詞,制度,儀礼 litigation
+獄 獄 狱 n,名詞,制度,儀礼 litigation
+獧 獧 狷 v,動詞,描写,態度 honest-and-straight
+独 獨 独 n,名詞,人,関係 alone
+獨 獨 独 n,名詞,人,関係 alone
+独 獨 独 v,動詞,描写,境遇 alone
+獨 獨 独 v,動詞,描写,境遇 alone
+獯鬻 獯鬻 n,名詞,主体,集団 Xun'yu
+獲 獲 获 v,動詞,行為,得失 catch
+猎 獵 猎 v,動詞,行為,動作 hunt
+猟 獵 猎 v,動詞,行為,動作 hunt
+獵 獵 猎 v,動詞,行為,動作 hunt
+兽 獸 兽 n,名詞,主体,動物 animal
+獣 獸 兽 n,名詞,主体,動物 animal
+獸 獸 兽 n,名詞,主体,動物 animal
+獭 獺 獭 n,名詞,主体,動物 otter
+獺 獺 獭 n,名詞,主体,動物 otter
+献 獻 献 n,名詞,人,その他の人名 Xian
+獻 獻 献 n,名詞,人,その他の人名 Xian
+献 獻 献 n,名詞,可搬,伝達 present
+獻 獻 献 n,名詞,可搬,伝達 present
+献 獻 献 v,動詞,行為,伝達 offer-up
+獻 獻 献 v,動詞,行為,伝達 offer-up
+献子 獻子 献子 n,名詞,人,名 [given-name]
+獻子 獻子 献子 n,名詞,人,名 [given-name]
+玄 玄 n,名詞,描写,形質 black
+率 率 n,名詞,制度,儀礼 norm
+率 率 v,動詞,行為,交流 lead
+率 率 v,動詞,行為,動作 limit
+玉 玉 n,名詞,可搬,道具 jade
+王 王 n,名詞,人,役割 king
+王 王 v,動詞,行為,役割 king
+玨 玨 n,名詞,可搬,道具 pair-of-jades
+珍 珍 v,動詞,描写,形質 valuable
+珠 珠 n,名詞,可搬,道具 pearl
+班 班 v,動詞,描写,形質 distribute
+珮 珮 v,動詞,行為,動作 wear-at-the-gardle
+琅邪 琅邪 n,名詞,固定物,地名 [place-name]
+理 理 n,名詞,可搬,伝達 underlying-principle
+理 理 v,動詞,行為,動作 put-in-order
+琢 琢 v,動詞,行為,動作 carve
+琴 琴 n,名詞,可搬,道具 zither
+琴 琴 v,動詞,行為,動作 play-zither
+瑕 瑕 n,名詞,描写,形質 defect
+瑚 瑚 n,名詞,可搬,道具 coral
+瑜 瑜 n,名詞,描写,形質 lustre
+瑞 瑞 n,名詞,可搬,道具 jade-tablet-of-investiture
+瑞 瑞 v,動詞,描写,形質 auspicious
+瑟 瑟 n,名詞,可搬,道具 zither
+瑟 瑟 v,動詞,行為,態度 solemn
+琏 璉 琏 n,名詞,可搬,道具 sacrificial-vessel
+璉 璉 琏 n,名詞,可搬,道具 sacrificial-vessel
+璞 璞 n,名詞,描写,形質 unworked-jade
+璧 璧 n,名詞,可搬,道具 pierced-circular-jade
+环 環 环 n,名詞,可搬,道具 ring
+環 環 环 n,名詞,可搬,道具 ring
+环 環 环 v,動詞,行為,移動 encircle
+環 環 环 v,動詞,行為,移動 encircle
+瓜 瓜 n,名詞,固定物,樹木 melon
+瓢 瓢 n,名詞,可搬,道具 gourd
+瓦 瓦 n,名詞,可搬,道具 tile
+甑 甑 n,名詞,可搬,道具 boiler
+甕 甕 瓮 n,名詞,可搬,道具 jug
+甘 甘 v,動詞,描写,形質 sweet
+甚 甚 v,動詞,描写,形質 extreme
+生 生 n,名詞,人,名 [given-name]
+生 生 n,名詞,人,役割 scholar
+生 生 n,名詞,行為,* life
+生 生 v,動詞,変化,生物 alive
+产 產 产 n,名詞,可搬,成果物 product
+產 產 产 n,名詞,可搬,成果物 product
+産 產 产 n,名詞,可搬,成果物 product
+产 產 产 v,動詞,変化,生物 give-birth
+產 產 产 v,動詞,変化,生物 give-birth
+産 產 产 v,動詞,変化,生物 give-birth
+甥 甥 n,名詞,人,関係 sister's-son
+用 用 n,名詞,可搬,道具 use
+用 用 v,動詞,行為,動作 use
+甫 甫 n,名詞,人,名 [given-name]
+甫 甫 p,接尾辞,*,* [suffix]
+甫 甫 v,副詞,時相,現在 just-then
+甫 甫 v,動詞,描写,形質 great
+甫刑 甫刑 n,名詞,主体,書物 [book-name]
+甯 甯 宁 n,名詞,人,姓氏 [surname]
+田 田 n,名詞,固定物,地形 cultivated-field
+田 田 v,動詞,行為,動作 hunt
+由 由 n,名詞,人,名 [given-name]
+由 由 v,前置詞,源泉,* from
+由 由 v,副詞,頻度,重複 yet
+由 由 v,動詞,行為,動作 proceed-from
+甲 甲 n,名詞,可搬,道具 shell
+甲 甲 n,数詞,干支,* [1st-stem]
+甲午 甲午 n,数詞,干支,* [31st-sexagenary]
+甲子 甲子 n,数詞,干支,* [1st-sexagenary]
+甲寅 甲寅 n,数詞,干支,* [51st-sexagenary]
+甲戌 甲戌 n,数詞,干支,* [11th-sexagenary]
+甲申 甲申 n,数詞,干支,* [21st-sexagenary]
+甲辰 甲辰 n,数詞,干支,* [41st-sexagenary]
+申 申 n,名詞,人,名 [given-name]
+申 申 v,動詞,行為,動作 extend
+男 男 n,名詞,人,人 man
+男 男 n,名詞,人,役割 baron
+男 男 n,名詞,人,関係 son
+畊 畊 v,動詞,行為,動作 plough
+界 界 n,名詞,固定物,関係 boundary
+畎 畎 n,名詞,固定物,建造物 watering-channels-in-a-field
+畏 畏 v,動詞,行為,態度 fear
+畔 畔 v,動詞,行為,交流 rebel
+留 留 v,動詞,行為,移動 remain
+畱 留 v,動詞,行為,移動 remain
+畜 畜 n,名詞,主体,動物 domestic-animals
+畜 畜 v,動詞,行為,交流 raise-domestic-animals
+亩 畝 亩 n,名詞,人,名 [given-name]
+畝 畝 亩 n,名詞,人,名 [given-name]
+亩 畝 亩 n,名詞,固定物,建造物 ridge-in-cultivated-field
+畝 畝 亩 n,名詞,固定物,建造物 ridge-in-cultivated-field
+亩 畝 亩 n,名詞,度量衡,* [land-measure-unit]
+畝 畝 亩 n,名詞,度量衡,* [land-measure-unit]
+毕 畢 毕 v,動詞,変化,性質 finish
+畢 畢 毕 v,動詞,変化,性質 finish
+毕郢 畢郢 毕郢 n,名詞,固定物,地名 [place-name]
+畢郢 畢郢 毕郢 n,名詞,固定物,地名 [place-name]
+略 略 n,名詞,可搬,伝達 plan
+畦 畦 n,名詞,固定物,建造物 garden-plot
+画 畫 画 v,動詞,行為,動作 delineate
+畫 畫 画 v,動詞,行為,動作 delineate
+畬 畬 v,動詞,行為,動作 slash-and-burn-cultivation
+异 異 异 v,動詞,描写,形質 differ
+異 異 异 v,動詞,描写,形質 differ
+当 當 当 v,動詞,行為,動作 correspond-to
+當 當 当 v,動詞,行為,動作 correspond-to
+畿 畿 n,名詞,制度,場 royal-domain
+疆 疆 n,名詞,固定物,関係 border
+畴 疇 畴 n,名詞,固定物,地形 ploughed-field
+疇 疇 畴 n,名詞,固定物,地形 ploughed-field
+疎 疎 疏 v,動詞,描写,態度 separated
+疏 疏 v,動詞,描写,量 distant
+䟽 疏 v,動詞,描写,量 wide-apart
+疑 疑 n,名詞,人,名 [given-name]
+疑 疑 v,動詞,行為,態度 suspect
+疚 疚 n,名詞,描写,態度 remorse
+疚 疚 v,動詞,行為,態度 feel-remorse
+疢 疢 n,名詞,不可譲,疾病 fever
+疲 疲 v,動詞,描写,形質 exhausted
+疾 疾 n,名詞,不可譲,疾病 illness
+疾 疾 n,名詞,人,名 [given-name]
+疾 疾 v,動詞,行為,態度 hurried
+病 病 n,名詞,不可譲,疾病 disease
+病 病 v,動詞,描写,形質 ill
+痛 痛 v,動詞,描写,境遇 sore
+疴 痾 疴 n,名詞,不可譲,疾病 illness
+痾 痾 疴 n,名詞,不可譲,疾病 illness
+瘁 瘁 v,動詞,変化,生物 weary
+瘉 瘉 愈 v,動詞,行為,態度 worry
+瘖 瘖 喑 v,動詞,変化,性質 dumb
+瘠 瘠 n,名詞,人,姓氏 [surname]
+瘳 瘳 v,動詞,変化,性質 recover-from-illness
+痈 癰 痈 n,名詞,不可譲,疾病 carbuncle
+癰 癰 痈 n,名詞,不可譲,疾病 carbuncle
+痈疽 癰疽 痈疽 n,名詞,人,名 [given-name]
+癰疽 癰疽 痈疽 n,名詞,人,名 [given-name]
+癸 癸 n,数詞,干支,* [10th-stem]
+癸丑 癸丑 n,数詞,干支,* [50th-sexagenary]
+癸亥 癸亥 n,数詞,干支,* [60th-sexagenary]
+癸卯 癸卯 n,数詞,干支,* [40th-sexagenary]
+癸巳 癸巳 n,数詞,干支,* [30th-sexagenary]
+癸未 癸未 n,数詞,干支,* [20th-sexagenary]
+癸酉 癸酉 n,数詞,干支,* [10th-sexagenary]
+登 登 n,名詞,固定物,地名 [place-name]
+登 登 v,動詞,行為,移動 ascend
+発 發 发 v,動詞,行為,動作 emit
+發 發 发 v,動詞,行為,動作 emit
+白 白 n,名詞,描写,形質 white
+白 白 v,動詞,描写,形質 white
+白 白 v,動詞,行為,伝達 explain
+白圭 白圭 n,名詞,人,名 [given-name]
+百 百 n,名詞,人,名 [given-name]
+百 百 n,数詞,数字,* hundred
+的 的 v,動詞,描写,態度 brilliant
+皆 皆 v,副詞,範囲,総括 all
+皇 皇 n,名詞,人,役割 august
+皇 皇 v,動詞,描写,態度 great
+皜 皜 皓 v,動詞,描写,形質 white
+皞 皞 v,動詞,描写,態度 easy
+皦 皦 v,動詞,描写,形質 bright-and-clear
+皮 皮 n,名詞,可搬,道具 skin
+皽 皽 n,名詞,可搬,成果物 scurf
+皿 皿 n,名詞,可搬,道具 bowl
+盆 盆 n,名詞,可搬,道具 basin
+盆成 盆成 n,名詞,人,姓氏 [surname]
+盈 盈 v,動詞,描写,量 full
+盈之 盈之 n,名詞,人,名 [given-name]
+盍 盍 v,副詞,疑問,原因 why-not
+盍旦 盍旦 n,名詞,主体,動物 Crossoptilon
+盎 盎 n,名詞,人,名 [given-name]
+盎 盎 v,動詞,描写,形質 full
+盖 盖 v,動詞,行為,動作 cover
+盛 盛 n,名詞,可搬,糧食 grain-in-vessel
+盛 盛 v,動詞,描写,形質 full
+盗 盜 盗 n,名詞,人,姓氏 [surname]
+盜 盜 盗 n,名詞,人,姓氏 [surname]
+盗 盜 盗 n,名詞,人,役割 steal
+盜 盜 盗 n,名詞,人,役割 steal
+盗 盜 盗 v,動詞,行為,動作 steal
+盜 盜 盗 v,動詞,行為,動作 steal
+盟 盟 n,名詞,制度,儀礼 covenant
+尽 盡 尽 v,動詞,行為,動作 exhaust
+盡 盡 尽 v,動詞,行為,動作 exhaust
+监 監 监 v,動詞,行為,動作 observe
+監 監 监 v,動詞,行為,動作 observe
+盘 盤 盘 n,名詞,可搬,道具 basin
+盤 盤 盘 n,名詞,可搬,道具 basin
+卢 盧 卢 n,名詞,可搬物,道具 food-vessel
+盧 盧 卢 n,名詞,可搬物,道具 food-vessel
+卢 盧 卢 n,名詞,固定物,樹木 reed
+盧 盧 卢 n,名詞,固定物,樹木 reed
+盪 盪 荡 v,動詞,行為,動作 push-forward
+目 目 n,名詞,不可譲,身体 eye
+目 目 n,名詞,可搬,成果物 item
+目 目 v,動詞,行為,動作 look-at
+直 直 v,副詞,範囲,限定 only
+直 直 v,動詞,描写,形質 straight
+相 相 n,名詞,人,役割 chief-minister
+相 相 v,副詞,範囲,共同 each-other
+相 相 v,動詞,行為,交流 assist
+相 相 v,動詞,行為,動作 look-at
+盻 盻 v,動詞,描写,態度 glare-at
+盼 盼 v,動詞,描写,形質 clear
+省 省 v,動詞,行為,動作 reduce
+省 省 v,動詞,行為,態度 observe
+眊 眊 v,動詞,描写,形質 blurred-vision
+眞 眞 真 v,動詞,描写,形質 real
+真 眞 真 v,動詞,描写,形質 real
+眠 眠 v,動詞,行為,動作 sleep
+眩 眩 v,動詞,描写,態度 dazzled
+眸 眸 n,名詞,不可譲,身体 pupil-of-eye
+眸子 眸子 n,名詞,不可譲,身体 pupil-of-eye
+眼 眼 n,名詞,不可譲,身体 eye
+着 着 v,動詞,行為,動作 wear
+睊 睊 v,動詞,行為,動作 glance
+睟 睟 v,動詞,描写,態度 candid
+督 督 n,名詞,人,役割 control
+督 督 v,動詞,行為,交流 oversee
+睦 睦 v,動詞,描写,態度 harmonious
+睨 睨 v,動詞,行為,動作 look-askance
+睹 睹 v,動詞,行為,動作 see
+睿 睿 v,動詞,描写,形質 perspicacious
+瞑 瞑 v,動詞,描写,態度 dizzy
+瞭 瞭 v,動詞,描写,形質 clear-eyed
+瞰 瞰 v,動詞,行為,動作 look-down-on
+瞷 瞷 v,動詞,行為,動作 spy
+瞻 瞻 v,動詞,行為,動作 look-straight
+瞽 瞽 n,名詞,描写,形質 eyeless
+瞽 瞽 v,動詞,描写,形質 eyeless
+瞽瞍 瞽瞍 n,名詞,人,名 [given-name]
+矇 矇 蒙 v,動詞,描写,態度 hoodwink
+矙 矙 瞰 v,動詞,描写,態度 look-down
+矜 矜 v,動詞,描写,態度 dignify
+矢 矢 n,名詞,可搬,道具 arrow
+矢 矢 v,動詞,行為,態度 swear
+矣 矣 p,助詞,句末,* [PFV]
+知 知 n,名詞,不可譲,属性 knowledge
+知 知 v,動詞,行為,動作 know
+矧 矧 v,副詞,頻度,重複 how-much-the-more
+矩 矩 n,名詞,可搬,道具 carpenter's-squeare
+短 短 v,動詞,描写,量 short
+矫 矯 矫 v,動詞,描写,態度 straighten
+矯 矯 矫 v,動詞,描写,態度 straighten
+石 石 n,名詞,可搬,道具 stone
+石丘 石丘 n,名詞,固定物,地名 [place-name]
+破 破 v,動詞,行為,交流 break
+硁 硜 硁 v,動詞,描写,形質 block-headed
+硜 硜 硁 v,動詞,描写,形質 block-headed
+硕 碩 硕 v,動詞,描写,形質 great
+碩 碩 硕 v,動詞,描写,形質 great
+磋 磋 v,動詞,行為,動作 polish
+磨 磨 v,動詞,行為,動作 grind
+磬 磬 n,名詞,可搬,道具 lithophone
+矶 磯 矶 n,名詞,可搬,成果物 stones-beaten-by-running-water
+磯 磯 矶 n,名詞,可搬,成果物 stones-beaten-by-running-water
+矶 磯 矶 v,動詞,行為,動作 beat-stones
+磯 磯 矶 v,動詞,行為,動作 beat-stones
+磷 磷 v,動詞,変化,性質 worn-thin
+硗 磽 硗 v,動詞,描写,形質 stony
+磽 磽 硗 v,動詞,描写,形質 stony
+示 示 v,動詞,行為,動作 show
+礿 礿 n,名詞,制度,儀礼 seasonal-sacrifice
+祀 祀 n,名詞,制度,儀礼 sacrifice
+祀 祀 v,動詞,行為,儀礼 sacrifice
+祇 祇 n,名詞,人,役割 earth-spirit
+祗 祗 v,動詞,行為,態度 respect
+祜 祜 n,名詞,描写,態度 blessings
+祠 祠 v,動詞,行為,儀礼 sacrifice
+祫 祫 v,動詞,行為,動作 joint-sacrifice-to-remote-ancestors
+祭 祭 n,名詞,制度,儀礼 sacrifice
+祭 祭 v,動詞,行為,儀礼 sacrifice
+祼 祼 v,動詞,行為,儀礼 pour-a-libation
+祿 祿 禄 n,名詞,可搬,成果物 emolument
+禄 祿 禄 n,名詞,可搬,成果物 emolument
+祿 祿 禄 v,動詞,行為,動作 pay-emolument
+禄 祿 禄 v,動詞,行為,動作 pay-emolument
+禁 禁 n,名詞,制度,儀礼 prohibition
+禁 禁 v,動詞,行為,動作 prohibit
+禘 禘 n,名詞,制度,儀礼 major-sacrifice
+禦 禦 御 v,動詞,行為,動作 ward-off
+禅 禪 禅 n,名詞,制度,儀礼 Zen
+禪 禪 禅 n,名詞,制度,儀礼 Zen
+禅 禪 禅 v,動詞,行為,動作 abdicate
+禪 禪 禅 v,動詞,行為,動作 abdicate
+禫 禫 v,動詞,行為,儀礼 end-mourning
+礼 禮 礼 n,名詞,主体,書物 [book-name]
+禮 禮 礼 n,名詞,主体,書物 [book-name]
+礼 禮 礼 n,名詞,制度,儀礼 ceremony
+禮 禮 礼 n,名詞,制度,儀礼 ceremony
+礼 禮 礼 v,動詞,行為,儀礼 treat-with-ceremony
+禮 禮 礼 v,動詞,行為,儀礼 treat-with-ceremony
+祷 禱 祷 v,動詞,行為,動作 seek-blessings
+禱 禱 祷 v,動詞,行為,動作 seek-blessings
+禴 禴 n,名詞,制度,儀礼 seasonal-sacrifice
+禹 禹 n,名詞,人,名 [given-name]
+禹偁 禹偁 n,名詞,人,名 [given-name]
+禽 禽 n,名詞,主体,動物 bird
+禽 禽 v,動詞,行為,交流 be-seized
+秀 秀 v,動詞,描写,形質 excellent
+私 私 v,動詞,描写,態度 private
+秉 秉 n,名詞,可搬,糧食 sheaf-of-grain
+秉 秉 n,名詞,度量衡,* [capacity-unit]
+秉 秉 v,動詞,行為,動作 grasp
+秋 秋 n,名詞,時,* autumn
+科 科 n,名詞,主体,集団 class
+科 科 n,名詞,固定物,地形 hole
+秦 秦 n,名詞,主体,国名 [country-name]
+秦誓 秦誓 n,名詞,主体,書物 [book-name]
+秬 秬 n,名詞,可搬,糧食 black-millet
+移 移 v,動詞,行為,移動 move
+稅 稅 税 n,名詞,可搬,成果物 tax
+税 稅 税 n,名詞,可搬,成果物 tax
+稅 稅 税 v,動詞,行為,動作 tax
+税 稅 税 v,動詞,行為,動作 tax
+程 程 n,名詞,可搬,道具 norm
+程 程 v,動詞,行為,態度 normalize
+稍 稍 v,副詞,時相,変化 gradually
+稍 稍 v,動詞,描写,量 few
+稗 稗 n,名詞,固定物,樹木 barnyard-millet
+稚 稚 v,動詞,描写,形質 young
+种 種 种 n,名詞,人,名 [given-name]
+種 種 种 n,名詞,人,名 [given-name]
+种 種 种 n,名詞,固定物,樹木 seed
+種 種 种 n,名詞,固定物,樹木 seed
+种 種 种 v,動詞,行為,動作 plant
+種 種 种 v,動詞,行為,動作 plant
+称 稱 称 v,動詞,行為,動作 weigh
+稱 稱 称 v,動詞,行為,動作 weigh
+稷 稷 n,名詞,人,名 [given-name]
+稷 稷 n,名詞,可搬,糧食 millet
+稲 稻 n,名詞,可搬,糧食 rice
+稻 稻 n,名詞,可搬,糧食 rice
+稼 稼 v,動詞,行為,動作 sow-grain
+稽 稽 n,名詞,人,名 [given-name]
+稽 稽 v,動詞,行為,動作 bow-to-the-ground
+穆 穆 n,名詞,人,その他の人名 Mu
+穆 穆 n,名詞,固定物,関係 right-hand-of-temple
+穆 穆 v,動詞,描写,態度 splendid
+积 積 积 v,動詞,行為,動作 accumulate
+積 積 积 v,動詞,行為,動作 accumulate
+穑 穡 穑 v,動詞,行為,動作 harvest
+穡 穡 穑 v,動詞,行為,動作 harvest
+穧 穧 n,名詞,可搬,糧食 sheaf
+穫 穫 获 v,動詞,行為,動作 harvest
+穣 穰 v,動詞,描写,量 abundant
+穰 穰 v,動詞,描写,量 abundant
+穴 穴 n,名詞,固定物,地形 cave
+空 空 n,名詞,天象,気象 sky
+空 空 v,動詞,描写,形質 hollow
+穿 穿 v,動詞,行為,動作 bore-through
+窒 窒 v,動詞,行為,動作 block-up
+窓 窗 n,名詞,固定物,建造物 window
+窗 窗 n,名詞,固定物,建造物 window
+窘 窘 v,動詞,描写,態度 distressed
+窟 窟 n,名詞,固定物,地形 cave
+窬 窬 n,名詞,固定物,建造物 small-opening-at-doorway
+窬 窬 v,動詞,行為,動作 pass-through
+穷 窮 穷 v,動詞,描写,境遇 exhaust
+窮 窮 穷 v,動詞,描写,境遇 exhaust
+窥 窺 窥 v,動詞,行為,動作 spy
+窺 窺 窥 v,動詞,行為,動作 spy
+窍 竅 窍 n,名詞,固定物,建造物 aperture
+竅 竅 窍 n,名詞,固定物,建造物 aperture
+灶 竈 灶 n,名詞,可搬,道具 stove
+竈 竈 灶 n,名詞,可搬,道具 stove
+窃 竊 窃 n,名詞,人,役割 snatcher
+竊 竊 窃 n,名詞,人,役割 snatcher
+窃 竊 窃 v,動詞,行為,動作 snatch
+竊 竊 窃 v,動詞,行為,動作 snatch
+立 立 v,副詞,時相,緊接 immediately
+立 立 v,動詞,行為,姿勢 stand
+並 竝 并 v,副詞,範囲,共同 side-by-side
+竝 竝 并 v,副詞,範囲,共同 side-by-side
+竟 竟 v,副詞,時相,終局 finally
+章 章 n,名詞,主体,書物 chapter
+章 章 n,名詞,人,その他の人名 Zhang
+章 章 n,名詞,描写,形質 pattern
+章 章 v,動詞,描写,形質 brilliant
+章 章 v,動詞,行為,動作 display
+章子 章子 n,名詞,人,複合的人名 Zhangzi
+童 童 n,名詞,人,人 youth
+竭 竭 v,動詞,行為,動作 use-up
+端 端 n,名詞,可搬,道具 formal-robe
+端 端 n,名詞,描写,形質 point
+端 端 v,動詞,描写,態度 decent
+竞 競 竞 v,動詞,行為,動作 contend
+競 競 竞 v,動詞,行為,動作 contend
+竹 竹 n,名詞,固定物,樹木 bamboo
+笑 笑 v,動詞,行為,態度 laugh
+笙 笙 n,名詞,可搬,道具 reed-organ
+符 符 n,名詞,可搬,道具 token
+第 第 n,名詞,数量,* order-in-a-sequence
+等 等 n,名詞,数量,* class
+等 等 v,動詞,描写,形質 equal
+筋 筋 n,名詞,不可譲,身体 muscle
+筍 筍 n,名詞,固定物,樹木 bamboo-shoots
+筒 筒 n,名詞,可搬,道具 hollow-tube
+答 答 v,動詞,行為,伝達 answer
+荅 答 v,動詞,行為,伝達 answer
+策 策 n,名詞,可搬,伝達 plan
+策 策 v,動詞,行為,動作 whip
+筩 筩 筒 n,名詞,可搬,道具 hollow-tube
+筭 筭 n,名詞,可搬,道具 counting-tally
+筮 筮 v,動詞,行為,儀礼 divine-by-stalks
+筲 筲 n,名詞,可搬,道具 bucket
+筵 筵 n,名詞,可搬,道具 bamboo-mat
+箇 箇 个 n,名詞,度量衡,* [general-classifier]
+箕 箕 n,名詞,固定物,地名 [place-name]
+箕子 箕子 n,名詞,人,複合的人名 Jizi
+算 算 v,動詞,行為,動作 count
+管 管 n,名詞,人,姓氏 [surname]
+管 管 n,名詞,可搬,道具 tube
+管 管 v,動詞,行為,動作 be-in-charge-of
+管叔 管叔 n,名詞,人,その他の人名 Guanshu
+箴 箴 n,名詞,可搬,伝達 remonstrance
+箴 箴 n,名詞,可搬,道具 needle
+範 範 范 v,動詞,行為,動作 mould
+篇 篇 n,名詞,可搬,伝達 section-of-a-book
+築 築 筑 n,名詞,可搬,道具 pestle-for-pounding-earth
+築 築 筑 v,動詞,行為,設置 build
+笃 篤 笃 v,動詞,行為,態度 reliable
+篤 篤 笃 v,動詞,行為,態度 reliable
+筚 篳 筚 n,名詞,可搬,道具 wattle
+篳 篳 筚 n,名詞,可搬,道具 wattle
+篡 簒 篡 v,動詞,行為,交流 usurp
+簒 簒 篡 v,動詞,行為,交流 usurp
+箪 簞 箪 n,名詞,可搬,道具 food-basket
+簞 簞 箪 n,名詞,可搬,道具 food-basket
+简 簡 简 n,名詞,人,その他の人名 Jian
+簡 簡 简 n,名詞,人,その他の人名 Jian
+简 簡 简 v,動詞,描写,形質 simple
+簡 簡 简 v,動詞,描写,形質 simple
+简子 簡子 简子 n,名詞,人,複合的人名 Jianzi
+簡子 簡子 简子 n,名詞,人,複合的人名 Jianzi
+篑 簣 篑 n,名詞,可搬,道具 basket-for-carrying-earth
+簣 簣 篑 n,名詞,可搬,道具 basket-for-carrying-earth
+簧 簧 n,名詞,可搬,道具 reed-organ
+簿 簿 n,名詞,主体,書物 notebook
+籍 籍 n,名詞,主体,書物 document
+籥 籥 n,名詞,可搬,道具 flute
+笾 籩 笾 n,名詞,可搬,道具 stand-for-sacrificial-offerings
+籩 籩 笾 n,名詞,可搬,道具 stand-for-sacrificial-offerings
+米 米 n,名詞,可搬,糧食 rice
+粉 粉 n,名詞,可搬,糧食 powder
+粒 粒 n,名詞,描写,形質 granule
+粟 粟 n,名詞,可搬,糧食 unhusked-grain
+粢 粢 n,名詞,可搬,糧食 sacrificial-grain
+粥 粥 n,名詞,可搬,糧食 rice-gruel
+粥 粥 v,動詞,行為,交流 congee
+粱 粱 n,名詞,可搬,糧食 fine-grain
+精 精 n,名詞,描写,形質 essence
+精 精 n,名詞,描写,形質 essence
+精 精 v,動詞,描写,形質 fine-and-pure
+精 精 v,動詞,描写,形質 fine-and-pure
+糊 糊 n,名詞,可搬,道具 paste
+糔 糔 v,動詞,行為,動作 wash-rice
+糗 糗 n,名詞,可搬,糧食 dry-provisions
+糜 糜 n,名詞,可搬,糧食 rice-gruel
+糜 糜 v,動詞,行為,動作 destroy
+粪 糞 粪 v,動詞,行為,動作 manure
+糞 糞 粪 v,動詞,行為,動作 manure
+粮 糧 粮 n,名詞,可搬,糧食 grain
+糧 糧 粮 n,名詞,可搬,糧食 grain
+籴 糴 籴 v,動詞,行為,得失 buy-grain
+糴 糴 籴 v,動詞,行為,得失 buy-grain
+紀 紀 纪 v,動詞,行為,動作 regulate
+纪 紀 纪 v,動詞,行為,動作 regulate
+紂 紂 纣 n,名詞,人,名 [given-name]
+纣 紂 纣 n,名詞,人,名 [given-name]
+約 約 约 n,名詞,可搬,伝達 contract
+约 約 约 n,名詞,可搬,伝達 contract
+約 約 约 v,動詞,行為,動作 bind
+约 約 约 v,動詞,行為,動作 bind
+紅 紅 红 n,名詞,描写,形質 red
+红 紅 红 n,名詞,描写,形質 red
+紉 紉 纫 v,動詞,行為,動作 twist-into-cord
+纫 紉 纫 v,動詞,行為,動作 twist-into-cord
+納 納 纳 v,動詞,行為,動作 bring-in
+纳 納 纳 v,動詞,行為,動作 bring-in
+純 純 纯 v,動詞,描写,形質 pure
+纯 純 纯 v,動詞,描写,形質 pure
+紙 紙 纸 n,名詞,可搬,道具 paper
+纸 紙 纸 n,名詞,可搬,道具 paper
+級 級 级 n,名詞,度量衡,* grade
+级 級 级 n,名詞,度量衡,* grade
+紛 紛 纷 v,動詞,描写,形質 mixed
+纷 紛 纷 v,動詞,描写,形質 mixed
+素 素 n,名詞,描写,形質 white
+素 素 v,動詞,描写,形質 plain
+索 索 v,動詞,行為,動作 twist-a-rope
+索 索 v,動詞,行為,態度 seek
+紫 紫 n,名詞,描写,形質 purple
+䌷 紬 䌷 n,名詞,可搬,道具 silk-fabric
+紬 紬 䌷 n,名詞,可搬,道具 silk-fabric
+累 累 v,動詞,行為,動作 involve
+細 細 细 v,動詞,描写,形質 thin
+细 細 细 v,動詞,描写,形質 thin
+紳 紳 绅 n,名詞,可搬,道具 sash
+绅 紳 绅 n,名詞,可搬,道具 sash
+紹 紹 绍 v,動詞,行為,動作 continue
+绍 紹 绍 v,動詞,行為,動作 continue
+紺 紺 绀 n,名詞,描写,形質 dark-purple
+绀 紺 绀 n,名詞,描写,形質 dark-purple
+紾 紾 v,動詞,行為,動作 twist
+𬘝 紾 v,動詞,行為,動作 twist
+紿 紿 绐 v,動詞,行為,交流 cheat
+绐 紿 绐 v,動詞,行為,交流 cheat
+終 終 终 v,動詞,変化,生物 end
+终 終 终 v,動詞,変化,生物 end
+組 組 组 n,名詞,可搬,道具 cord
+组 組 组 n,名詞,可搬,道具 cord
+䌹 絅 䌹 n,名詞,可搬,道具 unlined-garment-of-hemp
+絅 絅 䌹 n,名詞,可搬,道具 unlined-garment-of-hemp
+絏 絏 绁 n,名詞,可搬,道具 tie
+結 結 结 v,動詞,行為,動作 tie
+结 結 结 v,動詞,行為,動作 tie
+絜 絜 v,動詞,描写,形質 clear
+絞 絞 绞 v,動詞,行為,動作 twist
+绞 絞 绞 v,動詞,行為,動作 twist
+絢 絢 绚 v,動詞,描写,形質 decorated
+绚 絢 绚 v,動詞,描写,形質 decorated
+給 給 给 v,動詞,行為,交流 provide
+给 給 给 v,動詞,行為,交流 provide
+絮 絮 n,名詞,可搬,道具 raw-silk
+絰 絰 绖 n,名詞,可搬,道具 hempen-band-for-mourning
+绖 絰 绖 n,名詞,可搬,道具 hempen-band-for-mourning
+絰 絰 绖 v,動詞,行為,儀礼 mourn-with-hempen-band
+绖 絰 绖 v,動詞,行為,儀礼 mourn-with-hempen-band
+統 統 统 n,名詞,不可譲,属性 continuous-succession
+统 統 统 n,名詞,不可譲,属性 continuous-succession
+統 統 统 v,動詞,行為,交流 unite
+统 統 统 v,動詞,行為,交流 unite
+丝 絲 丝 n,名詞,可搬,道具 silk
+絲 絲 丝 n,名詞,可搬,道具 silk
+絕 絶 绝 v,副詞,程度,極度 extremely
+絶 絶 绝 v,副詞,程度,極度 extremely
+绝 絶 绝 v,副詞,程度,極度 extremely
+絕 絶 绝 v,動詞,行為,動作 cut-off
+絶 絶 绝 v,動詞,行為,動作 cut-off
+绝 絶 绝 v,動詞,行為,動作 cut-off
+絹 絹 绢 n,名詞,可搬,道具 silk-fabric
+绢 絹 绢 n,名詞,可搬,道具 silk-fabric
+絺 絺 𫄨 n,名詞,可搬,道具 fine-cloth
+𫄨 絺 𫄨 n,名詞,可搬,道具 fine-cloth
+綌 綌 绤 n,名詞,可搬,道具 coarse-cloth-of-dolichos-fibre
+绤 綌 绤 n,名詞,可搬,道具 coarse-cloth-of-dolichos-fibre
+綏 綏 绥 n,名詞,可搬,道具 carriage-mounting-strap
+绥 綏 绥 n,名詞,可搬,道具 carriage-mounting-strap
+綏 綏 绥 v,動詞,行為,態度 comfort
+绥 綏 绥 v,動詞,行為,態度 comfort
+経 經 经 n,名詞,制度,儀礼 norm
+經 經 经 n,名詞,制度,儀礼 norm
+经 經 经 n,名詞,制度,儀礼 norm
+経 經 经 n,名詞,可搬,道具 warp-yarn
+經 經 经 n,名詞,可搬,道具 warp-yarn
+经 經 经 n,名詞,可搬,道具 warp-yarn
+経 經 经 v,動詞,行為,移動 pass-through
+經 經 经 v,動詞,行為,移動 pass-through
+经 經 经 v,動詞,行為,移動 pass-through
+綢 綢 绸 v,動詞,行為,動作 wrap
+绸 綢 绸 v,動詞,行為,動作 wrap
+維 維 维 n,代名詞,指示,* that
+维 維 维 n,代名詞,指示,* that
+維 維 维 n,名詞,可搬,道具 guide-rope
+维 維 维 n,名詞,可搬,道具 guide-rope
+綯 綯 绹 n,名詞,人,名 [given-name]
+绹 綯 绹 n,名詞,人,名 [given-name]
+綯 綯 绹 n,名詞,可搬,道具 rope
+绹 綯 绹 n,名詞,可搬,道具 rope
+綱 綱 纲 n,名詞,可搬,道具 guide-rope-of-net
+纲 綱 纲 n,名詞,可搬,道具 guide-rope-of-net
+綱 綱 纲 v,動詞,行為,動作 fish-with-net
+纲 綱 纲 v,動詞,行為,動作 fish-with-net
+網 網 网 n,名詞,可搬,道具 net
+网 網 网 n,名詞,可搬,道具 net
+綴 綴 缀 v,動詞,行為,動作 sew
+缀 綴 缀 v,動詞,行為,動作 sew
+綸 綸 纶 v,動詞,行為,動作 twist-thread
+纶 綸 纶 v,動詞,行為,動作 twist-thread
+綽 綽 绰 v,動詞,描写,形質 ample
+绰 綽 绰 v,動詞,描写,形質 ample
+綿 綿 绵 n,名詞,可搬,道具 floss-silk
+緜 綿 绵 n,名詞,可搬,道具 floss-silk
+绵 綿 绵 n,名詞,可搬,道具 floss-silk
+綿駒 綿駒 绵驹 n,名詞,人,名 [given-name]
+緜駒 綿駒 绵驹 n,名詞,人,名 [given-name]
+绵驹 綿駒 绵驹 n,名詞,人,名 [given-name]
+緅 緅 n,名詞,描写,形質 dark-brown
+𮉪 緅 n,名詞,描写,形質 dark-brown
+緇 緇 缁 n,名詞,可搬,道具 black-silk
+缁 緇 缁 n,名詞,可搬,道具 black-silk
+緇 緇 缁 v,動詞,描写,形質 black
+缁 緇 缁 v,動詞,描写,形質 black
+緒 緖 绪 n,名詞,固定物,関係 sequence
+緖 緖 绪 n,名詞,固定物,関係 sequence
+绪 緖 绪 n,名詞,固定物,関係 sequence
+緝 緝 缉 v,動詞,行為,動作 hem
+缉 緝 缉 v,動詞,行為,動作 hem
+緡 緡 缗 n,名詞,可搬,道具 cord
+缗 緡 缗 n,名詞,可搬,道具 cord
+緡 緡 缗 v,動詞,描写,形質 sing-with-beautiful-voice
+缗 緡 缗 v,動詞,描写,形質 sing-with-beautiful-voice
+緣 緣 缘 v,動詞,行為,動作 follow-along
+縁 緣 缘 v,動詞,行為,動作 follow-along
+缘 緣 缘 v,動詞,行為,動作 follow-along
+緦 緦 缌 n,名詞,制度,儀礼 short-mourning
+缌 緦 缌 n,名詞,制度,儀礼 short-mourning
+緩 緩 缓 v,動詞,行為,態度 indulgent
+缓 緩 缓 v,動詞,行為,態度 indulgent
+練 練 练 v,動詞,行為,動作 refine
+练 練 练 v,動詞,行為,動作 refine
+縈 縈 萦 v,動詞,描写,形質 entwine
+萦 縈 萦 v,動詞,描写,形質 entwine
+緼 縕 缊 n,名詞,固定物,樹木 ravelled-hemp
+縕 縕 缊 n,名詞,固定物,樹木 ravelled-hemp
+缊 縕 缊 n,名詞,固定物,樹木 ravelled-hemp
+縛 縛 缚 v,動詞,行為,動作 bind
+缚 縛 缚 v,動詞,行為,動作 bind
+縠 縠 n,名詞,可搬,道具 silk-gauze
+县 縣 县 n,名詞,制度,場 district
+県 縣 县 n,名詞,制度,場 district
+縣 縣 县 n,名詞,制度,場 district
+县 縣 县 n,名詞,可搬,道具 suspender
+県 縣 县 n,名詞,可搬,道具 suspender
+縣 縣 县 n,名詞,可搬,道具 suspender
+县 縣 县 v,動詞,行為,動作 suspend
+県 縣 县 v,動詞,行為,動作 suspend
+縣 縣 县 v,動詞,行為,動作 suspend
+縮 縮 缩 v,動詞,行為,動作 contact
+缩 縮 缩 v,動詞,行為,動作 contact
+縦 縱 纵 v,副詞,判断,逆接 though
+縱 縱 纵 v,副詞,判断,逆接 though
+纵 縱 纵 v,副詞,判断,逆接 though
+縦 縱 纵 v,動詞,行為,設置 let-loose
+縱 縱 纵 v,動詞,行為,設置 let-loose
+纵 縱 纵 v,動詞,行為,設置 let-loose
+縲 縲 缧 n,名詞,可搬,道具 string
+缧 縲 缧 n,名詞,可搬,道具 string
+縷 縷 缕 n,名詞,可搬,道具 thread
+缕 縷 缕 n,名詞,可搬,道具 thread
+总 總 总 v,動詞,行為,交流 bind-together
+總 總 总 v,動詞,行為,交流 bind-together
+績 績 绩 n,名詞,可搬,成果物 achievement
+绩 績 绩 n,名詞,可搬,成果物 achievement
+繅 繅 缫 v,動詞,行為,動作 reel-silk-from-a-cocoon
+缫 繅 缫 v,動詞,行為,動作 reel-silk-from-a-cocoon
+繆 繆 缪 n,名詞,人,その他の人名 Mou
+缪 繆 缪 n,名詞,人,その他の人名 Mou
+繆 繆 缪 v,動詞,行為,動作 bind
+缪 繆 缪 v,動詞,行為,動作 bind
+繆 繆 缪 v,動詞,行為,態度 err
+缪 繆 缪 v,動詞,行為,態度 err
+織 織 织 v,動詞,行為,動作 weave
+织 織 织 v,動詞,行為,動作 weave
+繚 繚 缭 n,名詞,人,名 [given-name]
+缭 繚 缭 n,名詞,人,名 [given-name]
+繞 繞 绕 v,動詞,行為,動作 wind-round
+绕 繞 绕 v,動詞,行為,動作 wind-round
+繍 繡 绣 n,名詞,可搬,道具 embroider
+繡 繡 绣 n,名詞,可搬,道具 embroider
+縄 繩 绳 n,名詞,可搬,道具 rope
+繩 繩 绳 n,名詞,可搬,道具 rope
+绳 繩 绳 n,名詞,可搬,道具 rope
+絵 繪 绘 v,動詞,行為,動作 draw
+繪 繪 绘 v,動詞,行為,動作 draw
+绘 繪 绘 v,動詞,行為,動作 draw
+繋 繫 系 v,動詞,行為,動作 attach
+繫 繫 系 v,動詞,行為,動作 attach
+繭 繭 茧 n,名詞,可搬,成果物 silk-worm-cocoon
+茧 繭 茧 n,名詞,可搬,成果物 silk-worm-cocoon
+繳 繳 缴 n,名詞,可搬,道具 string-attached-to-an-arrow
+缴 繳 缴 n,名詞,可搬,道具 string-attached-to-an-arrow
+繹 繹 绎 v,動詞,行為,動作 open-out
+绎 繹 绎 v,動詞,行為,動作 open-out
+継 繼 继 v,動詞,行為,得失 continue
+繼 繼 继 v,動詞,行為,得失 continue
+继 繼 继 v,動詞,行為,得失 continue
+繽 繽 v,動詞,描写,量 numerous
+纁 纁 𫄸 n,名詞,描写,形質 crimson
+𫄸 纁 𫄸 n,名詞,描写,形質 crimson
+続 續 续 v,動詞,行為,動作 continue
+續 續 续 v,動詞,行為,動作 continue
+续 續 续 v,動詞,行為,動作 continue
+纑 纑 n,名詞,可搬,道具 bleached-hempen-threads
+𮉡 纑 n,名詞,可搬,道具 bleached-hempen-threads
+纓 纓 缨 n,名詞,可搬,道具 cap-string
+缨 纓 缨 n,名詞,可搬,道具 cap-string
+繊 纖 纤 n,名詞,可搬,道具 fine-thin-silk
+纖 纖 纤 n,名詞,可搬,道具 fine-thin-silk
+纤 纖 纤 n,名詞,可搬,道具 fine-thin-silk
+纘 纘 缵 v,動詞,行為,役割 succeed
+缵 纘 缵 v,動詞,行為,役割 succeed
+缺 缺 n,名詞,人,名 [given-name]
+缺 缺 v,動詞,描写,形質 lack
+罔 罔 v,動詞,存在,存在 not-have
+罔 罔 v,動詞,行為,交流 catch
+罕 罕 v,動詞,描写,量 rare
+罟 罟 n,名詞,可搬,道具 net
+罪 罪 n,名詞,制度,儀礼 crime
+罪 罪 v,動詞,行為,儀礼 guilty
+置 置 n,名詞,可搬,乗り物 post
+置 置 v,動詞,行為,設置 place
+罚 罰 罚 n,名詞,制度,儀礼 punishment
+罰 罰 罚 n,名詞,制度,儀礼 punishment
+罵 罵 骂 v,動詞,行為,交流 curse
+骂 罵 骂 v,動詞,行為,交流 curse
+罢 罷 罢 v,動詞,行為,動作 stop
+罷 罷 罢 v,動詞,行為,動作 stop
+罗 羅 罗 n,名詞,可搬,道具 bird-net
+羅 羅 罗 n,名詞,可搬,道具 bird-net
+罗 羅 罗 v,動詞,行為,動作 gather
+羅 羅 罗 v,動詞,行為,動作 gather
+羊 羊 n,名詞,主体,動物 sheep
+美 美 n,名詞,描写,形質 beauty
+美 美 v,動詞,描写,形質 beautiful
+羔 羔 n,名詞,主体,動物 young-sheep
+羞 羞 v,動詞,描写,態度 shame
+羣 群 n,名詞,描写,形質 flock
+群 群 n,名詞,描写,形質 flock
+羣 群 v,動詞,行為,交流 swarm
+群 群 v,動詞,行為,交流 swarm
+羡 羨 羡 v,動詞,描写,態度 covet
+羨 羨 羡 v,動詞,描写,態度 covet
+义 義 义 n,名詞,描写,態度 righteousness
+義 義 义 n,名詞,描写,態度 righteousness
+义 義 义 v,動詞,描写,態度 righteous
+義 義 义 v,動詞,描写,態度 righteous
+羯 羯 n,名詞,人,名 [given-name]
+羸 羸 v,動詞,描写,形質 weak
+羹 羹 n,名詞,可搬,糧食 thick-soup
+羽 羽 n,名詞,人,名 [given-name]
+羽 羽 n,名詞,人,名 [given-name]
+羽 羽 n,名詞,可搬,道具 feather
+羽 羽 n,名詞,可搬,道具 feather
+羽 羽 n,名詞,固定物,地名 [place-name]
+羽 羽 n,名詞,固定物,地名 [place-name]
+羽 羽 n,名詞,度量衡,* [bird-measure]
+羽 羽 n,名詞,度量衡,* [bird-measure]
+翅 翅 n,名詞,可搬,道具 wing
+翅 翅 v,副詞,範囲,限定 only
+翊 翊 n,名詞,固定物,関係 next
+翊 翊 v,動詞,行為,交流 assist
+习 習 习 v,動詞,行為,動作 practise
+習 習 习 v,動詞,行為,動作 practise
+翔 翔 v,動詞,行為,動作 fly-to-and-flo
+翕 翕 v,動詞,描写,形質 combined
+翟 翟 n,名詞,人,名 [given-name]
+翰 翰 n,名詞,可搬,道具 pen
+翼 翼 n,名詞,不可譲,身体 wing
+翼 翼 v,動詞,行為,動作 protect
+老 老 n,名詞,人,人 aged
+老 老 v,動詞,変化,生物 old
+考 考 n,名詞,人,関係 deceased-father
+攷 考 v,動詞,行為,動作 examine
+考 考 v,動詞,行為,動作 examine
+耆 耆 v,動詞,変化,生物 very-old
+耆 耆 v,動詞,行為,態度 be-fond-of
+而 而 n,代名詞,人称,他 [2PRON]
+而 而 p,助詞,句末,* and
+而 而 p,助詞,接続,並列 and
+耒 耒 n,名詞,可搬,道具 plough-stem
+耕 耕 v,動詞,行為,動作 plough
+耘 耘 v,動詞,行為,動作 weed
+耜 耜 n,名詞,可搬,道具 plough-share
+耦 耦 v,動詞,行為,動作 plow-together
+耨 耨 v,動詞,行為,動作 hoe
+耰 耰 v,動詞,行為,動作 agricultural-implement
+耳 耳 n,名詞,不可譲,身体 ear
+耳 耳 p,助詞,句末,* only
+耶 耶 p,助詞,句末,* [Q]
+耽 耽 v,動詞,行為,態度 addicted-to-pleasure
+聊 聊 v,副詞,程度,軽度 just-a-little
+圣 聖 圣 n,名詞,人,役割 sage
+聖 聖 圣 n,名詞,人,役割 sage
+聘 聘 v,動詞,行為,交流 invite
+聚 聚 v,動詞,行為,動作 amass
+聞 聞 闻 v,動詞,行為,伝達 hear
+闻 聞 闻 v,動詞,行為,伝達 hear
+聡 聰 聪 v,動詞,描写,形質 hear-well
+聪 聰 聪 v,動詞,描写,形質 hear-well
+聰 聰 聪 v,動詞,描写,形質 hear-well
+声 聲 声 n,名詞,不可譲,身体 voice
+聲 聲 声 n,名詞,不可譲,身体 voice
+耸 聳 耸 v,動詞,行為,動作 incite
+聳 聳 耸 v,動詞,行為,動作 incite
+职 職 职 n,名詞,制度,儀礼 responsibilities
+職 職 职 n,名詞,制度,儀礼 responsibilities
+职 職 职 v,動詞,行為,動作 attend-to
+職 職 职 v,動詞,行為,動作 attend-to
+听 聽 听 v,動詞,行為,伝達 listen
+聴 聽 听 v,動詞,行為,伝達 listen
+聽 聽 听 v,動詞,行為,伝達 listen
+聿 聿 p,助詞,句頭,* [modal-particle]
+粛 肅 肃 v,動詞,行為,態度 solemn
+肃 肅 肃 v,動詞,行為,態度 solemn
+肅 肅 肃 v,動詞,行為,態度 solemn
+肆 肆 n,名詞,固定物,建造物 shop
+肆 肆 v,副詞,時相,緊接 then
+肆 肆 v,動詞,行為,動作 set-out
+肆 肆 v,動詞,行為,態度 unrestrained
+肆夏 肆夏 n,名詞,制度,儀礼 [ancient-music]
+肇 肇 v,動詞,行為,動作 initiate
+肉 肉 n,名詞,可搬,糧食 flesh
+肖 肖 v,動詞,変化,性質 resemble
+肝 肝 n,名詞,不可譲,身体 liver
+肢 肢 n,名詞,不可譲,身体 limb
+肥 肥 v,動詞,描写,形質 fat
+肩 肩 n,名詞,不可譲,身体 shoulder
+肫 肫 n,名詞,不可譲,身体 gizzard-of-fowl
+肫 肫 v,動詞,描写,態度 sincere
+肯 肯 v,助動詞,願望,* be-willing
+肯 肯 v,動詞,行為,態度 nod
+肱 肱 n,名詞,不可譲,身体 upper-arm
+育 育 v,動詞,変化,生物 raise
+肺 肺 n,名詞,不可譲,身体 lungs
+背 背 n,名詞,不可譲,身体 back
+背 背 v,動詞,変化,生物 disobey
+胎 胎 n,名詞,人,人 embryo
+胖 胖 v,動詞,描写,量 ample
+胡 胡 n,名詞,不可譲,身体 dewlap
+胡 胡 n,名詞,主体,集団 horse-riding-nomads
+胡 胡 v,副詞,疑問,原因 why
+胡齕 胡齕 胡龁 n,名詞,人,複合的人名 Huhe
+胡龁 胡齕 胡龁 n,名詞,人,複合的人名 Huhe
+胥 胥 v,動詞,行為,交流 mutual
+胸 胸 n,名詞,不可譲,身体 chest
+能 能 n,名詞,不可譲,属性 ability
+能 能 v,助動詞,可能,* can
+胁 脅 胁 n,名詞,不可譲,身体 side
+脅 脅 胁 n,名詞,不可譲,身体 side
+脇 脅 胁 n,名詞,不可譲,身体 side
+胁 脅 胁 v,動詞,行為,動作 coerce
+脅 脅 胁 v,動詞,行為,動作 coerce
+脇 脅 胁 v,動詞,行為,動作 coerce
+胫 脛 胫 n,名詞,不可譲,身体 shin
+脛 脛 胫 n,名詞,不可譲,身体 shin
+脩 脩 修 n,名詞,人,名 [given-name]
+脩 脩 修 n,名詞,可搬,糧食 dried-meat
+脩 脩 修 v,動詞,行為,動作 improve
+脯 脯 n,名詞,可搬,糧食 dried-meat
+腊 腊 n,名詞,可搬,糧食 dried-meat
+腎 腎 n,名詞,不可譲,身体 kidney
+腥 腥 n,名詞,可搬,糧食 raw-meat
+腹 腹 n,名詞,不可譲,身体 stomach
+膏 膏 v,動詞,描写,形質 lubricate
+肤 膚 肤 n,名詞,不可譲,身体 skin
+膚 膚 肤 n,名詞,不可譲,身体 skin
+肤 膚 肤 n,名詞,人,名 [given-name]
+膚 膚 肤 n,名詞,人,名 [given-name]
+肤 膚 肤 v,動詞,描写,量 great
+膚 膚 肤 v,動詞,描写,量 great
+膝 膝 n,名詞,不可譲,身体 knee
+胶 膠 胶 n,名詞,人,姓氏 [surname]
+膠 膠 胶 n,名詞,人,姓氏 [surname]
+胶鬲 膠鬲 胶鬲 n,名詞,人,複合的人名 Jiaoge
+膠鬲 膠鬲 胶鬲 n,名詞,人,複合的人名 Jiaoge
+膺 膺 v,動詞,行為,動作 resist
+胆 膽 胆 n,名詞,不可譲,身体 gall-bladder
+膽 膽 胆 n,名詞,不可譲,身体 gall-bladder
+脍 膾 脍 n,名詞,可搬,糧食 mincemeat
+膾 膾 脍 n,名詞,可搬,糧食 mincemeat
+臂 臂 n,名詞,不可譲,身体 arm
+臣 臣 n,名詞,人,役割 vassal
+臣 臣 v,動詞,行為,役割 vassal
+卧 臥 卧 v,動詞,行為,姿勢 lie-down
+臥 臥 卧 v,動詞,行為,姿勢 lie-down
+臧 臧 v,動詞,描写,態度 good
+临 臨 临 v,動詞,行為,動作 overlook
+臨 臨 临 v,動詞,行為,動作 overlook
+自 自 n,代名詞,人称,他 self
+自 自 v,前置詞,経由,* from
+自 自 v,動詞,行為,動作 follow
+至 至 n,名詞,描写,形質 utmost
+至 至 v,動詞,行為,移動 arrive
+致 致 v,動詞,行為,動作 cause-to-arrive
+臺 臺 台 n,名詞,人,役割 officer
+臺 臺 台 n,名詞,固定物,建造物 terrace
+臻 臻 n,名詞,人,名 [given-name]
+舅 舅 n,名詞,人,関係 mother's-brother
+舅犯 舅犯 n,名詞,人,複合的人名 Jiu-Fan
+与 與 与 p,助詞,句末,* [Q]
+與 與 与 p,助詞,句末,* [Q]
+与 與 与 v,前置詞,関係,* associate-with
+與 與 与 v,前置詞,関係,* associate-with
+与 與 与 v,動詞,行為,交流 participate
+與 與 与 v,動詞,行為,交流 participate
+兴 興 兴 v,動詞,行為,動作 rise
+興 興 兴 v,動詞,行為,動作 rise
+兴 興 兴 v,動詞,行為,態度 interest
+興 興 兴 v,動詞,行為,態度 interest
+举 舉 举 n,名詞,人,名 [given-name]
+挙 舉 举 n,名詞,人,名 [given-name]
+擧 舉 举 n,名詞,人,名 [given-name]
+舉 舉 举 n,名詞,人,名 [given-name]
+举 舉 举 n,名詞,人,姓氏 [surname]
+挙 舉 举 n,名詞,人,姓氏 [surname]
+擧 舉 举 n,名詞,人,姓氏 [surname]
+舉 舉 举 n,名詞,人,姓氏 [surname]
+举 舉 举 v,副詞,範囲,総括 all
+挙 舉 举 v,副詞,範囲,総括 all
+擧 舉 举 v,副詞,範囲,総括 all
+舉 舉 举 v,副詞,範囲,総括 all
+举 舉 举 v,動詞,行為,動作 raise
+挙 舉 举 v,動詞,行為,動作 raise
+擧 舉 举 v,動詞,行為,動作 raise
+舉 舉 举 v,動詞,行為,動作 raise
+旧 舊 旧 n,名詞,時,* old
+舊 舊 旧 n,名詞,時,* old
+旧 舊 旧 v,動詞,描写,形質 old
+舊 舊 旧 v,動詞,描写,形質 old
+舌 舌 n,名詞,不可譲,身体 tongue
+舍 舍 n,名詞,人,名 [given-name]
+舎 舍 n,名詞,人,名 [given-name]
+舍 舍 n,名詞,固定物,建造物 house
+舎 舍 n,名詞,固定物,建造物 house
+舍 舍 v,動詞,行為,得失 release
+舎 舍 v,動詞,行為,得失 release
+舐 舐 v,動詞,行為,動作 lick
+舒 舒 n,名詞,主体,国名 [country-name]
+舒 舒 v,動詞,描写,態度 slow-paced
+舜 舜 n,名詞,人,名 [given-name]
+舞 舞 v,動詞,行為,動作 dance
+舟 舟 n,名詞,可搬,乗り物 boat
+般 般 v,動詞,行為,態度 pleasure
+良 良 v,動詞,描写,形質 good
+色 色 n,名詞,描写,形質 colour
+艴 艴 v,動詞,描写,態度 annoyed
+艾 艾 n,名詞,可搬,道具 mugwort
+艾 艾 v,動詞,描写,形質 pretty
+艾 艾 v,動詞,行為,動作 mow
+芑 芑 n,名詞,固定物,樹木 lettuce
+芒 芒 n,名詞,固定物,樹木 awn
+芙 芙 n,名詞,固定物,樹木 lotus
+芙蓉 芙蓉 n,名詞,固定物,樹木 hibiscus
+芥 芥 n,名詞,固定物,樹木 mustard
+花 花 n,名詞,固定物,樹木 flower
+芸 芸 v,動詞,行為,動作 mow
+刍 芻 刍 n,名詞,可搬,糧食 hay
+芻 芻 刍 n,名詞,可搬,糧食 hay
+刍 芻 刍 v,動詞,行為,動作 fodder
+芻 芻 刍 v,動詞,行為,動作 fodder
+苑 苑 n,名詞,固定物,建造物 park
+苗 苗 n,名詞,主体,集団 Miao
+苗 苗 n,名詞,固定物,樹木 seedling
+苙 苙 n,名詞,固定物,建造物 animal-pen
+苛 苛 v,動詞,描写,形質 harsh
+苞 苞 n,名詞,固定物,樹木 bud
+苟 苟 v,副詞,判断,推定 careless
+苟 苟 v,動詞,描写,態度 careless
+若 若 n,代名詞,人称,他 [2PRON]
+若 若 v,副詞,判断,推定 if 
+若 若 v,動詞,行為,分類 be-like
+苦 苦 v,動詞,描写,態度 bitter
+英 英 n,名詞,人,人 hero
+英 英 n,名詞,固定物,樹木 flower
+苴 苴 n,名詞,可搬,道具 straw-of-sole
+茁 茁 v,動詞,変化,生物 sprout
+茂 茂 v,動詞,描写,形質 luxuriant
+范 范 n,名詞,固定物,地名 [place-name]
+茅 茅 n,名詞,固定物,樹木 Miscanthus
+兹 茲 兹 n,代名詞,指示,* this
+玆 茲 兹 n,代名詞,指示,* this
+茲 茲 兹 n,代名詞,指示,* this
+茶 茶 n,名詞,可搬,糧食 tea
+茹 茹 v,動詞,行為,飲食 eat
+荈 荈 n,名詞,可搬,糧食 dryed-out-tea-leaves
+草 草 n,名詞,固定物,樹木 grasses
+草 草 v,動詞,行為,動作 draft
+荆 荊 荆 n,名詞,主体,国名 [country-name]
+荊 荊 荆 n,名詞,主体,国名 [country-name]
+荆 荊 荆 n,名詞,人,名 [given-name]
+荊 荊 荆 n,名詞,人,名 [given-name]
+荏 荏 v,動詞,描写,態度 weak
+荑 荑 n,名詞,固定物,樹木 sprout
+荒 荒 v,動詞,描写,形質 wild
+荷 荷 n,名詞,固定物,樹木 lotus
+荷 荷 v,動詞,行為,動作 carry
+荷宇 荷宇 n,名詞,人,名 [given-name]
+荼 荼 n,名詞,固定物,樹木 bitter-herb
+莅 莅 v,動詞,行為,動作 oversee
+庄 莊 庄 n,名詞,人,その他の人名 Zhuang
+荘 莊 庄 n,名詞,人,その他の人名 Zhuang
+莊 莊 庄 n,名詞,人,その他の人名 Zhuang
+庄 莊 庄 n,名詞,固定物,地名 [place-name]
+荘 莊 庄 n,名詞,固定物,地名 [place-name]
+莊 莊 庄 n,名詞,固定物,地名 [place-name]
+庄 莊 庄 v,動詞,描写,態度 dignified
+荘 莊 庄 v,動詞,描写,態度 dignified
+莊 莊 庄 v,動詞,描写,態度 dignified
+庄子 莊子 庄子 n,名詞,人,複合的人名 Zhuangzi
+荘子 莊子 庄子 n,名詞,人,複合的人名 Zhuangzi
+莊子 莊子 庄子 n,名詞,人,複合的人名 Zhuangzi
+莒 莒 n,名詞,固定物,地名 [place-name]
+莒父 莒父 n,名詞,固定物,地名 [place-name]
+莞 莞 v,動詞,描写,態度 smiling
+莠 莠 n,名詞,固定物,樹木 wild-millet
+莩 莩 v,動詞,描写,境遇 starve-to-death
+莫 莫 n,名詞,時,* evening
+莫 莫 v,副詞,否定,禁止 none
+莽 莽 n,名詞,固定物,樹木 rank-grass
+菉 菉 n,名詞,固定物,樹木 green-bamboo
+菊 菊 n,名詞,固定物,樹木 Chrysanthemum
+菌 菌 n,名詞,固定物,樹木 mushroom
+菑 菑 n,名詞,描写,形質 calamity
+菑 菑 v,動詞,行為,動作 clear-land
+菜 菜 n,名詞,可搬,糧食 vegetables
+华 華 华 n,名詞,固定物,地名 [place-name]
+華 華 华 n,名詞,固定物,地名 [place-name]
+华 華 华 n,名詞,固定物,樹木 flower
+華 華 华 n,名詞,固定物,樹木 flower
+华胥 華胥 华胥 n,名詞,主体,国名 [country-name]
+華胥 華胥 华胥 n,名詞,主体,国名 [country-name]
+菲 菲 n,名詞,固定物,樹木 radishor-turnip
+菲 菲 v,動詞,描写,量 insignificant
+菹 菹 n,名詞,可搬,糧食 pickles
+菹 菹 n,名詞,固定物,地形 bush-swamp
+菽 菽 n,名詞,可搬,糧食 beans
+萃 萃 v,動詞,行為,動作 gather
+莱 萊 莱 n,名詞,固定物,樹木 goosefoot
+萊 萊 莱 n,名詞,固定物,樹木 goosefoot
+莱朱 萊朱 莱朱 n,名詞,人,名 [given-name]
+萊朱 萊朱 莱朱 n,名詞,人,名 [given-name]
+萌 萌 n,名詞,固定物,樹木 sprout
+万 萬 万 n,数詞,数字,* ten-thousand
+萬 萬 万 n,数詞,数字,* ten-thousand
+万子 萬子 万子 n,名詞,人,複合的人名 Wanzi
+萬子 萬子 万子 n,名詞,人,複合的人名 Wanzi
+落 落 v,動詞,行為,移動 drop
+葉 葉 叶 n,名詞,固定物,地名 [place-name]
+葉 葉 叶 n,名詞,固定物,樹木 leaf
+葑 葑 n,名詞,固定物,樹木 rape-turnip
+葛 葛 n,名詞,主体,国名 [country-name]
+葛 葛 n,名詞,固定物,樹木 kudzu-vine
+葛天 葛天 n,名詞,人,名 [given-name]
+葬 葬 v,動詞,行為,儀礼 bury
+葵丘 葵丘 n,名詞,固定物,地名 [place-name]
+葸 葸 v,動詞,描写,態度 timid
+蒙 蒙 v,動詞,行為,交流 encounter
+蒲 蒲 n,名詞,固定物,樹木 rushes
+蒸 蒸 v,動詞,描写,量 numerous
+蒸 蒸 v,動詞,行為,動作 steam
+苍 蒼 苍 v,動詞,描写,形質 dark-blue
+蒼 蒼 苍 v,動詞,描写,形質 dark-blue
+蒿 蒿 n,名詞,固定物,樹木 Artemisia
+蒿 蒿 v,動詞,行為,動作 waste-away
+蓁 蓁 v,動詞,描写,形質 thickly-grow
+蓄 蓄 v,動詞,行為,動作 grow
+蓉 蓉 n,名詞,固定物,地名 [place-name]
+盖 蓋 盖 n,名詞,固定物,地名 [place-name]
+蓋 蓋 盖 n,名詞,固定物,地名 [place-name]
+盖 蓋 盖 p,助詞,句頭,* why-not
+蓋 蓋 盖 p,助詞,句頭,* why-not
+盖 蓋 盖 v,動詞,行為,動作 cover
+蓋 蓋 盖 v,動詞,行為,動作 cover
+蓍 蓍 n,名詞,固定物,樹木 alpine-yarrow
+蓧 蓧 𦰏 n,名詞,可搬,道具 basket-for-carrying-seed
+𦰏 蓧 𦰏 n,名詞,可搬,道具 basket-for-carrying-seed
+蓬 蓬 n,名詞,固定物,樹木 Erigeron-acer
+蓰 蓰 n,数詞,数字,* five-times
+蓺 蓺 v,動詞,行為,動作 plant
+蔑 蔑 v,副詞,否定,禁止 [NEG-PFV]
+蔡 蔡 n,名詞,主体,国名 [country-name]
+蔡 蔡 n,名詞,可搬,道具 tortoise-shell
+蔬 蔬 n,名詞,可搬,糧食 vegetables
+蔽 蔽 v,動詞,行為,動作 hide
+蕃 蕃 n,名詞,主体,集団 outside-hedge
+蕃 蕃 v,動詞,行為,動作 luxiriously-grow
+蕊 蕊 n,名詞,固定物,樹木 ovary-of-a-flower
+荛 蕘 荛 n,名詞,固定物,樹木 brushwood
+蕘 蕘 荛 n,名詞,固定物,樹木 brushwood
+蒉 蕢 蒉 n,名詞,可搬,道具 basket
+蕢 蕢 蒉 n,名詞,可搬,道具 basket
+荡 蕩 荡 v,動詞,描写,形質 immense
+蕩 蕩 荡 v,動詞,描写,形質 immense
+芜 蕪 芜 v,動詞,変化,性質 overgrown-with-weeds
+蕪 蕪 芜 v,動詞,変化,性質 overgrown-with-weeds
+萧 蕭 萧 n,名詞,可搬,道具 mugwort
+蕭 蕭 萧 n,名詞,可搬,道具 mugwort
+萧 蕭 萧 v,動詞,描写,態度 dreary
+蕭 蕭 萧 v,動詞,描写,態度 dreary
+薄 薄 v,動詞,描写,量 thin
+姜 薑 姜 n,名詞,可搬,糧食 ginger
+薑 薑 姜 n,名詞,可搬,糧食 ginger
+薛 薛 n,名詞,主体,国名 [country-name]
+荐 薦 荐 v,動詞,行為,交流 recommend
+薦 薦 荐 v,動詞,行為,交流 recommend
+薨 薨 v,動詞,変化,生物 die
+薪 薪 n,名詞,可搬,道具 firewood
+薫 薰 n,名詞,固定物,樹木 fragrant-herb
+薰 薰 n,名詞,固定物,樹木 fragrant-herb
+薫 薰 v,動詞,描写,形質 fragrant
+薰 薰 v,動詞,描写,形質 fragrant
+藉 藉 v,動詞,行為,交流 rely-on
+蓝 藍 蓝 n,名詞,固定物,樹木 indigo
+藍 藍 蓝 n,名詞,固定物,樹木 indigo
+蔵 藏 n,名詞,固定物,建造物 storage
+藏 藏 n,名詞,固定物,建造物 storage
+蔵 藏 v,動詞,行為,設置 conceal
+藏 藏 v,動詞,行為,設置 conceal
+藐 藐 v,動詞,行為,態度 despise
+艺 藝 艺 n,名詞,可搬,成果物 art
+藝 藝 艺 n,名詞,可搬,成果物 art
+艺 藝 艺 v,動詞,行為,設置 plant
+藝 藝 艺 v,動詞,行為,設置 plant
+藟 藟 n,名詞,固定物,樹木 vine
+药 藥 药 n,名詞,可搬,道具 medicine
+薬 藥 药 n,名詞,可搬,道具 medicine
+藥 藥 药 n,名詞,可搬,道具 medicine
+藩 藩 n,名詞,制度,場 foreign-country
+藻 藻 n,名詞,固定物,樹木 seawead
+藻 藻 v,動詞,行為,動作 ornate
+芦 蘆 芦 n,名詞,固定物,樹木 reed
+蘆 蘆 芦 n,名詞,固定物,樹木 reed
+苏 蘇 苏 v,動詞,変化,生物 revive
+蘇 蘇 苏 v,動詞,変化,生物 revive
+蘖 蘖 n,名詞,固定物,樹木 tree-stump
+兰 蘭 兰 n,名詞,固定物,樹木 orchid
+蘭 蘭 兰 n,名詞,固定物,樹木 orchid
+蔂 虆 蔂 n,名詞,可搬,道具 basket
+虆 虆 蔂 n,名詞,可搬,道具 basket
+虎 虎 n,名詞,主体,動物 tiger
+虐 虐 v,動詞,行為,態度 cruel
+処 處 处 v,動詞,行為,設置 place
+处 處 处 v,動詞,行為,設置 place
+處 處 处 v,動詞,行為,設置 place
+虚 虛 虚 v,動詞,描写,形質 empty
+虛 虛 虚 v,動詞,描写,形質 empty
+虞 虞 n,名詞,主体,国名 [country-name]
+虞 虞 n,名詞,人,名 [given-name]
+虞 虞 v,動詞,行為,動作 estimate
+虞仲 虞仲 n,名詞,人,名 [given-name]
+号 號 号 n,名詞,不可譲,属性 name
+號 號 号 n,名詞,不可譲,属性 name
+号 號 号 v,動詞,行為,動作 shout
+號 號 号 v,動詞,行為,動作 shout
+虢 虢 n,名詞,主体,国名 [country-name]
+虧 虧 v,動詞,行為,得失 lack
+虬 虯 虬 n,名詞,主体,動物 young-dragon
+虯 虯 虬 n,名詞,主体,動物 young-dragon
+虵 虵 蛇 n,名詞,主体,動物 snake
+虹 虹 n,名詞,天象,気象 rainbow
+蚋 蚋 n,名詞,主体,動物 buffalo-gnat
+蚓 蚓 n,名詞,主体,動物 earthworm
+蚔蛙 蚔鼃 蚔蛙 n,名詞,人,名 Chiwa
+蚔鼃 蚔鼃 蚔蛙 n,名詞,人,名 Chiwa
+蚤 蚤 n,名詞,主体,動物 flea
+蚤 蚤 n,名詞,時,* early
+蚩尤 蚩尤 n,名詞,人,名 [given-name]
+蛇 蛇 n,名詞,主体,動物 snake
+蛙 蛙 n,名詞,主体,動物 frog
+蛟 蛟 n,名詞,主体,動物 dragon
+蜡 蜡 n,名詞,制度,儀礼 year-end-festival
+蝶 蝶 n,名詞,主体,動物 butterfly
+萤 螢 萤 n,名詞,主体,動物 glow-worm
+蛍 螢 萤 n,名詞,主体,動物 glow-worm
+螢 螢 萤 n,名詞,主体,動物 glow-worm
+螫 螫 v,動詞,行為,動作 bite
+螬 螬 n,名詞,主体,動物 larva
+蝼 螻 蝼 n,名詞,主体,動物 mole-cricket
+螻 螻 蝼 n,名詞,主体,動物 mole-cricket
+蛰 蟄 蛰 v,動詞,行為,動作 hibernate
+蟄 蟄 蛰 v,動詞,行為,動作 hibernate
+虫 蟲 虫 n,名詞,主体,動物 insect
+蟲 蟲 虫 n,名詞,主体,動物 insect
+蚁 蟻 蚁 n,名詞,主体,動物 ant
+蟻 蟻 蚁 n,名詞,主体,動物 ant
+蝇 蠅 蝇 n,名詞,主体,動物 fly
+蝿 蠅 蝇 n,名詞,主体,動物 fly
+蠅 蠅 蝇 n,名詞,主体,動物 fly
+蠡 蠡 v,動詞,描写,境遇 worm-eaten
+蚕 蠶 蚕 n,名詞,主体,動物 silkworm
+蠶 蠶 蚕 n,名詞,主体,動物 silkworm
+蚕 蠶 蚕 v,動詞,行為,動作 sericulture
+蠶 蠶 蚕 v,動詞,行為,動作 sericulture
+蛮 蠻 蛮 n,名詞,主体,集団 barbarians
+蠻 蠻 蛮 n,名詞,主体,集団 barbarians
+蛮 蠻 蛮 v,動詞,描写,形質 sing-with-beautiful-voice
+蠻 蠻 蛮 v,動詞,描写,形質 sing-with-beautiful-voice
+血 血 n,名詞,不可譲,身体 blood
+众 衆 众 n,名詞,人,役割 multitude
+眾 衆 众 n,名詞,人,役割 multitude
+衆 衆 众 n,名詞,人,役割 multitude
+众 衆 众 v,動詞,描写,量 numerous
+眾 衆 众 v,動詞,描写,量 numerous
+衆 衆 众 v,動詞,描写,量 numerous
+行 行 n,名詞,人,名 [given-name]
+行 行 n,名詞,可搬,伝達 line
+行 行 n,名詞,固定物,建造物 road
+行 行 n,名詞,行為,* action
+行 行 v,動詞,行為,動作 behave
+行 行 v,動詞,行為,移動 go
+术 術 术 n,名詞,可搬,伝達 skill
+術 術 术 n,名詞,可搬,伝達 skill
+卫 衞 卫 n,名詞,主体,国名 [country-name]
+衛 衞 卫 n,名詞,主体,国名 [country-name]
+衞 衞 卫 n,名詞,主体,国名 [country-name]
+卫 衞 卫 n,名詞,固定物,地名 [place-name]
+衛 衞 卫 n,名詞,固定物,地名 [place-name]
+衞 衞 卫 n,名詞,固定物,地名 [place-name]
+卫 衞 卫 v,動詞,行為,動作 guard
+衛 衞 卫 v,動詞,行為,動作 guard
+衞 衞 卫 v,動詞,行為,動作 guard
+衡 衡 n,名詞,可搬,道具 balance-arm
+衡 衡 v,動詞,描写,形質 crosswise
+衡 衡 v,動詞,行為,動作 weigh
+衣 衣 n,名詞,可搬,道具 cloth
+衣 衣 v,動詞,行為,動作 wear
+表 表 n,名詞,固定物,関係 outside
+表 表 v,動詞,描写,態度 expose
+衰 衰 n,名詞,可搬,道具 mourning-dress
+衰 衰 v,動詞,描写,境遇 decline
+衽 衽 n,名詞,可搬,道具 lapel
+衾 衾 n,名詞,可搬,道具 quilt
+衿 衿 n,名詞,可搬,道具 collar
+袂 袂 n,名詞,可搬,道具 sleeve
+袍 袍 n,名詞,可搬,道具 long-robe
+袒 袒 v,動詞,行為,動作 bare
+袗 袗 n,名詞,可搬,道具 unlined-gown
+被 被 v,助動詞,受動,* [PASS]
+被 被 v,動詞,行為,動作 cover
+裁 裁 v,動詞,行為,動作 tailor
+裎 裎 v,動詞,行為,動作 naked
+裔 裔 n,名詞,人,関係 posterity
+裕 裕 v,動詞,描写,形質 abundant
+裘 裘 n,名詞,人,名 [given-name]
+裘 裘 n,名詞,可搬,道具 fur
+补 補 补 v,動詞,行為,動作 mend
+補 補 补 v,動詞,行為,動作 mend
+裏 裡 里 n,名詞,固定物,関係 inside
+裡 裡 里 n,名詞,固定物,関係 inside
+裨 裨 n,名詞,人,姓氏 [surname]
+裳 裳 n,名詞,可搬,道具 lower-garment
+裸 裸 v,動詞,行為,動作 naked
+裹 裹 v,動詞,行為,動作 wrap-around
+裼 裼 v,動詞,行為,動作 bare-the-upper-body
+複 複 复 v,動詞,描写,形質 doubled
+褊 褊 v,動詞,描写,量 narrow
+亵 褻 亵 n,名詞,可搬,道具 undergarment
+褻 褻 亵 n,名詞,可搬,道具 undergarment
+亵 褻 亵 v,動詞,行為,態度 intimate
+褻 褻 亵 v,動詞,行為,態度 intimate
+襁 襁 v,動詞,行為,動作 carry-baby
+襄 襄 n,名詞,人,その他の人名 Xiang
+襄 襄 v,動詞,行為,動作 rise-up
+襜 襜 n,名詞,可搬,道具 apron
+襟 襟 n,名詞,可搬,道具 lapel
+袭 襲 袭 v,動詞,行為,動作 cover
+襲 襲 袭 v,動詞,行為,動作 cover
+西 西 n,名詞,人,名 [given-name]
+西 西 n,名詞,固定物,関係 west
+西 西 v,動詞,行為,移動 go-west
+西伯 西伯 n,名詞,人,その他の人名 Xibo
+西子 西子 n,名詞,人,名 [given-name]
+要 要 n,名詞,不可譲,身体 waist
+要 要 v,動詞,行為,動作 demand
+覆 覆 v,動詞,行為,動作 cover-over
+見 見 见 v,助動詞,受動,* [PASS]
+见 見 见 v,助動詞,受動,* [PASS]
+見 見 见 v,動詞,行為,動作 see
+见 見 见 v,動詞,行為,動作 see
+規 規 规 n,名詞,可搬,道具 compasses
+规 規 规 n,名詞,可搬,道具 compasses
+覩 覩 睹 v,動詞,行為,動作 observe
+亲 親 亲 n,名詞,人,関係 parent
+親 親 亲 n,名詞,人,関係 parent
+亲 親 亲 v,動詞,行為,態度 intimate
+親 親 亲 v,動詞,行為,態度 intimate
+覲 覲 觐 v,動詞,行為,交流 have-audience-with-a-superior
+觐 覲 觐 v,動詞,行為,交流 have-audience-with-a-superior
+覚 覺 觉 v,動詞,行為,動作 realize
+覺 覺 觉 v,動詞,行為,動作 realize
+觉 覺 觉 v,動詞,行為,動作 realize
+覧 覽 览 v,動詞,行為,動作 scan
+覽 覽 览 v,動詞,行為,動作 scan
+览 覽 览 v,動詞,行為,動作 scan
+覿 覿 觌 v,動詞,行為,交流 meet
+觌 覿 觌 v,動詞,行為,交流 meet
+観 觀 观 v,動詞,行為,動作 view
+觀 觀 观 v,動詞,行為,動作 view
+观 觀 观 v,動詞,行為,動作 view
+角 角 n,名詞,不可譲,身体 horn
+角招 角招 n,名詞,主体,書物 [book-name]
+觚 觚 n,名詞,可搬,道具 ritual-wine-vessel
+解 解 n,名詞,可搬,伝達 analysis
+解 解 v,動詞,行為,動作 untie
+觫 觫 v,動詞,描写,態度 fearful
+觳 觳 v,動詞,描写,態度 fearful
+觞 觴 觞 n,名詞,可搬,道具 wine-cup
+觴 觴 觞 n,名詞,可搬,道具 wine-cup
+触 觸 触 v,動詞,行為,動作 touch
+觸 觸 触 v,動詞,行為,動作 touch
+言 言 n,代名詞,人称,他 [1PRON]
+言 言 n,名詞,人,姓氏 [surname]
+言 言 n,名詞,可搬,伝達 speech
+言 言 v,副詞,時相,緊接 instantly
+言 言 v,動詞,行為,伝達 speak
+計 計 计 n,名詞,可搬,伝達 calculation
+计 計 计 n,名詞,可搬,伝達 calculation
+訊 訊 讯 v,動詞,行為,伝達 ask
+讯 訊 讯 v,動詞,行為,伝達 ask
+討 討 讨 v,動詞,行為,交流 punish
+讨 討 讨 v,動詞,行為,交流 punish
+訐 訐 讦 v,動詞,行為,動作 denounce
+讦 訐 讦 v,動詞,行為,動作 denounce
+訑 訑 𫍙 v,動詞,行為,態度 self-satisfied
+𧦧 訑 𫍙 v,動詞,行為,態度 self-satisfied
+𫍙 訑 𫍙 v,動詞,行為,態度 self-satisfied
+訒 訒 讱 v,動詞,描写,態度 stammer
+讱 訒 讱 v,動詞,描写,態度 stammer
+訓 訓 训 v,動詞,行為,交流 instruct
+训 訓 训 v,動詞,行為,交流 instruct
+訕 訕 讪 v,動詞,行為,伝達 ridicule
+讪 訕 讪 v,動詞,行為,伝達 ridicule
+托 託 托 v,動詞,行為,伝達 entrust
+託 託 托 v,動詞,行為,伝達 entrust
+記 記 记 p,助詞,句末,* [filler-character]
+记 記 记 p,助詞,句末,* [filler-character]
+記 記 记 v,動詞,行為,動作 record
+记 記 记 v,動詞,行為,動作 record
+訟 訟 讼 v,動詞,行為,交流 sue
+讼 訟 讼 v,動詞,行為,交流 sue
+䜣 訢 䜣 v,動詞,描写,態度 happy
+訢 訢 䜣 v,動詞,描写,態度 happy
+訥 訥 讷 v,動詞,行為,伝達 slow-of-speech
+讷 訥 讷 v,動詞,行為,伝達 slow-of-speech
+訪 訪 访 v,動詞,行為,交流 enquire
+访 訪 访 v,動詞,行為,交流 enquire
+設 設 设 v,動詞,行為,設置 set-up
+设 設 设 v,動詞,行為,設置 set-up
+許 許 许 n,名詞,主体,国名 [country-name]
+许 許 许 n,名詞,主体,国名 [country-name]
+許 許 许 n,名詞,人,姓氏 [surname]
+许 許 许 n,名詞,人,姓氏 [surname]
+許 許 许 v,動詞,行為,態度 permit
+许 許 许 v,動詞,行為,態度 permit
+許子 許子 许子 n,名詞,人,複合的人名 Xuzi
+许子 許子 许子 n,名詞,人,複合的人名 Xuzi
+訴 訴 诉 v,動詞,行為,伝達 tell
+诉 訴 诉 v,動詞,行為,伝達 tell
+詐 詐 诈 v,動詞,行為,態度 deceive
+诈 詐 诈 v,動詞,行為,態度 deceive
+詒 詒 诒 v,動詞,行為,動作 hand-down
+诒 詒 诒 v,動詞,行為,動作 hand-down
+詔 詔 诏 v,動詞,行為,伝達 instruct
+诏 詔 诏 v,動詞,行為,伝達 instruct
+詖 詖 诐 v,動詞,描写,態度 one-sided
+诐 詖 诐 v,動詞,描写,態度 one-sided
+詘 詘 诎 v,動詞,変化,性質 bent
+诎 詘 诎 v,動詞,変化,性質 bent
+詞 詞 词 n,名詞,可搬,伝達 word
+词 詞 词 n,名詞,可搬,伝達 word
+咏 詠 咏 v,動詞,行為,伝達 chant
+詠 詠 咏 v,動詞,行為,伝達 chant
+詢 詢 询 v,動詞,行為,伝達 enquire
+询 詢 询 v,動詞,行為,伝達 enquire
+詣 詣 诣 v,動詞,行為,移動 come-to
+诣 詣 诣 v,動詞,行為,移動 come-to
+試 試 试 v,動詞,行為,動作 try
+试 試 试 v,動詞,行為,動作 try
+詩 詩 诗 n,名詞,主体,書物 [book-name]
+诗 詩 诗 n,名詞,主体,書物 [book-name]
+詩 詩 诗 n,名詞,可搬,伝達 poetry
+诗 詩 诗 n,名詞,可搬,伝達 poetry
+詬 詬 诟 v,動詞,行為,態度 shame
+诟 詬 诟 v,動詞,行為,態度 shame
+詭 詭 诡 v,動詞,描写,形質 deceptive
+诡 詭 诡 v,動詞,描写,形質 deceptive
+詰 詰 诘 v,動詞,行為,伝達 question
+诘 詰 诘 v,動詞,行為,伝達 question
+話 話 话 n,名詞,可搬,伝達 speech
+话 話 话 n,名詞,可搬,伝達 speech
+該 該 该 v,動詞,行為,動作 complete
+该 該 该 v,動詞,行為,動作 complete
+詳 詳 详 n,名詞,人,名 [given-name]
+详 詳 详 n,名詞,人,名 [given-name]
+詳 詳 详 v,動詞,描写,形質 detailed
+详 詳 详 v,動詞,描写,形質 detailed
+誄 誄 诔 n,名詞,制度,儀礼 eulogy-for-the-dead
+诔 誄 诔 n,名詞,制度,儀礼 eulogy-for-the-dead
+誅 誅 诛 v,動詞,行為,交流 execute
+诛 誅 诛 v,動詞,行為,交流 execute
+誕 誕 诞 v,動詞,変化,生物 give-birth
+诞 誕 诞 v,動詞,変化,生物 give-birth
+誘 誘 诱 v,動詞,行為,交流 lead
+诱 誘 诱 v,動詞,行為,交流 lead
+語 語 语 n,名詞,可搬,伝達 word
+语 語 语 n,名詞,可搬,伝達 word
+語 語 语 v,動詞,行為,伝達 tell
+语 語 语 v,動詞,行為,伝達 tell
+誠 誠 诚 n,名詞,描写,態度 sincere
+诚 誠 诚 n,名詞,描写,態度 sincere
+誠 誠 诚 v,動詞,描写,態度 sincere
+诚 誠 诚 v,動詞,描写,態度 sincere
+誣 誣 诬 v,動詞,行為,交流 accuse-falsely
+诬 誣 诬 v,動詞,行為,交流 accuse-falsely
+誤 誤 误 v,動詞,行為,態度 mistake
+误 誤 误 v,動詞,行為,態度 mistake
+誦 誦 诵 v,動詞,行為,伝達 chant
+诵 誦 诵 v,動詞,行為,伝達 chant
+誨 誨 诲 v,動詞,行為,伝達 teach
+诲 誨 诲 v,動詞,行為,伝達 teach
+說 說 说 n,名詞,人,名 [given-name]
+説 說 说 n,名詞,人,名 [given-name]
+说 說 说 n,名詞,人,名 [given-name]
+說 說 说 n,名詞,可搬,伝達 theory
+説 說 说 n,名詞,可搬,伝達 theory
+说 說 说 n,名詞,可搬,伝達 theory
+說 說 说 v,動詞,行為,伝達 explain
+説 說 说 v,動詞,行為,伝達 explain
+说 說 说 v,動詞,行為,伝達 explain
+說 說 说 v,動詞,行為,態度 relaxed
+説 說 说 v,動詞,行為,態度 relaxed
+说 說 说 v,動詞,行為,態度 relaxed
+誰 誰 谁 n,代名詞,疑問,* who
+谁 誰 谁 n,代名詞,疑問,* who
+誶 誶 谇 v,動詞,行為,動作 reprimand
+谇 誶 谇 v,動詞,行為,動作 reprimand
+訚 誾 訚 v,動詞,描写,態度 affable-but-respectful
+誾 誾 訚 v,動詞,描写,態度 affable-but-respectful
+調 調 调 n,名詞,時,* morning
+调 調 调 n,名詞,時,* morning
+調 調 调 v,動詞,行為,動作 tune
+调 調 调 v,動詞,行為,動作 tune
+諂 諂 谄 v,動詞,行為,態度 flatter
+谄 諂 谄 v,動詞,行為,態度 flatter
+諄 諄 谆 v,動詞,描写,態度 ernest
+谆 諄 谆 v,動詞,描写,態度 ernest
+談 談 谈 v,動詞,行為,伝達 talk
+谈 談 谈 v,動詞,行為,伝達 talk
+請 請 请 v,動詞,行為,交流 request
+请 請 请 v,動詞,行為,交流 request
+諑 諑 诼 v,動詞,行為,態度 blame
+诼 諑 诼 v,動詞,行為,態度 blame
+諒 諒 谅 v,動詞,行為,態度 trust
+谅 諒 谅 v,動詞,行為,態度 trust
+論 論 论 v,動詞,行為,交流 discuss
+论 論 论 v,動詞,行為,交流 discuss
+論語 論語 论语 n,名詞,主体,書物 [book-name]
+论语 論語 论语 n,名詞,主体,書物 [book-name]
+諛 諛 谀 v,動詞,行為,態度 flatter
+谀 諛 谀 v,動詞,行為,態度 flatter
+諟 諟 𬤊 v,動詞,行為,動作 verify
+𬤊 諟 𬤊 v,動詞,行為,動作 verify
+諠 諠 喧 v,動詞,行為,動作 clamour
+諡 諡 谥 n,名詞,不可譲,属性 posthumous-name
+諫 諫 谏 v,動詞,行為,伝達 remonstrate
+谏 諫 谏 v,動詞,行為,伝達 remonstrate
+諱 諱 讳 v,動詞,行為,態度 avoid
+讳 諱 讳 v,動詞,行為,態度 avoid
+諺 諺 谚 n,名詞,可搬,伝達 proverb
+谚 諺 谚 n,名詞,可搬,伝達 proverb
+諾 諾 诺 v,動詞,行為,交流 agree
+诺 諾 诺 v,動詞,行為,交流 agree
+謀 謀 谋 v,動詞,行為,動作 plan
+谋 謀 谋 v,動詞,行為,動作 plan
+謂 謂 谓 v,動詞,行為,伝達 speak-to
+谓 謂 谓 v,動詞,行為,伝達 speak-to
+謇 謇 v,動詞,描写,態度 stammer
+謗 謗 谤 v,動詞,行為,交流 slander
+谤 謗 谤 v,動詞,行為,交流 slander
+謙 謙 谦 v,動詞,行為,態度 modest
+谦 謙 谦 v,動詞,行為,態度 modest
+謚 謚 谥 n,名詞,制度,儀礼 posthumous-name
+谥 謚 谥 n,名詞,制度,儀礼 posthumous-name
+講 講 讲 v,動詞,行為,交流 discuss
+讲 講 讲 v,動詞,行為,交流 discuss
+謝 謝 谢 v,動詞,行為,交流 excuse-oneself
+谢 謝 谢 v,動詞,行為,交流 excuse-oneself
+謨 謨 谟 v,動詞,行為,動作 plan
+谟 謨 谟 v,動詞,行為,動作 plan
+謫 謫 谪 v,動詞,行為,交流 blame
+谪 謫 谪 v,動詞,行為,交流 blame
+謬 謬 谬 v,動詞,行為,態度 err
+谬 謬 谬 v,動詞,行為,態度 err
+謳 謳 讴 v,動詞,行為,動作 sing
+讴 謳 讴 v,動詞,行為,動作 sing
+譈 譈 v,動詞,行為,態度 resent
+𬤣 譈 v,動詞,行為,態度 resent
+証 證 证 v,動詞,行為,動作 verify
+證 證 证 v,動詞,行為,動作 verify
+证 證 证 v,動詞,行為,動作 verify
+譎 譎 谲 v,動詞,描写,形質 deceptive
+谲 譎 谲 v,動詞,描写,形質 deceptive
+譏 譏 讥 v,動詞,行為,交流 ridicule
+讥 譏 讥 v,動詞,行為,交流 ridicule
+譖 譖 谮 v,動詞,行為,交流 accuse-falsely
+谮 譖 谮 v,動詞,行為,交流 accuse-falsely
+識 識 识 v,動詞,行為,動作 recognize
+识 識 识 v,動詞,行為,動作 recognize
+警 警 v,動詞,行為,交流 warn
+譬 譬 v,動詞,行為,動作 give-an-analogy
+訳 譯 译 v,動詞,行為,動作 translate
+譯 譯 译 v,動詞,行為,動作 translate
+译 譯 译 v,動詞,行為,動作 translate
+議 議 议 v,動詞,行為,交流 discuss
+议 議 议 v,動詞,行為,交流 discuss
+护 護 护 v,動詞,行為,動作 protect
+護 護 护 v,動詞,行為,動作 protect
+誉 譽 誉 v,動詞,行為,交流 praise
+譽 譽 誉 v,動詞,行為,交流 praise
+読 讀 读 v,動詞,行為,動作 recite-texts
+讀 讀 读 v,動詞,行為,動作 recite-texts
+读 讀 读 v,動詞,行為,動作 recite-texts
+变 變 变 v,動詞,変化,性質 change
+変 變 变 v,動詞,変化,性質 change
+變 變 变 v,動詞,変化,性質 change
+讎 讎 雠 n,名詞,人,関係 personal-enemy
+讐 讎 雠 n,名詞,人,関係 personal-enemy
+雠 讎 雠 n,名詞,人,関係 personal-enemy
+讎 讎 雠 v,動詞,行為,交流 answer
+讐 讎 雠 v,動詞,行為,交流 answer
+雠 讎 雠 v,動詞,行為,交流 answer
+讎由 讎由 雠由 n,名詞,人,名 [given-name]
+讐由 讎由 雠由 n,名詞,人,名 [given-name]
+雠由 讎由 雠由 n,名詞,人,名 [given-name]
+讒 讒 谗 v,動詞,行為,伝達 defame
+谗 讒 谗 v,動詞,行為,伝達 defame
+譲 讓 让 v,動詞,行為,動作 reprimand
+讓 讓 让 v,動詞,行為,動作 reprimand
+让 讓 让 v,動詞,行為,動作 reprimand
+讙 讙 欢 v,動詞,行為,動作 shout
+谷 谷 n,名詞,固定物,地形 valley
+谿 谿 n,名詞,固定物,地形 rivulet
+豆 豆 n,名詞,可搬,糧食 bean
+豆 豆 n,名詞,可搬,道具 sacrificial-food-vessel
+岂 豈 岂 v,副詞,疑問,反語 [expect-negative-answer]
+豈 豈 岂 v,副詞,疑問,反語 [expect-negative-answer]
+丰 豐 丰 n,名詞,固定物,地名 [place-name]
+豊 豐 丰 n,名詞,固定物,地名 [place-name]
+豐 豐 丰 n,名詞,固定物,地名 [place-name]
+丰 豐 丰 v,動詞,描写,形質 rich
+豊 豐 丰 v,動詞,描写,形質 rich
+豐 豐 丰 v,動詞,描写,形質 rich
+豕 豕 n,名詞,主体,動物 pig
+豚 豚 n,名詞,主体,動物 young-pig
+象 象 n,名詞,主体,動物 elephant
+象 象 n,名詞,人,名 [given-name]
+象 象 n,名詞,制度,儀礼 [ancient-music]
+象 象 n,名詞,描写,形質 image
+象 象 v,動詞,行為,動作 image
+豢 豢 v,動詞,行為,飲食 feed-domestic-animals
+豪 豪 n,名詞,不可譲,身体 hair
+豪 豪 n,名詞,描写,態度 unrestrained
+豪 豪 v,動詞,描写,態度 unrestrained
+豫 豫 v,動詞,行為,態度 enjoy
+豹 豹 n,名詞,主体,動物 leopard
+豺 豺 n,名詞,主体,動物 jackal
+貉 貉 n,名詞,主体,動物 raccoon-dog
+貉 貉 n,名詞,主体,国名 [country-name]
+貉 貉 n,名詞,人,姓氏 [surname]
+貊 貊 n,名詞,主体,集団 northeastern-people
+貌 貌 n,名詞,不可譲,身体 appearance
+貌 貌 v,動詞,行為,動作 look
+狸 貍 狸 n,名詞,主体,動物 raccoon-dog
+貍 貍 狸 n,名詞,主体,動物 raccoon-dog
+猫 貓 猫 n,名詞,主体,動物 cat
+貓 貓 猫 n,名詞,主体,動物 cat
+貞 貞 贞 v,動詞,描写,態度 chaste
+贞 貞 贞 v,動詞,描写,態度 chaste
+貞子 貞子 贞子 n,名詞,人,複合的人名 Zhenzi
+贞子 貞子 贞子 n,名詞,人,複合的人名 Zhenzi
+負 負 负 v,動詞,行為,動作 owe
+负 負 负 v,動詞,行為,動作 owe
+負夏 負夏 负夏 n,名詞,固定物,地名 [place-name]
+负夏 負夏 负夏 n,名詞,固定物,地名 [place-name]
+負芻 負芻 负刍 n,名詞,人,名 [given-name]
+负刍 負芻 负刍 n,名詞,人,名 [given-name]
+財 財 财 n,名詞,可搬,道具 goods
+财 財 财 n,名詞,可搬,道具 goods
+貢 貢 贡 n,名詞,可搬,成果物 tribute
+贡 貢 贡 n,名詞,可搬,成果物 tribute
+貢 貢 贡 v,動詞,行為,動作 tribute
+贡 貢 贡 v,動詞,行為,動作 tribute
+貣 貣 v,動詞,行為,動作 demand
+貧 貧 贫 v,動詞,描写,境遇 poor
+贫 貧 贫 v,動詞,描写,境遇 poor
+貨 貨 货 n,名詞,人,名 [given-name]
+货 貨 货 n,名詞,人,名 [given-name]
+貨 貨 货 n,名詞,可搬,道具 commodity
+货 貨 货 n,名詞,可搬,道具 commodity
+貨 貨 货 v,動詞,行為,交流 sell
+货 貨 货 v,動詞,行為,交流 sell
+貪 貪 贪 v,動詞,行為,態度 greedy
+贪 貪 贪 v,動詞,行為,態度 greedy
+貫 貫 贯 v,動詞,描写,形質 accustomed
+贯 貫 贯 v,動詞,描写,形質 accustomed
+貫 貫 贯 v,動詞,行為,動作 perforate
+贯 貫 贯 v,動詞,行為,動作 perforate
+責 責 责 v,動詞,行為,交流 demand
+责 責 责 v,動詞,行為,交流 demand
+貳 貳 贰 v,動詞,行為,動作 double
+贰 貳 贰 v,動詞,行為,動作 double
+貴 貴 贵 n,名詞,描写,態度 noble
+贵 貴 贵 n,名詞,描写,態度 noble
+貴 貴 贵 v,動詞,描写,態度 noble
+贵 貴 贵 v,動詞,描写,態度 noble
+貶 貶 贬 v,動詞,行為,態度 demote
+贬 貶 贬 v,動詞,行為,態度 demote
+买 買 买 v,動詞,行為,得失 buy
+買 買 买 v,動詞,行為,得失 buy
+貸 貸 贷 v,動詞,行為,交流 borrow
+贷 貸 贷 v,動詞,行為,交流 borrow
+貺 貺 贶 v,動詞,行為,伝達 confer
+贶 貺 贶 v,動詞,行為,伝達 confer
+費 費 费 n,名詞,主体,国名 [country-name]
+费 費 费 n,名詞,主体,国名 [country-name]
+費 費 费 n,名詞,固定物,地名 [place-name]
+费 費 费 n,名詞,固定物,地名 [place-name]
+費 費 费 v,動詞,行為,態度 squander
+费 費 费 v,動詞,行為,態度 squander
+賀 賀 贺 v,動詞,行為,交流 congratulate
+贺 賀 贺 v,動詞,行為,交流 congratulate
+賁 賁 贲 n,名詞,描写,態度 bravery
+贲 賁 贲 n,名詞,描写,態度 bravery
+賁 賁 贲 v,動詞,描写,形質 brave
+贲 賁 贲 v,動詞,描写,形質 brave
+賂 賂 赂 n,名詞,可搬,成果物 present
+赂 賂 赂 n,名詞,可搬,成果物 present
+賅 賅 赅 v,動詞,行為,設置 complete
+赅 賅 赅 v,動詞,行為,設置 complete
+資 資 资 v,動詞,行為,動作 resource
+资 資 资 v,動詞,行為,動作 resource
+賈 賈 贾 n,名詞,人,役割 merchant
+贾 賈 贾 n,名詞,人,役割 merchant
+賊 賊 贼 n,名詞,主体,集団 bandit
+贼 賊 贼 n,名詞,主体,集団 bandit
+賊 賊 贼 v,動詞,行為,動作 bandit
+贼 賊 贼 v,動詞,行為,動作 bandit
+賊子 賊子 贼子 n,名詞,主体,集団 bandit
+贼子 賊子 贼子 n,名詞,主体,集団 bandit
+賚 賚 赉 v,動詞,行為,交流 bestow
+赉 賚 赉 v,動詞,行為,交流 bestow
+賜 賜 赐 n,名詞,人,名 [given-name]
+赐 賜 赐 n,名詞,人,名 [given-name]
+賜 賜 赐 v,動詞,行為,交流 bestow
+赐 賜 赐 v,動詞,行為,交流 bestow
+賞 賞 赏 v,動詞,行為,交流 reward
+赏 賞 赏 v,動詞,行為,交流 reward
+賢 賢 贤 n,名詞,描写,態度 wise
+贤 賢 贤 n,名詞,描写,態度 wise
+賢 賢 贤 v,動詞,描写,態度 worthy
+贤 賢 贤 v,動詞,描写,態度 worthy
+賤 賤 贱 v,動詞,描写,境遇 lowly
+贱 賤 贱 v,動詞,描写,境遇 lowly
+賦 賦 赋 n,名詞,可搬,成果物 tax
+赋 賦 赋 n,名詞,可搬,成果物 tax
+賦 賦 赋 v,動詞,行為,伝達 rhyme
+赋 賦 赋 v,動詞,行為,伝達 rhyme
+賦 賦 赋 v,動詞,行為,動作 tax
+赋 賦 赋 v,動詞,行為,動作 tax
+質 質 质 n,名詞,可搬,道具 pawn
+质 質 质 n,名詞,可搬,道具 pawn
+質 質 质 n,名詞,描写,形質 substance
+质 質 质 n,名詞,描写,形質 substance
+質 質 质 v,動詞,行為,動作 offer-hostage
+质 質 质 v,動詞,行為,動作 offer-hostage
+賴 賴 赖 v,動詞,描写,態度 lean-on
+赖 賴 赖 v,動詞,描写,態度 lean-on
+頼 賴 赖 v,動詞,描写,態度 lean-on
+贈 贈 赠 v,動詞,行為,交流 present
+赠 贈 赠 v,動詞,行為,交流 present
+賛 贊 赞 v,動詞,行為,交流 promote
+贊 贊 赞 v,動詞,行為,交流 promote
+赞 贊 赞 v,動詞,行為,交流 promote
+贍 贍 赡 v,動詞,描写,量 sufficient
+赡 贍 赡 v,動詞,描写,量 sufficient
+贐 贐 赆 n,名詞,可搬,道具 farewell-gift
+赆 贐 赆 n,名詞,可搬,道具 farewell-gift
+贖 贖 赎 v,動詞,行為,動作 ransom
+赎 贖 赎 v,動詞,行為,動作 ransom
+赤 赤 n,名詞,人,名 [given-name]
+赤 赤 n,名詞,描写,形質 red
+赦 赦 v,動詞,行為,交流 pardon
+赧 赧 v,動詞,描写,態度 blush
+赫 赫 v,動詞,描写,形質 fiery-red
+赫胥 赫胥 n,名詞,人,名 [given-name]
+赭 赭 n,名詞,描写,形質 reddish-brown
+走 走 v,動詞,行為,移動 run
+赴 赴 v,動詞,行為,移動 hurry-to
+起 起 v,動詞,行為,動作 arise
+超 超 v,動詞,行為,移動 surpass
+越 越 n,名詞,主体,国名 [country-name]
+越 越 v,動詞,行為,動作 cross-over
+赵 趙 赵 n,名詞,主体,国名 [country-name]
+趙 趙 赵 n,名詞,主体,国名 [country-name]
+赵 趙 赵 n,名詞,人,姓氏 [surname]
+趙 趙 赵 n,名詞,人,姓氏 [surname]
+趣 趣 n,名詞,描写,態度 interest
+趣 趣 v,副詞,時相,緊接 urgently
+趋 趨 趋 v,動詞,行為,移動 run
+趨 趨 趋 v,動詞,行為,移動 run
+足 足 n,名詞,不可譲,身体 foot
+足 足 v,助動詞,可能,* enough
+足 足 v,動詞,描写,量 sufficient
+跂 跂 v,動詞,行為,動作 stand-on-tiptoe
+跖 跖 n,名詞,人,名 [given-name]
+距 距 v,動詞,描写,態度 distant-from
+距心 距心 n,名詞,人,名 [given-name]
+跡 跡 迹 n,名詞,可搬,成果物 footprint
+跪 跪 v,動詞,行為,動作 kneel
+路 路 n,名詞,人,名 [given-name]
+路 路 n,名詞,固定物,建造物 road
+路 路 v,動詞,行為,移動 go-road
+跲 跲 v,動詞,行為,動作 stumble
+踊 踊 v,動詞,行為,動作 jump-up
+践 踐 践 v,動詞,行為,動作 step-on
+踐 踐 践 v,動詞,行為,動作 step-on
+踖 踖 v,動詞,描写,態度 respectful
+踞心 踞心 n,名詞,人,名 [given-name]
+踧 踧 v,動詞,描写,態度 unease
+踰 踰 逾 v,動詞,行為,移動 leap-over
+踵 踵 n,名詞,不可譲,身体 heel
+踵 踵 v,動詞,行為,移動 follow-on-the-heels
+踽 踽 v,動詞,描写,態度 solitary
+蹄 蹄 n,名詞,不可譲,身体 hoof
+蹈 蹈 v,動詞,行為,動作 stamp-on
+蹊 蹊 n,名詞,固定物,地形 footpath
+蹙 蹙 v,動詞,行為,態度 trample
+蹜 蹜 v,動詞,行為,動作 drag-the-feet
+蹝 蹝 n,名詞,可搬,道具 sandal
+踪 蹤 踪 n,名詞,固定物,関係 track
+蹤 蹤 踪 n,名詞,固定物,関係 track
+蹴 蹴 v,動詞,行為,動作 kick
+蹶 蹶 v,動詞,行為,動作 lose-one's-footing
+躁 躁 v,動詞,描写,態度 impetuous
+躅 躅 v,動詞,行為,動作 put-footprint
+躇 躇 v,動詞,描写,態度 hesitate
+踌 躊 踌 v,動詞,描写,態度 hesitate
+躊 躊 踌 v,動詞,描写,態度 hesitate
+跃 躍 跃 v,動詞,行為,動作 jump
+躍 躍 跃 v,動詞,行為,動作 jump
+踯 躑 踯 v,動詞,行為,動作 walk-haltingly
+躑 躑 踯 v,動詞,行為,動作 walk-haltingly
+躩 躩 v,動詞,描写,形質 wobble
+身 身 n,名詞,不可譲,身体 body
+身 身 v,動詞,行為,動作 acquire
+躬 躬 n,名詞,不可譲,身体 body
+躯 軀 躯 n,名詞,不可譲,身体 body
+軀 軀 躯 n,名詞,不可譲,身体 body
+車 車 车 n,名詞,可搬,乗り物 cart
+车 車 车 n,名詞,可搬,乗り物 cart
+軌 軌 轨 n,名詞,固定物,建造物 cart-ruts
+轨 軌 轨 n,名詞,固定物,建造物 cart-ruts
+军 軍 军 n,名詞,主体,集団 army
+軍 軍 军 n,名詞,主体,集団 army
+軏 軏 𫐄 n,名詞,可搬,道具 cross-bar-at-end-of-carriage-pole
+𫐄 軏 𫐄 n,名詞,可搬,道具 cross-bar-at-end-of-carriage-pole
+軔 軔 轫 n,名詞,度量衡,* [length-unit]
+轫 軔 轫 n,名詞,度量衡,* [length-unit]
+軫 軫 轸 n,名詞,可搬,道具 cross-bar-at-the-rear-of-a-carriage
+轸 軫 轸 n,名詞,可搬,道具 cross-bar-at-the-rear-of-a-carriage
+軻 軻 轲 n,名詞,人,名 [given-name]
+轲 軻 轲 n,名詞,人,名 [given-name]
+較 較 较 v,動詞,行為,動作 compare
+较 較 较 v,動詞,行為,動作 compare
+輅 輅 辂 n,名詞,可搬,乗り物 large-chariot
+辂 輅 辂 n,名詞,可搬,乗り物 large-chariot
+載 載 载 n,名詞,時,* year
+载 載 载 n,名詞,時,* year
+載 載 载 p,助詞,句頭,* [modal-particle]
+载 載 载 p,助詞,句頭,* [modal-particle]
+載 載 载 v,動詞,行為,動作 load-a-carriage
+载 載 载 v,動詞,行為,動作 load-a-carriage
+輔 輔 辅 v,動詞,行為,交流 assist
+辅 輔 辅 v,動詞,行為,交流 assist
+軽 輕 轻 v,動詞,描写,量 light
+輕 輕 轻 v,動詞,描写,量 light
+轻 輕 轻 v,動詞,描写,量 light
+輗 輗 𫐐 n,名詞,可搬,道具 attachment-of-yoke-to-carriage-pole
+𫐐 輗 𫐐 n,名詞,可搬,道具 attachment-of-yoke-to-carriage-pole
+輝 輝 辉 v,動詞,描写,形質 bright
+辉 輝 辉 v,動詞,描写,形質 bright
+輟 輟 辍 v,動詞,行為,動作 stop
+辍 輟 辍 v,動詞,行為,動作 stop
+輪 輪 轮 n,名詞,可搬,道具 wheel
+轮 輪 轮 n,名詞,可搬,道具 wheel
+輶 輶 𬨎 n,名詞,可搬,乗り物 light-carriage
+𬨎 輶 𬨎 n,名詞,可搬,乗り物 light-carriage
+輶 輶 𬨎 v,動詞,描写,量 light
+𬨎 輶 𬨎 v,動詞,描写,量 light
+舆 輿 舆 n,名詞,可搬,乗り物 carriage
+輿 輿 舆 n,名詞,可搬,乗り物 carriage
+転 轉 转 v,動詞,行為,動作 turn
+轉 轉 转 v,動詞,行為,動作 turn
+转 轉 转 v,動詞,行為,動作 turn
+轉附 轉附 转附 n,名詞,固定物,地名 [place-name]
+转附 轉附 转附 n,名詞,固定物,地名 [place-name]
+轡 轡 辔 n,名詞,可搬,道具 bridle
+辔 轡 辔 n,名詞,可搬,道具 bridle
+辛 辛 n,名詞,人,名 [given-name]
+辛 辛 n,数詞,干支,* [8th-stem]
+辛丑 辛丑 n,数詞,干支,* [38th-sexagenary]
+辛亥 辛亥 n,数詞,干支,* [48th-sexagenary]
+辛卯 辛卯 n,数詞,干支,* [28th-sexagenary]
+辛巳 辛巳 n,数詞,干支,* [18th-sexagenary]
+辛未 辛未 n,数詞,干支,* [8th-sexagenary]
+辛酉 辛酉 n,数詞,干支,* [58th-sexagenary]
+辜 辜 n,名詞,可搬,成果物 crime
+辟 辟 n,名詞,人,名 [given-name]
+辟 辟 n,名詞,人,役割 ruler
+辟 辟 n,名詞,描写,態度 perversity
+辟 辟 v,動詞,描写,態度 perverse
+辟 辟 v,動詞,行為,儀礼 rule
+辟 辟 v,動詞,行為,動作 give-an-analogy
+辟 辟 v,動詞,行為,態度 avoid
+辟 辟 v,動詞,行為,移動 ward-off
+辟 辟 v,動詞,行為,設置 open-up
+辨 辨 v,動詞,行為,動作 discriminate
+辞 辭 辞 n,名詞,可搬,伝達 phrase
+辭 辭 辞 n,名詞,可搬,伝達 phrase
+辞 辭 辞 v,動詞,行為,動作 refuse
+辭 辭 辞 v,動詞,行為,動作 refuse
+辩 辯 辩 v,動詞,行為,交流 dispute
+辯 辯 辩 v,動詞,行為,交流 dispute
+辰 辰 n,名詞,天象,天文 star
+辱 辱 v,動詞,行為,交流 shame
+农 農 农 n,名詞,行為,* agriculture
+農 農 农 n,名詞,行為,* agriculture
+迂 迂 v,動詞,描写,態度 circuitous
+迅 迅 v,動詞,描写,形質 rapid
+迎 迎 v,動詞,行為,交流 welcome
+近 近 v,動詞,描写,形質 near
+迢 迢 v,動詞,描写,形質 remote
+迤 迤 v,動詞,描写,形質 inclined
+迨 迨 v,動詞,行為,移動 come-to
+迫 迫 v,動詞,行為,移動 approach
+迭 迭 v,動詞,行為,動作 alternate
+述 述 v,動詞,行為,伝達 transmit
+迷 迷 v,動詞,行為,態度 be-confused
+迸 迸 v,動詞,行為,動作 dispel
+迹 迹 n,名詞,固定物,関係 footprint
+追 追 n,名詞,可搬,道具 ring-for-suspending-a-bell
+追 追 v,動詞,行為,移動 pursue
+退 退 v,動詞,行為,移動 retreat
+送 送 v,動詞,行為,移動 carry
+逃 逃 v,動詞,行為,移動 run-away
+逆 逆 v,動詞,行為,移動 go-up-stream
+逍 逍 v,動詞,描写,態度 carefree
+逐 逐 v,動詞,行為,交流 pursue
+通 通 v,動詞,行為,移動 go-through
+逝 逝 p,助詞,句頭,* [modal-particle]
+逝 逝 v,動詞,変化,生物 pass-away
+逞 逞 v,動詞,行為,態度 gratify-oneself
+速 速 v,動詞,描写,量 speedy
+造 造 v,動詞,行為,動作 construct
+逢 逢 v,動詞,行為,交流 meet
+逢蒙 逢蒙 n,名詞,人,名 [given-name]
+连 連 连 v,動詞,行為,動作 link-up
+連 連 连 v,動詞,行為,動作 link-up
+逮 逮 v,動詞,行為,動作 reach-to
+进 進 进 v,動詞,行為,移動 advance
+進 進 进 v,動詞,行為,移動 advance
+逼 逼 v,動詞,行為,動作 encroach-on
+遁 遁 v,動詞,行為,移動 withdraw
+遂 遂 v,副詞,時相,終局 thereupon
+遂 遂 v,動詞,行為,動作 fulfil
+遇 遇 v,動詞,行為,交流 encounter
+遊 遊 游 v,動詞,行為,動作 wander
+运 運 运 v,動詞,行為,移動 revolve
+運 運 运 v,動詞,行為,移動 revolve
+遍 遍 v,動詞,描写,形質 all-around
+过 過 过 n,名詞,行為,* error
+過 過 过 n,名詞,行為,* error
+过 過 过 v,動詞,描写,態度 errornous
+過 過 过 v,動詞,描写,態度 errornous
+过 過 过 v,動詞,行為,移動 pass
+過 過 过 v,動詞,行為,移動 pass
+遏 遏 v,動詞,行為,動作 put-a-stop-to
+遏 遏 v,動詞,行為,移動 hold-back
+遐 遐 v,動詞,描写,量 distant
+道 道 n,名詞,制度,儀礼 doctrine
+道 道 n,名詞,固定物,建造物 road
+道 道 v,動詞,行為,伝達 lead
+达 達 达 v,動詞,行為,動作 extend-to
+達 達 达 v,動詞,行為,動作 extend-to
+达巷 達巷 达巷 n,名詞,固定物,地名 [place-name]
+達巷 達巷 达巷 n,名詞,固定物,地名 [place-name]
+违 違 违 v,動詞,行為,動作 deviate
+違 違 违 v,動詞,行為,動作 deviate
+逊 遜 逊 v,動詞,描写,態度 modest
+遜 遜 逊 v,動詞,描写,態度 modest
+递 遞 递 v,動詞,変化,性質 substitute
+逓 遞 递 v,動詞,変化,性質 substitute
+遞 遞 递 v,動詞,変化,性質 substitute
+远 遠 远 v,動詞,描写,量 distant
+遠 遠 远 v,動詞,描写,量 distant
+遣 遣 v,動詞,行為,使役 send
+遨 遨 v,動詞,行為,動作 saunter
+适 適 适 v,動詞,行為,態度 regard-single-mindedly
+適 適 适 v,動詞,行為,態度 regard-single-mindedly
+适 適 适 v,動詞,行為,移動 go-to
+適 適 适 v,動詞,行為,移動 go-to
+遭 遭 v,動詞,行為,交流 meet
+遯 遯 遁 v,動詞,行為,移動 withdraw
+迟 遲 迟 n,名詞,人,名 [given-name]
+遲 遲 迟 n,名詞,人,名 [given-name]
+迟 遲 迟 v,動詞,行為,態度 dilatory
+遅 遲 迟 v,動詞,行為,態度 dilatory
+遲 遲 迟 v,動詞,行為,態度 dilatory
+遵 遵 v,動詞,行為,動作 follow-along
+迁 遷 迁 v,動詞,行為,移動 transfer
+遷 遷 迁 v,動詞,行為,移動 transfer
+选 選 选 v,動詞,行為,動作 select
+選 選 选 v,動詞,行為,動作 select
+遗 遺 遗 v,動詞,行為,得失 leave-behind
+遺 遺 遗 v,動詞,行為,得失 leave-behind
+遽 遽 v,副詞,時相,緊接 hurriedly
+避 避 v,動詞,行為,交流 avoid
+还 還 还 v,動詞,行為,移動 return
+還 還 还 v,動詞,行為,移動 return
+迩 邇 迩 v,動詞,描写,形質 near
+邇 邇 迩 v,動詞,描写,形質 near
+边 邊 边 n,名詞,固定物,地形 margin
+辺 邊 边 n,名詞,固定物,地形 margin
+邊 邊 边 n,名詞,固定物,地形 margin
+邑 邑 n,名詞,固定物,地形 city
+邑 邑 v,動詞,行為,設置 urbanize
+邠 邠 n,名詞,固定物,地名 [place-name]
+邢 邢 n,名詞,主体,国名 [country-name]
+邦 邦 n,名詞,主体,集団 country
+邪 邪 n,名詞,描写,態度 evil
+邪 邪 p,助詞,句末,* [Q]
+邾 邾 n,名詞,固定物,地名 [place-name]
+郁 郁 v,動詞,描写,形質 courtly
+郊 郊 n,名詞,制度,場 suburbs
+郎 郞 郎 n,名詞,人,役割 official-title
+郞 郞 郎 n,名詞,人,役割 official-title
+郡 郡 n,名詞,制度,場 administrative-region
+郢 郢 n,名詞,固定物,地名 [place-name]
+部 部 n,名詞,主体,集団 section
+部 部 v,動詞,行為,動作 command
+郭 郭 n,名詞,固定物,建造物 outer-city-wall
+邮 郵 邮 n,名詞,固定物,建造物 post-station
+郵 郵 邮 n,名詞,固定物,建造物 post-station
+乡 郷 乡 n,名詞,制度,場 village
+郷 郷 乡 n,名詞,制度,場 village
+鄉 郷 乡 n,名詞,制度,場 village
+鄕 郷 乡 n,名詞,制度,場 village
+乡 郷 乡 v,動詞,行為,動作 turn-towards
+郷 郷 乡 v,動詞,行為,動作 turn-towards
+鄉 郷 乡 v,動詞,行為,動作 turn-towards
+鄕 郷 乡 v,動詞,行為,動作 turn-towards
+邹 鄒 邹 n,名詞,固定物,地名 [place-name]
+鄒 鄒 邹 n,名詞,固定物,地名 [place-name]
+鄙 鄙 n,名詞,固定物,地形 border-town
+鄙 鄙 v,動詞,描写,態度 vulgar
+郑 鄭 郑 n,名詞,主体,国名 [country-name]
+鄭 鄭 郑 n,名詞,主体,国名 [country-name]
+邻 鄰 邻 n,名詞,固定物,関係 neighbour
+鄰 鄰 邻 n,名詞,固定物,関係 neighbour
+隣 鄰 邻 n,名詞,固定物,関係 neighbour
+鄹 鄹 n,名詞,固定物,地名 [place-name]
+酌 酌 v,動詞,行為,動作 ladle
+配 配 v,動詞,行為,設置 distribute
+酒 酒 n,名詞,可搬,糧食 alcoholic-drink
+酢 酢 v,動詞,行為,飲食 drink-in-response-to-a-toast
+酬 酬 v,動詞,行為,交流 reward
+酳 酳 v,動詞,行為,儀礼 rinse-the-mouth-with-wine
+酔 醉 v,動詞,描写,態度 drunk
+醉 醉 v,動詞,描写,態度 drunk
+醉 醉 v,動詞,描写,態度 drunk
+醍 醍 n,名詞,可搬,糧食 clear-wine
+醒 醒 v,動詞,行為,動作 awake
+醜 醜 丑 v,動詞,行為,態度 ugly
+医 醫 医 n,名詞,人,役割 doctor
+醫 醫 医 n,名詞,人,役割 doctor
+酱 醬 酱 n,名詞,可搬,糧食 sauce
+醤 醬 酱 n,名詞,可搬,糧食 sauce
+醬 醬 酱 n,名詞,可搬,糧食 sauce
+醯 醯 n,名詞,可搬,糧食 vinegar
+醴 醴 n,名詞,可搬,糧食 sweet-wine
+釁 釁 衅 v,動詞,行為,動作 consecrate
+采 采 n,名詞,描写,形質 appanage
+采 采 v,動詞,行為,動作 gather
+采斉 采齊 采斉 n,名詞,制度,儀礼 [ancient-music]
+采齊 采齊 采斉 n,名詞,制度,儀礼 [ancient-music]
+釈 釋 释 v,動詞,行為,動作 analyze
+释 釋 释 v,動詞,行為,動作 analyze
+釋 釋 释 v,動詞,行為,動作 analyze
+里 里 n,名詞,固定物,地形 village
+里 里 n,名詞,度量衡,* [distance-unit]
+里 里 v,動詞,行為,設置 place
+重 重 v,動詞,描写,量 heavy
+重耳 重耳 n,名詞,人,名 [given-name]
+埜 野 n,名詞,固定物,地形 uncultivated-land
+野 野 n,名詞,固定物,地形 uncultivated-land
+𡐨 野 n,名詞,固定物,地形 uncultivated-land
+野 野 v,動詞,描写,態度 wild
+量 量 n,名詞,可搬,道具 measure
+量 量 v,動詞,行為,動作 measure
+金 金 n,名詞,可搬,道具 metal
+釜 釜 n,名詞,可搬,道具 cooking-pot
+釜 釜 n,名詞,度量衡,* [capacity-unit]
+釣 釣 钓 v,動詞,行為,動作 fish-with-hook-and-line
+钓 釣 钓 v,動詞,行為,動作 fish-with-hook-and-line
+鈇 鈇 𫓧 n,名詞,可搬,道具 axe
+𫓧 鈇 𫓧 n,名詞,可搬,道具 axe
+鈞 鈞 钧 n,名詞,度量衡,* [weight-unit]
+钧 鈞 钧 n,名詞,度量衡,* [weight-unit]
+鈞 鈞 钧 v,動詞,描写,形質 equal
+钧 鈞 钧 v,動詞,描写,形質 equal
+鉅 鉅 钜 v,動詞,描写,量 huge
+钜 鉅 钜 v,動詞,描写,量 huge
+鉞 鉞 钺 n,名詞,可搬,道具 battle-axe
+钺 鉞 钺 n,名詞,可搬,道具 battle-axe
+鉤 鉤 钩 n,名詞,可搬,道具 hook
+钩 鉤 钩 n,名詞,可搬,道具 hook
+銀 銀 银 n,名詞,可搬,道具 silver
+银 銀 银 n,名詞,可搬,道具 silver
+銅 銅 铜 n,名詞,可搬,道具 copper
+铜 銅 铜 n,名詞,可搬,道具 copper
+銘 銘 铭 n,名詞,可搬,伝達 inscription
+铭 銘 铭 n,名詞,可搬,伝達 inscription
+銘 銘 铭 v,動詞,行為,動作 engrave
+铭 銘 铭 v,動詞,行為,動作 engrave
+銳 銳 锐 v,動詞,描写,形質 sharp
+鋭 銳 锐 v,動詞,描写,形質 sharp
+锐 銳 锐 v,動詞,描写,形質 sharp
+鋪 鋪 铺 v,動詞,行為,動作 spread-out
+铺 鋪 铺 v,動詞,行為,動作 spread-out
+錠 錠 锭 n,名詞,可搬,道具 tablet
+锭 錠 锭 n,名詞,可搬,道具 tablet
+錡 錡 锜 n,名詞,人,名 [given-name]
+锜 錡 锜 n,名詞,人,名 [given-name]
+銭 錢 钱 n,名詞,可搬,道具 coin
+錢 錢 钱 n,名詞,可搬,道具 coin
+钱 錢 钱 n,名詞,可搬,道具 coin
+钱唐 錢唐 钱唐 n,名詞,固定物,地名 [place-name]
+銭唐 錢唐 钱唐 n,名詞,固定物,地名 [place-name] 
+錢唐 錢唐 钱唐 n,名詞,固定物,地名 [place-name] 
+錦 錦 锦 n,名詞,可搬,道具 brocade
+锦 錦 锦 n,名詞,可搬,道具 brocade
+錫 錫 锡 v,動詞,行為,得失 give
+锡 錫 锡 v,動詞,行為,得失 give
+錯 錯 错 v,動詞,描写,形質 mixed
+错 錯 错 v,動詞,描写,形質 mixed
+錯 錯 错 v,動詞,行為,設置 place
+错 錯 错 v,動詞,行為,設置 place
+錬 鍊 炼 v,動詞,行為,動作 smelt
+鍊 鍊 炼 v,動詞,行為,動作 smelt
+鍤 鍤 锸 n,名詞,可搬,道具 spade
+锸 鍤 锸 n,名詞,可搬,道具 spade
+鍾 鍾 锺 n,名詞,可搬,道具 wine-cup
+鎡 鎡 镃 n,名詞,可搬,道具 mattock
+镃 鎡 镃 n,名詞,可搬,道具 mattock
+鎭 鎭 镇 v,動詞,行為,設置 control
+鎮 鎭 镇 v,動詞,行為,設置 control
+镇 鎭 镇 v,動詞,行為,設置 control
+鎰 鎰 镒 n,名詞,度量衡,* [weight-unit]
+镒 鎰 镒 n,名詞,度量衡,* [weight-unit]
+鏗 鏗 铿 v,動詞,行為,動作 clink-metal
+铿 鏗 铿 v,動詞,行為,動作 clink-metal
+鏡 鏡 镜 n,名詞,可搬,道具 mirror
+镜 鏡 镜 n,名詞,可搬,道具 mirror
+鏤 鏤 镂 v,動詞,行為,動作 engrave
+镂 鏤 镂 v,動詞,行為,動作 engrave
+鐓 鐓 镦 n,名詞,可搬,道具 metal-cap-of-weapon
+镦 鐓 镦 n,名詞,可搬,道具 metal-cap-of-weapon
+鐘 鐘 钟 n,名詞,可搬,道具 bell
+鉄 鐵 铁 n,名詞,可搬,道具 iron
+鐵 鐵 铁 n,名詞,可搬,道具 iron
+铁 鐵 铁 n,名詞,可搬,道具 iron
+鐸 鐸 铎 n,名詞,可搬,道具 [kind-of-bell]
+铎 鐸 铎 n,名詞,可搬,道具 [kind-of-bell]
+鋳 鑄 铸 v,動詞,行為,生産 cast-metals
+鑄 鑄 铸 v,動詞,行為,生産 cast-metals
+铸 鑄 铸 v,動詞,行為,生産 cast-metals
+鉴 鑒 鉴 n,名詞,可搬,道具 mirror
+鑑 鑒 鉴 n,名詞,可搬,道具 mirror
+鑒 鑒 鉴 n,名詞,可搬,道具 mirror
+鑠 鑠 铄 v,動詞,行為,動作 melt
+铄 鑠 铄 v,動詞,行為,動作 melt
+鑽 鑽 钻 v,動詞,行為,動作 pierce
+钻 鑽 钻 v,動詞,行為,動作 pierce
+凿 鑿 凿 v,動詞,行為,動作 chisel
+鑿 鑿 凿 v,動詞,行為,動作 chisel
+長 長 长 n,名詞,人,関係 elder
+长 長 长 n,名詞,人,関係 elder
+長 長 长 v,動詞,変化,生物 long-last
+长 長 长 v,動詞,変化,生物 long-last
+長 長 长 v,動詞,描写,量 long
+长 長 长 v,動詞,描写,量 long
+長 長 长 v,動詞,行為,役割 chief
+长 長 长 v,動詞,行為,役割 chief
+長息 長息 长息 n,名詞,人,名 [given-name]
+长息 長息 长息 n,名詞,人,名 [given-name]
+長沮 長沮 长沮 n,名詞,人,名 [given-name]
+长沮 長沮 长沮 n,名詞,人,名 [given-name]
+門 門 门 n,名詞,主体,集団 sect
+门 門 门 n,名詞,主体,集団 sect
+門 門 门 n,名詞,固定物,建造物 gate
+门 門 门 n,名詞,固定物,建造物 gate
+閉 閉 闭 v,動詞,行為,動作 shut
+闭 閉 闭 v,動詞,行為,動作 shut
+开 開 开 v,動詞,行為,動作 open
+開 開 开 v,動詞,行為,動作 open
+閑 閑 闲 n,名詞,固定物,建造物 bar
+闲 閑 闲 n,名詞,固定物,建造物 bar
+閑 閑 闲 v,動詞,行為,動作 obstruct
+闲 閑 闲 v,動詞,行為,動作 obstruct
+閒 間 间 n,名詞,固定物,関係 between
+間 間 间 n,名詞,固定物,関係 between
+间 間 间 n,名詞,固定物,関係 between
+閒 間 间 v,動詞,行為,態度 idle
+間 間 间 v,動詞,行為,態度 idle
+间 間 间 v,動詞,行為,態度 idle
+間 間 间 v,動詞,行為,設置 intervene
+间 間 间 v,動詞,行為,設置 intervene
+閔 閔 闵 n,名詞,人,姓氏 [surname]
+闵 閔 闵 n,名詞,人,姓氏 [surname]
+閔 閔 闵 v,動詞,行為,態度 pity
+闵 閔 闵 v,動詞,行為,態度 pity
+閔子 閔子 闵子 n,名詞,人,複合的人名 Minzi
+闵子 閔子 闵子 n,名詞,人,複合的人名 Minzi
+閨 閨 闺 n,名詞,固定物,建造物 small-gate-inside-a-palace
+闺 閨 闺 n,名詞,固定物,建造物 small-gate-inside-a-palace
+閱 閱 阅 v,動詞,行為,動作 review
+閲 閱 阅 v,動詞,行為,動作 review
+阅 閱 阅 v,動詞,行為,動作 review
+閹 閹 阉 n,名詞,人,人 eunuch
+阉 閹 阉 n,名詞,人,人 eunuch
+閾 閾 阈 n,名詞,固定物,建造物 threshold
+阈 閾 阈 n,名詞,固定物,建造物 threshold
+闇 闇 暗 v,動詞,描写,形質 dark
+闋 闋 阕 v,動詞,行為,動作 terminate
+阕 闋 阕 v,動詞,行為,動作 terminate
+闔廬 闔廬 阖庐 n,名詞,人,名 [given-name]
+阖庐 闔廬 阖庐 n,名詞,人,名 [given-name]
+闕 闕 阙 n,名詞,固定物,地名 [place-name]
+阙 闕 阙 n,名詞,固定物,地名 [place-name]
+闕 闕 阙 v,動詞,行為,動作 fault
+阙 闕 阙 v,動詞,行為,動作 fault
+闚 闚 窥 v,動詞,行為,動作 spy
+关 關 关 n,名詞,固定物,建造物 bar
+関 關 关 n,名詞,固定物,建造物 bar
+關 關 关 n,名詞,固定物,建造物 bar
+关 關 关 v,動詞,行為,動作 caw
+関 關 关 v,動詞,行為,動作 caw
+關 關 关 v,動詞,行為,動作 caw
+关 關 关 v,動詞,行為,態度 concern
+関 關 关 v,動詞,行為,態度 concern
+關 關 关 v,動詞,行為,態度 concern
+关雎 關雎 关雎 n,名詞,主体,書物 [poetry-name]
+関雎 關雎 关雎 n,名詞,主体,書物 [poetry-name]
+關雎 關雎 关雎 n,名詞,主体,書物 [poetry-name]
+闡 闡 阐 n,名詞,人,名 [given-name]
+阐 闡 阐 n,名詞,人,名 [given-name]
+闡 闡 阐 v,動詞,行為,動作 open
+阐 闡 阐 v,動詞,行為,動作 open
+闢 闢 辟 v,動詞,行為,設置 open-up
+阜 阜 n,名詞,固定物,地形 mound
+阨 阨 厄 v,動詞,描写,境遇 impassable
+阪泉 阪泉 n,名詞,固定物,地名 [place-name]
+阱 阱 n,名詞,固定物,建造物 pit
+防 防 n,名詞,固定物,地名 [place-name]
+防 防 n,名詞,固定物,建造物 dike
+防 防 v,動詞,行為,動作 protect-against
+阻 阻 v,動詞,行為,動作 impede
+阼 阼 n,名詞,固定物,建造物 eastside-staircase
+阿 阿 v,動詞,行為,態度 insinuate
+附 附 v,動詞,行為,設置 attach
+陋 陋 v,動詞,描写,量 low
+降 降 v,動詞,行為,移動 go-down
+限 限 v,動詞,行為,動作 limit
+陛 陛 n,名詞,固定物,建造物 steps-up-to-throne
+陞 陞 升 v,動詞,行為,動作 rise
+阵 陣 阵 n,名詞,行為,* battle-array
+陣 陣 阵 n,名詞,行為,* battle-array
+除 除 v,動詞,行為,動作 eliminate
+陪 陪 v,動詞,行為,交流 accompany
+陬 陬 n,名詞,固定物,関係 corner
+阴 陰 阴 n,名詞,固定物,関係 shade
+陰 陰 阴 n,名詞,固定物,関係 shade
+阴 陰 阴 v,動詞,描写,形質 shade
+陰 陰 阴 v,動詞,描写,形質 shade
+阴康 陰康 阴康 n,名詞,人,名 [given-name]
+陰康 陰康 阴康 n,名詞,人,名 [given-name]
+陈 陳 陈 n,名詞,主体,国名 [country-name]
+陳 陳 陈 n,名詞,主体,国名 [country-name]
+陈 陳 陈 n,名詞,行為,* battle-array
+陳 陳 陈 n,名詞,行為,* battle-array
+陈 陳 陈 v,動詞,行為,伝達 arrange
+陳 陳 陈 v,動詞,行為,伝達 arrange
+陈子 陳子 陈子 n,名詞,人,複合的人名 Chenzi
+陳子 陳子 陈子 n,名詞,人,複合的人名 Chenzi
+陵 陵 n,名詞,固定物,地形 mound
+陵 陵 v,動詞,行為,交流 encroach
+陵 陵 v,動詞,行為,態度 injure
+陶 陶 n,名詞,可搬,道具 pottery
+陶 陶 v,動詞,行為,動作 cultivate
+䧟 陷 v,動詞,行為,動作 fall-into
+陥 陷 v,動詞,行為,動作 fall-into
+陷 陷 v,動詞,行為,動作 fall-into
+陆 陸 陆 n,名詞,固定物,地形 high-plateau
+陸 陸 陆 n,名詞,固定物,地形 high-plateau
+阳 陽 阳 n,名詞,天象,気象 sunny-side
+陽 陽 阳 n,名詞,天象,気象 sunny-side
+阳城 陽城 阳城 n,名詞,固定物,地名 [place-name]
+陽城 陽城 阳城 n,名詞,固定物,地名 [place-name]
+隅 隅 n,名詞,固定物,関係 corner
+隆 隆 v,動詞,変化,性質 eminent
+隆 隆 v,動詞,変化,性質 eminent
+队 隊 队 v,動詞,行為,動作 fall
+隊 隊 队 v,動詞,行為,動作 fall
+阶 階 阶 n,名詞,可搬,道具 step
+階 階 阶 n,名詞,可搬,道具 step
+阶 階 阶 v,動詞,行為,動作 step
+階 階 阶 v,動詞,行為,動作 step
+隔 隔 v,動詞,行為,動作 separate
+陨 隕 陨 v,動詞,描写,態度 collapse
+隕 隕 陨 v,動詞,描写,態度 collapse
+隘 隘 v,動詞,描写,形質 narrow
+隙 隙 n,名詞,固定物,関係 space-between
+际 際 际 n,名詞,固定物,関係 connection
+際 際 际 n,名詞,固定物,関係 connection
+隧 隧 v,動詞,行為,生産 channel
+随 隨 随 v,動詞,行為,動作 follow
+隨 隨 随 v,動詞,行為,動作 follow
+险 險 险 v,動詞,描写,形質 dangerous
+險 險 险 v,動詞,描写,形質 dangerous
+隐 隱 隐 v,動詞,行為,動作 lean-on
+隠 隱 隐 v,動詞,行為,動作 lean-on
+隱 隱 隐 v,動詞,行為,動作 lean-on
+隶 隸 隶 v,動詞,行為,設置 attached-to
+隷 隸 隶 v,動詞,行為,設置 attached-to
+隸 隸 隶 v,動詞,行為,設置 attached-to
+隶首 隸首 隶首 n,名詞,人,名 [given-name]
+隷首 隸首 隶首 n,名詞,人,名 [given-name]
+隸首 隸首 隶首 n,名詞,人,名 [given-name]
+雀 雀 n,名詞,主体,動物 sparrow
+鴈 雁 n,名詞,主体,動物 wild-goose
+雄 雄 n,名詞,主体,動物 male
+雄 雄 v,動詞,描写,態度 powerful
+雅 雅 n,名詞,制度,儀礼 [ancient-music]
+雅 雅 v,動詞,描写,形質 decorous
+集 集 v,動詞,行為,動作 gather
+雉 雉 n,名詞,主体,動物 pheasant
+雌 雌 n,名詞,主体,動物 female
+雍 雍 n,名詞,主体,国名 [country-name]
+雍 雍 n,名詞,主体,書物 [book-name]
+雎 雎 n,名詞,主体,動物 osprey
+雕 雕 v,動詞,行為,動作 carve
+虽 雖 虽 v,副詞,判断,逆接 although
+雖 雖 虽 v,副詞,判断,逆接 although
+双 雙 双 n,名詞,度量衡,* pair
+雙 雙 双 n,名詞,度量衡,* pair
+雏 雛 雏 n,名詞,主体,動物 chick
+雛 雛 雏 n,名詞,主体,動物 chick
+杂 雜 杂 v,動詞,描写,形質 mixed
+雑 雜 杂 v,動詞,描写,形質 mixed
+雜 雜 杂 v,動詞,描写,形質 mixed
+雞 雞 鸡 n,名詞,主体,動物 chicken
+鶏 雞 鸡 n,名詞,主体,動物 chicken
+鷄 雞 鸡 n,名詞,主体,動物 chicken
+鸡 雞 鸡 n,名詞,主体,動物 chicken
+离 離 离 v,動詞,行為,移動 leave
+離 離 离 v,動詞,行為,移動 leave
+离娄 離婁 离娄 n,名詞,人,複合的人名 Lilou
+離婁 離婁 离娄 n,名詞,人,複合的人名 Lilou
+雨 雨 n,名詞,天象,気象 rain
+雨 雨 v,動詞,描写,形質 rain
+雩 雩 n,名詞,制度,儀礼 sacrifice-praying-for-rain
+雪 雪 n,名詞,天象,気象 snow
+雲 雲 云 n,名詞,天象,気象 cloud
+云汉 雲漢 云汉 n,名詞,主体,書物 [book-name]
+雲漢 雲漢 云汉 n,名詞,主体,書物 [book-name]
+雷 雷 n,名詞,天象,気象 thunder
+靁 雷 n,名詞,天象,気象 thunder
+电 電 电 n,名詞,天象,気象 lightning
+電 電 电 n,名詞,天象,気象 lightning
+霄 霄 n,名詞,人,名 [given-name]
+霆 霆 n,名詞,天象,気象 clap-of-thunder
+震 震 v,動詞,行為,動作 shake
+霓 霓 n,名詞,天象,気象 rainbow
+霜 霜 n,名詞,天象,気象 frost
+霞 霞 n,名詞,天象,気象 rosy-clouds
+霤 霤 n,名詞,固定物,建造物 impluvium
+雾 霧 雾 n,名詞,天象,気象 fog
+霧 霧 雾 n,名詞,天象,気象 fog
+露 露 n,名詞,天象,気象 dew
+露 露 v,動詞,描写,境遇 expose
+覇 霸 n,名詞,人,役割 dominater
+霸 霸 n,名詞,人,役割 dominater
+覇 霸 n,名詞,行為,* hegemon
+霸 霸 n,名詞,行為,* hegemon
+覇 霸 v,動詞,行為,役割 dominate
+霸 霸 v,動詞,行為,役割 dominate
+灵 靈 灵 n,名詞,人,その他の人名 Ling
+霊 靈 灵 n,名詞,人,その他の人名 Ling
+靈 靈 灵 n,名詞,人,その他の人名 Ling
+灵 靈 灵 n,名詞,人,名 [given-name]
+霊 靈 灵 n,名詞,人,名 [given-name]
+靈 靈 灵 n,名詞,人,名 [given-name]
+灵 靈 灵 v,動詞,描写,形質 numinous
+霊 靈 灵 v,動詞,描写,形質 numinous
+靈 靈 灵 v,動詞,描写,形質 numinous
+灵丘 靈丘 灵丘 n,名詞,固定物,地名 [place-name]
+霊丘 靈丘 灵丘 n,名詞,固定物,地名 [place-name]
+靈丘 靈丘 灵丘 n,名詞,固定物,地名 [place-name]
+灵通 靈通 灵通 n,名詞,固定物,地名 [place-name]
+霊通 靈通 灵通 n,名詞,固定物,地名 [place-name]
+靈通 靈通 灵通 n,名詞,固定物,地名 [place-name]
+靑 青 n,名詞,描写,形質 blue
+青 青 n,名詞,描写,形質 blue
+静 靜 静 v,動詞,描写,形質 quiet
+靜 靜 静 v,動詞,描写,形質 quiet
+非 非 n,名詞,描写,態度 wrong
+非 非 v,副詞,否定,体言否定 [negator-of-nouns]
+非 非 v,動詞,行為,交流 blame
+靡 靡 v,動詞,存在,存在 not-exist
+面 面 n,名詞,不可譲,身体 face
+面 面 v,動詞,行為,設置 face-to
+革 革 n,名詞,可搬,道具 leather
+靳 靳 n,名詞,可搬,道具 breast-strap-of-a-bridle
+靳 靳 v,動詞,描写,態度 stingy
+靳 靳 v,動詞,行為,動作 tighten
+鞠 鞠 n,名詞,可搬,道具 football
+鞭 鞭 n,名詞,可搬,道具 whip
+鞭 鞭 v,動詞,行為,動作 whip
+鞹 鞹 n,名詞,可搬,道具 leather
+韓 韓 韩 n,名詞,主体,国名 [country-name]
+韩 韓 韩 n,名詞,主体,国名 [country-name]
+韗 韗 n,名詞,人,役割 drum-maker
+韞 韞 韫 v,動詞,行為,設置 conceal
+韫 韞 韫 v,動詞,行為,設置 conceal
+音 音 n,名詞,可搬,伝達 sound
+韶 韶 n,名詞,制度,儀礼 [ancient-music]
+韵 韻 韵 n,名詞,可搬,伝達 rhyme
+韻 韻 韵 n,名詞,可搬,伝達 rhyme
+韵 韻 韵 v,動詞,行為,伝達 rhyme
+韻 韻 韵 v,動詞,行為,伝達 rhyme
+頂 頂 顶 n,名詞,不可譲,身体 crown-of-the-head
+顶 頂 顶 n,名詞,不可譲,身体 crown-of-the-head
+順 順 顺 v,動詞,行為,交流 follow
+顺 順 顺 v,動詞,行為,交流 follow
+須 須 须 n,名詞,不可譲,身体 beard
+须 須 须 n,名詞,不可譲,身体 beard
+須 須 须 n,名詞,人,名 [given-name]
+须 須 须 n,名詞,人,名 [given-name]
+須 須 须 v,助動詞,必要,* need
+须 須 须 v,助動詞,必要,* need
+須 須 须 v,動詞,行為,動作 wait-for
+须 須 须 v,動詞,行為,動作 wait-for
+須臾 須臾 须臾 n,名詞,時,* short-time
+须臾 須臾 须臾 n,名詞,時,* short-time
+頌 頌 颂 n,名詞,制度,儀礼 [ancient-music]
+颂 頌 颂 n,名詞,制度,儀礼 [ancient-music]
+頌 頌 颂 v,動詞,行為,態度 eulogize
+颂 頌 颂 v,動詞,行為,態度 eulogize
+頑 頑 顽 v,動詞,描写,態度 stubborn
+顽 頑 顽 v,動詞,描写,態度 stubborn
+頒 頒 颁 v,動詞,変化,性質 big-headed
+颁 頒 颁 v,動詞,変化,性質 big-headed
+頖 頖 n,名詞,主体,機関 academy
+𬱙 頖 n,名詞,主体,機関 academy
+頗 頗 颇 v,副詞,程度,極度 quite
+颇 頗 颇 v,副詞,程度,極度 quite
+領 領 领 n,名詞,固定物,地形 mountain-range
+领 領 领 n,名詞,固定物,地形 mountain-range
+領 領 领 v,動詞,行為,動作 comprehend
+领 領 领 v,動詞,行為,動作 comprehend
+頞 頞 n,名詞,不可譲,身体 ridge-of-the-nose
+头 頭 头 n,名詞,不可譲,身体 head
+頭 頭 头 n,名詞,不可譲,身体 head
+題 題 题 n,名詞,不可譲,身体 forehead
+题 題 题 n,名詞,不可譲,身体 forehead
+額 額 额 n,名詞,不可譲,身体 forehead
+额 額 额 n,名詞,不可譲,身体 forehead
+顏 顏 颜 n,名詞,不可譲,身体 face
+顔 顏 颜 n,名詞,不可譲,身体 face
+颜 顏 颜 n,名詞,不可譲,身体 face
+顏 顏 颜 n,名詞,人,姓氏 [surname]
+顔 顏 颜 n,名詞,人,姓氏 [surname]
+颜 顏 颜 n,名詞,人,姓氏 [surname]
+顏子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
+顔子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
+颜子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
+願 願 愿 v,動詞,行為,動作 wish-for
+顙 顙 颡 n,名詞,不可譲,身体 forehead
+颡 顙 颡 n,名詞,不可譲,身体 forehead
+顚 顚 颠 n,名詞,固定物,関係 top
+顛 顚 颠 n,名詞,固定物,関係 top
+颠 顚 颠 n,名詞,固定物,関係 top
+顚 顚 颠 v,動詞,行為,動作 tumble
+顛 顚 颠 v,動詞,行為,動作 tumble
+颠 顚 颠 v,動詞,行為,動作 tumble
+顣 顣 𫖹 v,動詞,行為,態度 frown
+𫖹 顣 𫖹 v,動詞,行為,態度 frown
+顧 顧 顾 v,動詞,行為,動作 look-back
+顾 顧 顾 v,動詞,行為,動作 look-back
+显 顯 显 n,名詞,人,その他の人名 Xian
+顕 顯 显 n,名詞,人,その他の人名 Xian
+顯 顯 显 n,名詞,人,その他の人名 Xian
+显 顯 显 v,動詞,行為,動作 exposed
+顕 顯 显 v,動詞,行為,動作 exposed
+顯 顯 显 v,動詞,行為,動作 exposed
+風 風 风 n,名詞,人,姓氏 [surname]
+风 風 风 n,名詞,人,姓氏 [surname]
+風 風 风 n,名詞,天象,気象 wind
+风 風 风 n,名詞,天象,気象 wind
+風 風 风 n,名詞,描写,態度 style
+风 風 风 n,名詞,描写,態度 style
+風 風 风 v,動詞,行為,動作 blow
+风 風 风 v,動詞,行為,動作 blow
+風后 風后 风后 n,名詞,人,名 [given-name]
+风后 風后 风后 n,名詞,人,名 [given-name]
+飛 飛 飞 v,動詞,行為,動作 fly
+飞 飛 飞 v,動詞,行為,動作 fly
+飛廉 飛廉 飞廉 n,名詞,人,名 [given-name]
+飞廉 飛廉 飞廉 n,名詞,人,名 [given-name]
+食 食 n,名詞,可搬,糧食 food
+食 食 n,名詞,天象,天文 eclipse
+食 食 v,動詞,行為,飲食 feed
+飢 飢 饥 v,動詞,描写,境遇 hungry
+饥 飢 饥 v,動詞,描写,境遇 hungry
+飦 飦 𫗞 n,名詞,可搬,糧食 gruel
+𫗞 飦 𫗞 n,名詞,可搬,糧食 gruel
+飧 飧 n,名詞,可搬,糧食 cooked-rice
+飪 飪 饪 v,動詞,描写,形質 fully-cooked
+饪 飪 饪 v,動詞,描写,形質 fully-cooked
+飭 飭 饬 v,動詞,行為,動作 make-solid
+饬 飭 饬 v,動詞,行為,動作 make-solid
+飯 飯 饭 n,名詞,人,役割 musical-officer-at-meal
+饭 飯 饭 n,名詞,人,役割 musical-officer-at-meal
+飯 飯 饭 n,名詞,人,役割 musical-officer-at-meal
+飯 飯 饭 n,名詞,可搬,糧食 meal
+饭 飯 饭 n,名詞,可搬,糧食 meal
+飯 飯 饭 n,名詞,可搬,糧食 meal
+飯 飯 饭 v,動詞,行為,飲食 eat
+饭 飯 饭 v,動詞,行為,飲食 eat
+飯 飯 饭 v,動詞,行為,飲食 eat
+飮 飲 饮 n,名詞,可搬,糧食 drink
+飲 飲 饮 n,名詞,可搬,糧食 drink
+饮 飲 饮 n,名詞,可搬,糧食 drink
+飮 飲 饮 v,動詞,行為,飲食 drink
+飲 飲 饮 v,動詞,行為,飲食 drink
+饮 飲 饮 v,動詞,行為,飲食 drink
+飽 飽 饱 v,動詞,行為,態度 satiate
+饱 飽 饱 v,動詞,行為,態度 satiate
+飾 飾 饰 v,動詞,行為,動作 decorate
+饰 飾 饰 v,動詞,行為,動作 decorate
+餂 餂 v,動詞,行為,得失 obtain-by-hook
+餉 餉 饷 v,動詞,行為,交流 deliver-food-to-labourers
+饷 餉 饷 v,動詞,行為,交流 deliver-food-to-labourers
+养 養 养 n,名詞,可搬,糧食 nutrient
+養 養 养 n,名詞,可搬,糧食 nutrient
+养 養 养 v,動詞,行為,動作 support
+養 養 养 v,動詞,行為,動作 support
+餐 餐 v,動詞,行為,飲食 eat
+餒 餒 馁 v,動詞,描写,境遇 hungry
+馁 餒 馁 v,動詞,描写,境遇 hungry
+餓 餓 饿 v,動詞,描写,境遇 hungry
+饿 餓 饿 v,動詞,描写,境遇 hungry
+餔 餔 𫗦 v,動詞,行為,飲食 feed
+𫗦 餔 𫗦 v,動詞,行為,飲食 feed
+餘 餘 余 n,名詞,数量,* surplus
+馀 餘 余 n,名詞,数量,* surplus
+館 館 馆 n,名詞,固定物,建造物 guest-house
+馆 館 馆 n,名詞,固定物,建造物 guest-house
+館 館 馆 n,名詞,固定物,建造物 guest-house
+館 館 馆 v,動詞,行為,動作 lodge
+馆 館 馆 v,動詞,行為,動作 lodge
+館 館 馆 v,動詞,行為,動作 lodge
+餱 餱 糇 n,名詞,可搬,糧食 dried-food
+餲 餲 v,動詞,描写,形質 food-gone-bad
+𮩝 餲 v,動詞,描写,形質 food-gone-bad
+餼 餼 饩 n,名詞,制度,儀礼 sacrificial-animal
+饩 餼 饩 n,名詞,制度,儀礼 sacrificial-animal
+餽 餽 馈 v,動詞,行為,交流 present-of-food
+饉 饉 馑 v,動詞,描写,境遇 famine
+馑 饉 馑 v,動詞,描写,境遇 famine
+饋 饋 馈 v,動詞,行為,交流 present-of-food
+馈 饋 馈 v,動詞,行為,交流 present-of-food
+饌 饌 馔 n,名詞,可搬,糧食 food
+馔 饌 馔 n,名詞,可搬,糧食 food
+饌 饌 馔 v,動詞,行為,動作 provide-food
+馔 饌 馔 v,動詞,行為,動作 provide-food
+饐 饐 v,動詞,描写,形質 food-spoiled
+𮩞 饐 v,動詞,描写,形質 food-spoiled
+饑 饑 饥 v,動詞,描写,境遇 famine
+饔 饔 n,名詞,可搬,糧食 cooked-grain
+飨 饗 飨 v,動詞,行為,交流 banquet
+饗 饗 飨 v,動詞,行為,交流 banquet
+饘 饘 𫗴 n,名詞,可搬,糧食 congee
+𫗴 饘 𫗴 n,名詞,可搬,糧食 congee
+餍 饜 餍 v,動詞,描写,態度 satisfy
+饜 饜 餍 v,動詞,描写,態度 satisfy
+首 首 n,名詞,不可譲,身体 head
+首 首 v,動詞,行為,姿勢 head
+首阳 首陽 首阳 n,名詞,固定物,地名 [place-name]
+首陽 首陽 首阳 n,名詞,固定物,地名 [place-name]
+香 香 n,名詞,描写,形質 fragrant
+香河 香河 n,名詞,固定物,地名 [place-name]
+馨 馨 n,名詞,描写,形質 strong-fragrance
+馨 馨 p,助詞,句末,* [final-particle]
+馬 馬 马 n,名詞,主体,動物 horse
+马 馬 马 n,名詞,主体,動物 horse
+馬 馬 马 n,名詞,人,姓氏 [surname]
+马 馬 马 n,名詞,人,姓氏 [surname]
+馭 馭 驭 v,動詞,行為,動作 drive-a-carriage
+驭 馭 驭 v,動詞,行為,動作 drive-a-carriage
+冯 馮 冯 n,名詞,人,姓氏 [surname]
+馮 馮 冯 n,名詞,人,姓氏 [surname]
+冯 馮 冯 v,動詞,行為,交流 encroach
+馮 馮 冯 v,動詞,行為,交流 encroach
+馳 馳 驰 v,動詞,行為,移動 gallop
+驰 馳 驰 v,動詞,行為,移動 gallop
+馴 馴 驯 v,動詞,行為,交流 tame
+驯 馴 驯 v,動詞,行為,交流 tame
+駕 駕 驾 n,名詞,可搬,乗り物 yoke
+驾 駕 驾 n,名詞,可搬,乗り物 yoke
+駕 駕 驾 v,動詞,行為,動作 yoke
+驾 駕 驾 v,動詞,行為,動作 yoke
+駟 駟 驷 n,名詞,主体,動物 team-of-four-horses
+驷 駟 驷 n,名詞,主体,動物 team-of-four-horses
+駢 駢 骈 n,名詞,固定物,地名 [place-name]
+骈 駢 骈 n,名詞,固定物,地名 [place-name]
+駭 駭 骇 v,動詞,描写,態度 shocked
+骇 駭 骇 v,動詞,描写,態度 shocked
+騁 騁 骋 v,動詞,行為,移動 gallop
+骋 騁 骋 v,動詞,行為,移動 gallop
+騂 騂 骍 n,名詞,主体,動物 red-coloured-horse
+骍 騂 骍 n,名詞,主体,動物 red-coloured-horse
+騃 騃 呆 v,動詞,描写,形質 ignorant
+騎 騎 骑 v,動詞,行為,動作 ride-astride
+骑 騎 骑 v,動詞,行為,動作 ride-astride
+騏 騏 骐 n,名詞,主体,動物 black-grey-mottled-horse
+骐 騏 骐 n,名詞,主体,動物 black-grey-mottled-horse
+腾 騰 腾 v,動詞,行為,移動 rise
+騰 騰 腾 v,動詞,行為,移動 rise
+騒 騷 骚 v,動詞,描写,態度 disturb
+騷 騷 骚 v,動詞,描写,態度 disturb
+骚 騷 骚 v,動詞,描写,態度 disturb
+駆 驅 驱 v,動詞,行為,移動 drive-forward
+驅 驅 驱 v,動詞,行為,移動 drive-forward
+驱 驅 驱 v,動詞,行為,移動 drive-forward
+驍 驍 骁 v,動詞,描写,態度 valiant
+骁 驍 骁 v,動詞,描写,態度 valiant
+驕 驕 骄 v,動詞,行為,態度 proud
+骄 驕 骄 v,動詞,行為,態度 proud
+験 驗 验 v,動詞,行為,動作 examine
+驗 驗 验 v,動詞,行為,動作 examine
+验 驗 验 v,動詞,行為,動作 examine
+驚 驚 惊 v,動詞,行為,態度 startle
+驟 驟 骤 v,動詞,行為,移動 gallop
+骤 驟 骤 v,動詞,行為,移動 gallop
+驥 驥 骥 n,名詞,主体,動物 superior-horse
+骥 驥 骥 n,名詞,主体,動物 superior-horse
+驩 驩 欢 n,名詞,人,名 [given-name]
+驩 驩 欢 v,動詞,描写,態度 rejoice
+欢兜 驩兜 欢兜 n,名詞,人,名 [given-name]
+驩兜 驩兜 欢兜 n,名詞,人,名 [given-name]
+驪連 驪連 骊连 n,名詞,人,名 [given-name]
+骊连 驪連 骊连 n,名詞,人,名 [given-name]
+骨 骨 n,名詞,不可譲,身体 bone
+骸 骸 n,名詞,不可譲,身体 skeleton
+体 體 体 n,名詞,不可譲,身体 body
+體 體 体 n,名詞,不可譲,身体 body
+体 體 体 v,動詞,行為,動作 style
+體 體 体 v,動詞,行為,動作 style
+高 高 n,名詞,人,その他の人名 Gao
+高 高 v,動詞,描写,量 high
+高叟 高叟 n,名詞,人,名 [given-name]
+高唐 高唐 n,名詞,固定物,地名 [place-name]
+高子 高子 n,名詞,人,複合的人名 Gaozi
+髡 髡 n,名詞,人,名 [given-name]
+髪 髮 发 n,名詞,不可譲,身体 hair-of-the-head
+髮 髮 发 n,名詞,不可譲,身体 hair-of-the-head
+髯 髯 n,名詞,不可譲,身体 facial-hair
+鬨 鬨 哄 v,動詞,行為,交流 wrangle
+闘 鬭 斗 v,動詞,行為,交流 fight
+鬭 鬭 斗 v,動詞,行為,交流 fight
+鬯 鬯 n,名詞,可搬,糧食 aromatic-spirits
+鬱 鬱 郁 v,動詞,描写,形質 thickly-wooded
+鬲 鬲 n,名詞,人,名 [given-name]
+鬻 鬻 v,動詞,行為,飲食 nourish
+鬼 鬼 n,名詞,天象,怪異 ghost
+魂 魂 n,名詞,不可譲,身体 spiritual-soul
+魄 魄 n,名詞,不可譲,身体 terrestrial-soul
+魋 魋 n,名詞,人,名 [given-name]
+魏 魏 n,名詞,主体,国名 [country-name]
+魚 魚 鱼 n,名詞,主体,動物 fish
+鱼 魚 鱼 n,名詞,主体,動物 fish
+魚 魚 鱼 n,名詞,人,名 [given-name]
+鱼 魚 鱼 n,名詞,人,名 [given-name]
+魯 魯 鲁 n,名詞,主体,国名 [country-name]
+鲁 魯 鲁 n,名詞,主体,国名 [country-name]
+魯 魯 鲁 v,動詞,描写,形質 blunt
+鲁 魯 鲁 v,動詞,描写,形質 blunt
+魯頌 魯頌 鲁颂 n,名詞,主体,書物 [book-name]
+鲁颂 魯頌 鲁颂 n,名詞,主体,書物 [book-name]
+魴 魴 鲂 n,名詞,主体,動物 triangular-bream
+鲂 魴 鲂 n,名詞,主体,動物 triangular-bream
+鮀 鮀 𬶍 n,名詞,人,名 [given-name]
+𬶍 鮀 𬶍 n,名詞,人,名 [given-name]
+鮐 鮐 鲐 n,名詞,主体,動物 chub-mackerel
+鲐 鮐 鲐 n,名詞,主体,動物 chub-mackerel
+鮮 鮮 鲜 v,動詞,描写,形質 fresh
+鲜 鮮 鲜 v,動詞,描写,形質 fresh
+鮮 鮮 鲜 v,動詞,描写,量 rare
+鲜 鮮 鲜 v,動詞,描写,量 rare
+鯀 鯀 鲧 n,名詞,人,名 [given-name]
+鲧 鯀 鲧 n,名詞,人,名 [given-name]
+鯉 鯉 鲤 n,名詞,人,名 [given-name]
+鲤 鯉 鲤 n,名詞,人,名 [given-name]
+鰍 鰍 鳅 n,名詞,主体,動物 loach
+鳅 鰍 鳅 n,名詞,主体,動物 loach
+鰥 鰥 鳏 n,名詞,主体,動物 [large-fish]
+鱞 鰥 鳏 n,名詞,主体,動物 [large-fish]
+鳏 鰥 鳏 n,名詞,主体,動物 [large-fish]
+鰥 鰥 鳏 v,動詞,描写,境遇 wifeless
+鱞 鰥 鳏 v,動詞,描写,境遇 wifeless
+鳏 鰥 鳏 v,動詞,描写,境遇 wifeless
+鰲 鰲 鳌 n,名詞,主体,動物 huge-turtle
+鳌 鰲 鳌 n,名詞,主体,動物 huge-turtle
+鼇 鰲 鳌 n,名詞,主体,動物 huge-turtle
+鱉 鱉 鳖 n,名詞,主体,動物 soft-shelled-turtle
+鳖 鱉 鳖 n,名詞,主体,動物 soft-shelled-turtle
+鼈 鱉 鳖 n,名詞,主体,動物 soft-shelled-turtle
+鱮 鱮 𫚈 n,名詞,主体,動物 silver-carp
+𫚈 鱮 𫚈 n,名詞,主体,動物 silver-carp
+鳥 鳥 鸟 n,名詞,主体,動物 bird
+鸟 鳥 鸟 n,名詞,主体,動物 bird
+凤 鳳 凤 n,名詞,主体,動物 phoenix
+鳳 鳳 凤 n,名詞,主体,動物 phoenix
+鳴 鳴 鸣 v,動詞,行為,動作 ring
+鸣 鳴 鸣 v,動詞,行為,動作 ring
+鳴条 鳴條 鸣条 n,名詞,固定物,地名 [place-name]
+鳴條 鳴條 鸣条 n,名詞,固定物,地名 [place-name]
+鸣条 鳴條 鸣条 n,名詞,固定物,地名 [place-name]
+鸣條 鳴條 鸣条 n,名詞,固定物,地名 [place-name]
+鳶 鳶 鸢 n,名詞,主体,動物 Milvus-korschun-lineatus
+鸢 鳶 鸢 n,名詞,主体,動物 Milvus-korschun-lineatus
+鴂 鴂 𫛞 n,名詞,主体,動物 shrike
+鴃 鴃 𫛞 n,名詞,主体,動物 shrike
+𫛞 鴃 𫛞 n,名詞,主体,動物 shrike
+鴟 鴟 鸱 n,名詞,主体,動物 sparrowhawk
+鸱 鴟 鸱 n,名詞,主体,動物 sparrowhawk
+鴻 鴻 鸿 n,名詞,主体,動物 swan-goose
+鸿 鴻 鸿 n,名詞,主体,動物 swan-goose
+鵜 鵜 鹈 n,名詞,主体,動物 pelican
+鹈 鵜 鹈 n,名詞,主体,動物 pelican
+鵝 鵝 鹅 n,名詞,主体,動物 domestic-goose
+鹅 鵝 鹅 n,名詞,主体,動物 domestic-goose
+鵠 鵠 鹄 n,名詞,主体,動物 Cygnus-bewicki
+鹄 鵠 鹄 n,名詞,主体,動物 Cygnus-bewicki
+鵡 鵡 鹉 n,名詞,主体,動物 parrot
+鹉 鵡 鹉 n,名詞,主体,動物 parrot
+鶂 鶂 n,名詞,主体,動物 hawk
+鶴 鶴 鹤 n,名詞,主体,動物 crane
+鹤 鶴 鹤 n,名詞,主体,動物 crane
+鶴 鶴 鹤 v,動詞,描写,形質 white-as-crane
+鹤 鶴 鹤 v,動詞,描写,形質 white-as-crane
+鶻 鶻 鹘 n,名詞,主体,動物 pigeon
+鹘 鶻 鹘 n,名詞,主体,動物 pigeon
+鷖 鷖 鹥 n,名詞,主体,動物 gull
+鹥 鷖 鹥 n,名詞,主体,動物 gull
+鷙 鷙 鸷 n,名詞,主体,動物 bird-of-prey
+鸷 鷙 鸷 n,名詞,主体,動物 bird-of-prey
+鷩 鷩 𫜁 n,名詞,主体,動物 golden-pheasant
+𫜁 鷩 𫜁 n,名詞,主体,動物 golden-pheasant
+鸇 鸇 鹯 n,名詞,主体,動物 falcon
+鹯 鸇 鹯 n,名詞,主体,動物 falcon
+鸚 鸚 鹦 n,名詞,主体,動物 parrot
+鹦 鸚 鹦 n,名詞,主体,動物 parrot
+鸞 鸞 鸾 n,名詞,主体,動物 fabulous-bird
+鸾 鸞 鸾 n,名詞,主体,動物 fabulous-bird
+鸞 鸞 鸾 n,名詞,可搬,乗り物 vehicle-with-bell
+鸾 鸞 鸾 n,名詞,可搬,乗り物 vehicle-with-bell
+塩 鹽 盐 n,名詞,可搬,糧食 salt
+盐 鹽 盐 n,名詞,可搬,糧食 salt
+鹽 鹽 盐 n,名詞,可搬,糧食 salt
+鹿 鹿 n,名詞,主体,動物 deer
+麀 麀 n,名詞,主体,動物 doe
+麋 麋 n,名詞,主体,動物 elaphure
+麑 麑 n,名詞,主体,動物 fawn
+麒 麒 n,名詞,主体,動物 [fabulous-animal]
+丽 麗 丽 v,動詞,行為,動作 encounter
+麗 麗 丽 v,動詞,行為,動作 encounter
+麟 麟 n,名詞,主体,動物 [fabulous-animal]
+麥 麥 麦 n,名詞,固定物,樹木 wheat
+麦 麥 麦 n,名詞,固定物,樹木 wheat
+麰 麰 n,名詞,固定物,樹木 barley
+麴 麴 麹 n,名詞,人,姓氏 [surname]
+麹 麴 麹 n,名詞,人,姓氏 [surname]
+麴 麴 麹 n,名詞,可搬,糧食 leaven
+麹 麴 麹 n,名詞,可搬,糧食 leaven
+麪 麵 面 n,名詞,可搬,糧食 noodle
+麵 麵 面 n,名詞,可搬,糧食 noodle
+麺 麵 面 n,名詞,可搬,糧食 noodle
+麻 麻 n,名詞,可搬,道具 hemp
+黃 黃 黄 n,名詞,人,その他の人名 Huan
+黄 黃 黄 n,名詞,人,その他の人名 Huan
+黃 黃 黄 n,名詞,固定物,地名 [place-name]
+黄 黃 黄 n,名詞,固定物,地名 [place-name]
+黃 黃 黄 n,名詞,描写,形質 yellow
+黄 黃 黄 n,名詞,描写,形質 yellow
+黍 黍 n,名詞,可搬,糧食 broomcorn-millet
+黎 黎 v,動詞,描写,量 numerous
+黑 黑 v,動詞,描写,形質 black
+黒 黑 v,動詞,描写,形質 black
+默 默 v,動詞,行為,態度 silent
+黙 默 v,動詞,行為,態度 silent
+黜 黜 v,動詞,行為,動作 expel
+黝 黝 n,名詞,人,名 [given-name]
+点 點 点 n,名詞,人,名 [given-name]
+點 點 点 n,名詞,人,名 [given-name]
+点 點 点 n,名詞,可搬,成果物 dot
+點 點 点 n,名詞,可搬,成果物 dot
+黨 黨 党 n,名詞,主体,集団 party
+黨 黨 党 v,副詞,頻度,偶発 accidentally
+黨 黨 党 v,動詞,行為,動作 clique
+黻 黻 n,名詞,可搬,道具 ornamental-embroidery
+黼 黼 v,動詞,描写,形質 embroidered-with-axe-figures
+黿 黿 鼋 n,名詞,主体,動物 soft-shelled-turtle
+鼋 黿 鼋 n,名詞,主体,動物 soft-shelled-turtle
+鼂 鼂 鼌 n,名詞,主体,動物 marine-turtle
+鼌 鼂 鼌 n,名詞,主体,動物 marine-turtle
+鼃 鼃 蛙 n,名詞,主体,動物 water-frog
+鼉 鼉 鼍 n,名詞,主体,動物 alligator
+鼍 鼉 鼍 n,名詞,主体,動物 alligator
+鼎 鼎 n,名詞,可搬,道具 three-footed-cauldron
+鼎湖 鼎湖 n,名詞,固定物,地名 [place-name]
+鼓 鼓 n,名詞,可搬,道具 drum
+鼓 鼓 v,動詞,行為,動作 drum
+鼗 鼗 n,名詞,可搬,道具 revolving-drum
+鼠 鼠 n,名詞,主体,動物 rat
+鼻 鼻 n,名詞,不可譲,身体 nose
+斉 齊 齐 n,名詞,主体,国名 [country-name]
+齊 齊 齐 n,名詞,主体,国名 [country-name]
+齐 齊 齐 n,名詞,主体,国名 [country-name]
+斉 齊 齐 n,名詞,可搬,道具 hem-of-garment
+齊 齊 齐 n,名詞,可搬,道具 hem-of-garment
+齐 齊 齐 n,名詞,可搬,道具 hem-of-garment
+斉 齊 齐 v,動詞,行為,儀礼 purify-oneself
+齊 齊 齐 v,動詞,行為,儀礼 purify-oneself
+齐 齊 齐 v,動詞,行為,儀礼 purify-oneself
+斉 齊 齐 v,動詞,行為,動作 arrange
+齊 齊 齐 v,動詞,行為,動作 arrange
+齐 齊 齐 v,動詞,行為,動作 arrange
+斋 齋 斋 n,名詞,制度,儀礼 vegetarian-diet
+斎 齋 斋 n,名詞,制度,儀礼 vegetarian-diet
+齋 齋 斋 n,名詞,制度,儀礼 vegetarian-diet
+斋 齋 斋 v,動詞,行為,儀礼 purify-oneself
+斎 齋 斋 v,動詞,行為,儀礼 purify-oneself
+齋 齋 斋 v,動詞,行為,儀礼 purify-oneself
+歯 齒 齿 n,名詞,不可譲,身体 tooth
+齒 齒 齿 n,名詞,不可譲,身体 tooth
+齿 齒 齿 n,名詞,不可譲,身体 tooth
+歯 齒 齿 n,名詞,時,* year
+齒 齒 齿 n,名詞,時,* year
+齿 齒 齿 n,名詞,時,* year
+竜 龍 龙 n,名詞,主体,動物 dragon
+龍 龍 龙 n,名詞,主体,動物 dragon
+龙 龍 龙 n,名詞,主体,動物 dragon
+竜子 龍子 龙子 n,名詞,人,複合的人名 Longzi
+龍子 龍子 龙子 n,名詞,人,複合的人名 Longzi
+龙子 龍子 龙子 n,名詞,人,複合的人名 Longzi
+䶮 龑 䶮 n,名詞,人,名 [given-name]
+龑 龑 䶮 n,名詞,人,名 [given-name]
+亀 龜 龟 n,名詞,主体,動物 tortoise
+龜 龜 龟 n,名詞,主体,動物 tortoise
+龟 龜 龟 n,名詞,主体,動物 tortoise
+虏 虜 虏 v,動詞,行為,交流 capture
+虜 虜 虏 v,動詞,行為,交流 capture
+虜 虜 虏 v,動詞,行為,交流 capture
+杀 殺 杀 n,名詞,数量,* difference
+殺 殺 杀 n,名詞,数量,* difference
+殺 殺 杀 n,名詞,数量,* difference
+杀 殺 杀 v,動詞,行為,動作 kill
+殺 殺 杀 v,動詞,行為,動作 kill
+殺 殺 杀 v,動詞,行為,動作 kill
+类 類 类 n,名詞,描写,形質 category
+類 類 类 n,名詞,描写,形質 category
+益 益 益 n,名詞,人,名 [given-name]
+益 益 益 n,名詞,人,名 [given-name]
+益 益 益 n,名詞,固定物,地名 [place-name]
+益 益 益 n,名詞,固定物,地名 [place-name]
+益 益 益 v,動詞,行為,得失 increase
+益 益 益 v,動詞,行為,得失 increase
+神 神 神 n,名詞,人,役割 god
+神 神 神 n,名詞,人,役割 god
+神农 神農 神农 n,名詞,人,その他の人名 Shennong
+神農 神農 神农 n,名詞,人,その他の人名 Shennong
+神农 神農 神农 n,名詞,人,その他の人名 Shennong
+神農 神農 神农 n,名詞,人,その他の人名 Shennong
+祥 祥 祥 v,動詞,描写,形質 auspicious
+祥 祥 祥 v,動詞,描写,形質 auspicious
+福 福 福 n,名詞,可搬,成果物 blessings
+福 福 福 n,名詞,可搬,成果物 blessings
+諸 諸 诸 n,代名詞,人称,他 this
+诸 諸 诸 n,代名詞,人称,他 this
+諸 諸 诸 n,代名詞,人称,他 this
+諸 諸 诸 n,名詞,数量,* [plural]
+诸 諸 诸 n,名詞,数量,* [plural]
+諸 諸 诸 n,名詞,数量,* [plural]
+諸馮 諸馮 诸冯 n,名詞,固定物,地名 [place-name]
+诸冯 諸馮 诸冯 n,名詞,固定物,地名 [place-name]
+都 都 都 n,名詞,固定物,地名 [place-name]
+都 都 都 n,名詞,固定物,地名 [place-name]
+都 都 都 n,名詞,固定物,建造物 capital-city
+都 都 都 n,名詞,固定物,建造物 capital-city
+都 都 都 v,動詞,行為,設置 capitalize
+都 都 都 v,動詞,行為,設置 capitalize
+侮 侮 侮 v,動詞,行為,態度 insult
+侮 侮 侮 v,動詞,行為,態度 insult
+僧 僧 僧 n,名詞,人,役割 monk
+僧 僧 僧 n,名詞,人,役割 monk
+免 免 免 n,名詞,可搬,道具 mourning-headdress
+免 免 免 n,名詞,可搬,道具 mourning-headdress
+免 免 免 v,動詞,行為,交流 avoid
+免 免 免 v,動詞,行為,交流 avoid
+免 免 免 v,動詞,行為,儀礼 mourn-with-headdress
+免 免 免 v,動詞,行為,儀礼 mourn-with-headdress
+勉 勉 勉 v,動詞,行為,動作 exert-oneself
+勉 勉 勉 v,動詞,行為,動作 exert-oneself
+勤 勤 勤 v,動詞,行為,動作 diligent
+勤 勤 勤 v,動詞,行為,動作 diligent
+卑 卑 卑 v,動詞,描写,境遇 humble
+卑 卑 卑 v,動詞,描写,境遇 humble
+叹 嘆 叹 v,動詞,行為,態度 sigh
+嘆 嘆 叹 v,動詞,行為,態度 sigh
+嘆 嘆 叹 v,動詞,行為,態度 sigh
+器 器 器 n,名詞,可搬,道具 vessel
+器 器 器 n,名詞,可搬,道具 vessel
+器 器 器 v,動詞,描写,態度 capable
+器 器 器 v,動詞,描写,態度 capable
+墨 墨 墨 n,名詞,人,姓氏 [surname]
+墨 墨 墨 n,名詞,人,姓氏 [surname]
+墨 墨 墨 n,名詞,可搬,道具 black-ink
+墨 墨 墨 n,名詞,可搬,道具 black-ink
+墨 墨 墨 n,名詞,描写,形質 black-inked
+墨 墨 墨 n,名詞,描写,形質 black-inked
+墨子 墨子 墨子 n,名詞,人,複合的人名 Mozi
+墨子 墨子 墨子 n,名詞,人,複合的人名 Mozi
+悔 悔 悔 v,動詞,行為,態度 regret
+悔 悔 悔 v,動詞,行為,態度 regret
+憎 憎 憎 v,動詞,行為,交流 hate
+憎 憎 憎 v,動詞,行為,交流 hate
+惩 懲 惩 v,動詞,行為,交流 warn
+懲 懲 惩 v,動詞,行為,交流 warn
+懲 懲 惩 v,動詞,行為,交流 warn
+敏 敏 敏 n,名詞,人,名 [given-name]
+敏 敏 敏 n,名詞,人,名 [given-name]
+敏 敏 敏 v,動詞,描写,態度 keen
+敏 敏 敏 v,動詞,描写,態度 keen
+梅 梅 梅 n,名詞,固定物,樹木 Japanese-apricot
+梅 梅 梅 n,名詞,固定物,樹木 Japanese-apricot
+海 海 海 n,名詞,固定物,地形 sea
+海 海 海 n,名詞,固定物,地形 sea
+汉 漢 汉 n,名詞,主体,国名 [country-name]
+漢 漢 汉 n,名詞,主体,国名 [country-name]
+漢 漢 汉 n,名詞,主体,国名 [country-name]
+汉 漢 汉 n,名詞,固定物,地名 [place-name]
+漢 漢 汉 n,名詞,固定物,地名 [place-name]
+漢 漢 汉 n,名詞,固定物,地名 [place-name]
+汉 漢 汉 n,名詞,天象,天文 Milky-Way
+漢 漢 汉 n,名詞,天象,天文 Milky-Way
+漢 漢 汉 n,名詞,天象,天文 Milky-Way
+社 社 社 n,名詞,人,役割 god-of-the-soil
+社 社 社 n,名詞,人,役割 god-of-the-soil
+祈 祈 祈 v,動詞,行為,動作 pray
+祈 祈 祈 v,動詞,行為,動作 pray
+祐 祐 祐 v,動詞,行為,態度 pardon
+祐 祐 祐 v,動詞,行為,態度 pardon
+祖 祖 祖 n,名詞,人,関係 ancestor
+祖 祖 祖 n,名詞,人,関係 ancestor
+祖 祖 祖 v,動詞,行為,設置 follow-ancestor
+祖 祖 祖 v,動詞,行為,設置 follow-ancestor
+祝 祝 祝 n,名詞,人,役割 invoker
+祝 祝 祝 n,名詞,人,役割 invoker
+祝 祝 祝 v,動詞,行為,態度 invoke
+祝 祝 祝 v,動詞,行為,態度 invoke
+祝融 祝融 祝融 n,名詞,人,名 [given-name]
+祝融 祝融 祝融 n,名詞,人,名 [given-name]
+祸 禍 祸 n,名詞,可搬,成果物 disaster
+禍 禍 祸 n,名詞,可搬,成果物 disaster
+禍 禍 祸 n,名詞,可搬,成果物 disaster
+祸 禍 祸 v,動詞,描写,形質 catastrophic
+禍 禍 祸 v,動詞,描写,形質 catastrophic
+禍 禍 祸 v,動詞,描写,形質 catastrophic
+祯 禎 祯 v,動詞,描写,形質 auspicious
+禎 禎 祯 v,動詞,描写,形質 auspicious
+禎 禎 祯 v,動詞,描写,形質 auspicious
+穀 穀 谷 n,名詞,人,名 [given-name]
+穀 穀 谷 n,名詞,人,名 [given-name]
+穀 穀 谷 n,名詞,可搬,糧食 grain
+穀 穀 谷 n,名詞,可搬,糧食 grain
+穀 穀 谷 v,動詞,行為,交流 receive-grain
+穀 穀 谷 v,動詞,行為,交流 receive-grain
+節 節 节 n,名詞,制度,儀礼 rank
+节 節 节 n,名詞,制度,儀礼 rank
+節 節 节 n,名詞,制度,儀礼 rank
+節 節 节 n,名詞,可搬,道具 joint-of-bamboo
+节 節 节 n,名詞,可搬,道具 joint-of-bamboo
+節 節 节 n,名詞,可搬,道具 joint-of-bamboo
+節 節 节 v,動詞,描写,態度 moderate
+节 節 节 v,動詞,描写,態度 moderate
+節 節 节 v,動詞,描写,態度 moderate
+繁 繁 繁 v,動詞,描写,形質 abundant
+繁 繁 繁 v,動詞,描写,形質 abundant
+者 者 者 p,助詞,提示,* that-which
+者 者 者 p,助詞,提示,* that-which
+臭 臭 臭 n,名詞,描写,形質 smell
+臭 臭 臭 n,名詞,描写,形質 smell
+臭 臭 臭 v,動詞,描写,形質 malodorous
+臭 臭 臭 v,動詞,描写,形質 malodorous
+着 著 著 v,動詞,描写,形質 appear
+著 著 著 v,動詞,描写,形質 appear
+著 著 著 v,動詞,描写,形質 appear
+褐 褐 褐 n,名詞,可搬,道具 coarse-clothing
+褐 褐 褐 n,名詞,可搬,道具 coarse-clothing
+視 視 视 v,動詞,行為,動作 look-at
+视 視 视 v,動詞,行為,動作 look-at
+視 視 视 v,動詞,行為,動作 look-at
+謁 謁 谒 v,動詞,行為,交流 visit-superior
+谒 謁 谒 v,動詞,行為,交流 visit-superior
+謁 謁 谒 v,動詞,行為,交流 visit-superior
+謹 謹 谨 n,名詞,人,名 [given-name]
+谨 謹 谨 n,名詞,人,名 [given-name]
+謹 謹 谨 n,名詞,人,名 [given-name]
+謹 謹 谨 v,動詞,行為,態度 careful
+谨 謹 谨 v,動詞,行為,態度 careful
+謹 謹 谨 v,動詞,行為,態度 careful
+宾 賓 宾 n,名詞,人,人 guest
+賓 賓 宾 n,名詞,人,人 guest
+賓 賓 宾 n,名詞,人,人 guest
+逸 逸 逸 v,動詞,行為,動作 flee
+逸 逸 逸 v,動詞,行為,動作 flee
+难 難 难 n,名詞,描写,形質 trouble
+難 難 难 n,名詞,描写,形質 trouble
+難 難 难 n,名詞,描写,形質 trouble
+难 難 难 v,動詞,描写,形質 difficult
+難 難 难 v,動詞,描写,形質 difficult
+難 難 难 v,動詞,描写,形質 difficult
+頻 頻 频 v,副詞,頻度,頻繁 frequently
+频 頻 频 v,副詞,頻度,頻繁 frequently
+頻 頻 频 v,副詞,頻度,頻繁 frequently
+𤺺 𤺺 v,動詞,行為,動作 hate
