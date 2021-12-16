@@ -4,7 +4,7 @@
 import os
 PACKAGE_DIR=os.path.abspath(os.path.dirname(__file__))
 DOWNLOAD_DIR=os.path.join(PACKAGE_DIR,"models")
-MODEL_URL="https://raw.githubusercontent.com/KoichiYasuoka/SuPar-Kanbun/main/suparkanbun/models/"
+MODEL_URL="https://raw.githubusercontent.com/KoichiYasuoka/SuPar-Kanbun-3.1.4/main/suparkanbun/models/"
 
 import numpy
 from spacy.language import Language
