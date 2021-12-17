@@ -4,6 +4,7 @@
     "BertForTokenClassification"
   ],
   "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
   "directionality": "bidi",
   "finetuning_task": "ner",
   "gradient_checkpointing": false,
@@ -11,22 +12,22 @@
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
   "id2label": {
-    "0": "LABEL_0",
-    "1": "LABEL_1",
-    "2": "LABEL_2",
-    "3": "LABEL_3",
-    "4": "LABEL_4",
-    "5": "LABEL_5"
+    "0": "B",
+    "1": "E",
+    "2": "E2",
+    "3": "E3",
+    "4": "M",
+    "5": "S"
   },
   "initializer_range": 0.02,
   "intermediate_size": 3072,
   "label2id": {
-    "LABEL_0": 0,
-    "LABEL_1": 1,
-    "LABEL_2": 2,
-    "LABEL_3": 3,
-    "LABEL_4": 4,
-    "LABEL_5": 5
+    "B": 0,
+    "E": 1,
+    "E2": 2,
+    "E3": 3,
+    "M": 4,
+    "S": 5
   },
   "layer_norm_eps": 1e-12,
   "max_position_embeddings": 512,
@@ -41,7 +42,7 @@
   "pooler_type": "first_token_transform",
   "position_embedding_type": "absolute",
   "torch_dtype": "float32",
-  "transformers_version": "4.9.2",
+  "transformers_version": "4.11.3",
   "type_vocab_size": 2,
   "use_cache": true,
   "vocab_size": 29791
