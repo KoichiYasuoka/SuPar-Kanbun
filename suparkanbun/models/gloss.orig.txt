@@ -390,6 +390,8 @@
 像 像 v,動詞,行為,動作 image
 侨 僑 侨 v,動詞,行為,動作 sojourn
 僑 僑 侨 v,動詞,行為,動作 sojourn
+仆 僕 仆 n,代名詞,人称,止格 [1PRON]
+僕 僕 仆 n,代名詞,人称,止格 [1PRON]
 仆 僕 仆 n,名詞,人,役割 servant
 僕 僕 仆 n,名詞,人,役割 servant
 仆 僕 仆 v,動詞,描写,態度 intricate
@@ -613,6 +615,7 @@
 功 功 n,名詞,可搬,成果物 achievement
 加 加 v,動詞,行為,得失 add
 助 助 v,動詞,行為,交流 help
+劫 劫 n,名詞,時,* kalpa
 劫 劫 v,動詞,行為,交流 rob
 勃 勃 v,動詞,描写,形質 sudden
 勇 勇 n,名詞,描写,態度 bravery
@@ -1047,6 +1050,8 @@
 堯典 堯典 尧典 n,名詞,主体,書物 [book-name]
 尧典 堯典 尧典 n,名詞,主体,書物 [book-name]
 尭典 堯典 尧典 n,名詞,主体,書物 [book-name]
+報 報 报 n,名詞,可搬,成果物 retribution
+报 報 报 n,名詞,可搬,成果物 retribution
 報 報 报 v,動詞,行為,交流 report-back
 报 報 报 v,動詞,行為,交流 report-back
 场 場 场 n,名詞,固定物,建造物 meeting-place
@@ -2888,6 +2893,10 @@
 淇 淇 n,名詞,固定物,地名 [place-name]
 淑 淑 v,動詞,描写,態度 gentle
 淡 淡 v,動詞,描写,形質 thin
+净 淨 净 v,動詞,描写,形質 clean
+凈 淨 净 v,動詞,描写,形質 clean
+浄 淨 净 v,動詞,描写,形質 clean
+淨 淨 净 v,動詞,描写,形質 clean
 淫 淫 n,名詞,描写,態度 licentious
 淫 淫 v,動詞,描写,態度 excessive
 深 深 v,動詞,描写,量 deep
@@ -3124,6 +3133,8 @@
 爽 爽 v,動詞,行為,交流 lively
 尔 爾 尔 n,代名詞,人称,止格 [2PRON]
 爾 爾 尔 n,代名詞,人称,止格 [2PRON]
+尔 爾 尔 n,代名詞,指示,* this
+爾 爾 尔 n,代名詞,指示,* this
 尔 爾 尔 p,助詞,句末,* [final-particle]
 爾 爾 尔 p,助詞,句末,* [final-particle]
 尔 爾 尔 p,接尾辞,*,* [suffix]
@@ -3409,6 +3420,7 @@
 目 目 v,動詞,行為,動作 look-at
 直 直 v,副詞,範囲,限定 only
 直 直 v,動詞,描写,形質 straight
+相 相 n,名詞,不可譲,身体 appearlance
 相 相 n,名詞,人,役割 chief-minister
 相 相 v,副詞,範囲,共同 each-other
 相 相 v,動詞,行為,交流 assist
