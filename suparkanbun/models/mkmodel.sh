@@ -1,6 +1,6 @@
 #! /bin/sh
-# pip3 install transformers seqeval datasets supar
-test -f run_ner.py || curl -LO https://raw.githubusercontent.com/huggingface/transformers/v4.0.1/examples/token-classification/run_ner.py
+# pip3 install 'transformers>=4.10.0' seqeval datasets supar==1.1.3
+test -f run_ner.py || curl -LO https://raw.githubusercontent.com/huggingface/transformers/v`pip3 list | sed -n 's/^transformers *\([^ ]*\) *$/\1/p'`/examples/pytorch/token-classification/run_ner.py
 
 python3 -c '
 from suparkanbun.simplify import simplify
@@ -73,13 +73,13 @@ while True:
     printf("%s\n",$0)>"validPOS.json";
 }'
 sed 's/^.*"tags":\[//' trainPOS.json | tr '"' '\012' | sort -u | egrep '^[nvps],' > labelPOS.txt
-if [ ! -d guwenbert-base.pos ]
+if [ ! -f guwenbert-base.pos/pytorch_model.bin ]
 then mkdir -p guwenbert-base.pos
-     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-base --train_file trainPOS.json --validation_file validPOS.json --output_dir guwenbert-base.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-base --train_file trainPOS.json --validation_file validPOS.json --output_dir guwenbert-base.pos --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d guwenbert-large.pos ]
+if [ ! -f guwenbert-large.pos/pytorch_model.bin ]
 then mkdir -p guwenbert-large.pos
-     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-large --train_file trainPOS.json --validation_file validPOS.json --output_dir guwenbert-large.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-large --train_file trainPOS.json --validation_file validPOS.json --output_dir guwenbert-large.pos --do_train --do_eval --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4
 fi
 
 nawk '
@@ -139,13 +139,13 @@ while True:
     printf("%s\n",$0)>"validDanku.json";
 }'
 sed 's/^.*"tags":\[//' trainDanku.json | tr '"' '\012' | sort -u | egrep '^[A-Z]' > labelDanku.txt
-if [ ! -d guwenbert-base.danku ]
+if [ ! -f guwenbert-base.danku/pytorch_model.bin ]
 then mkdir -p guwenbert-base.danku
-     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-base --train_file trainDanku.json --validation_file validDanku.json --output_dir guwenbert-base.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-base --train_file trainDanku.json --validation_file validDanku.json --output_dir guwenbert-base.danku --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d guwenbert-large.danku ]
+if [ ! -f guwenbert-large.danku/pytorch_model.bin ]
 then mkdir -p guwenbert-large.danku
-     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-large --train_file trainDanku.json --validation_file validDanku.json --output_dir guwenbert-large.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path ethanyt/guwenbert-large --train_file trainDanku.json --validation_file validDanku.json --output_dir guwenbert-large.danku --do_train --do_eval --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4
 fi
 
 python3 -c '
@@ -213,13 +213,13 @@ while True:
   else
     printf("%s\n",$0)>>"validPOS.json";
 }'
-if [ ! -d roberta-classical-chinese-base-char.pos ]
+if [ ! -f roberta-classical-chinese-base-char.pos/pytorch_model.bin ]
 then mkdir -p roberta-classical-chinese-base-char.pos
-     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-base-char --train_file trainPOS.json --validation_file validPOS.json --output_dir roberta-classical-chinese-base-char.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-base-char --train_file trainPOS.json --validation_file validPOS.json --output_dir roberta-classical-chinese-base-char.pos --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d roberta-classical-chinese-large-char.pos ]
+if [ ! -f roberta-classical-chinese-large-char.pos/pytorch_model.bin ]
 then mkdir -p roberta-classical-chinese-large-char.pos
-     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-large-char --train_file trainPOS.json --validation_file validPOS.json --output_dir roberta-classical-chinese-large-char.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-large-char --train_file trainPOS.json --validation_file validPOS.json --output_dir roberta-classical-chinese-large-char.pos --do_train --do_eval --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4
 fi
 
 nawk '
@@ -278,13 +278,13 @@ while True:
   else
     printf("%s\n",$0)>>"validDanku.json";
 }'
-if [ ! -d roberta-classical-chinese-base-char.danku ]
+if [ ! -f roberta-classical-chinese-base-char.danku/pytorch_model.bin ]
 then mkdir -p roberta-classical-chinese-base-char.danku
-     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-base-char --train_file trainDanku.json --validation_file validDanku.json --output_dir roberta-classical-chinese-base-char.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-base-char --train_file trainDanku.json --validation_file validDanku.json --output_dir roberta-classical-chinese-base-char.danku --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d roberta-classical-chinese-large-char.danku ]
+if [ ! -f roberta-classical-chinese-large-char.danku/pytorch_model.bin ]
 then mkdir -p roberta-classical-chinese-large-char.danku
-     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-large-char --train_file trainDanku.json --validation_file validDanku.json --output_dir roberta-classical-chinese-large-char.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path KoichiYasuoka/roberta-classical-chinese-large-char --train_file trainDanku.json --validation_file validDanku.json --output_dir roberta-classical-chinese-large-char.danku --do_train --do_eval --overwrite_output_dir --per_device_train_batch_size=4 --per_device_eval_batch_size=4
 fi
 
 nawk '
@@ -294,13 +294,13 @@ nawk '
   else
     printf("%s\n",$0)>"validPOS.json";
 }' traditionalPOS.json
-if [ ! -d sikubert.pos ]
+if [ ! -f sikubert.pos/pytorch_model.bin ]
 then mkdir -p sikubert.pos
-     python3 run_ner.py --model_name_or_path SIKU-BERT/sikubert --train_file trainPOS.json --validation_file validPOS.json --output_dir sikubert.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path SIKU-BERT/sikubert --train_file trainPOS.json --validation_file validPOS.json --output_dir sikubert.pos --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d sikuroberta.pos ]
+if [ ! -f sikuroberta.pos/pytorch_model.bin ]
 then mkdir -p sikuroberta.pos
-     python3 run_ner.py --model_name_or_path SIKU-BERT/sikuroberta --train_file trainPOS.json --validation_file validPOS.json --output_dir sikuroberta.pos --do_train --do_eval
+     python3 run_ner.py --model_name_or_path SIKU-BERT/sikuroberta --train_file trainPOS.json --validation_file validPOS.json --output_dir sikuroberta.pos --do_train --do_eval --overwrite_output_dir
 fi
 
 nawk '
@@ -329,13 +329,13 @@ nawk '
   else
     printf("%s\n",$0)>"validDanku.json";
 }' traditionalDanku.json
-if [ ! -d sikubert.danku ]
+if [ ! -f sikubert.danku/pytorch_model.bin ]
 then mkdir -p sikubert.danku
-     python3 run_ner.py --model_name_or_path SIKU-BERT/sikubert --train_file trainDanku.json --validation_file validDanku.json --output_dir sikubert.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path SIKU-BERT/sikubert --train_file trainDanku.json --validation_file validDanku.json --output_dir sikubert.danku --do_train --do_eval --overwrite_output_dir
 fi
-if [ ! -d sikuroberta.danku ]
+if [ ! -f sikuroberta.danku/pytorch_model.bin ]
 then mkdir -p sikuroberta.danku
-     python3 run_ner.py --model_name_or_path SIKU-BERT/sikuroberta --train_file trainDanku.json --validation_file validDanku.json --output_dir sikuroberta.danku --do_train --do_eval
+     python3 run_ner.py --model_name_or_path SIKU-BERT/sikuroberta --train_file trainDanku.json --validation_file validDanku.json --output_dir sikuroberta.danku --do_train --do_eval --overwrite_output_dir
 fi
 
 exit 0
