@@ -6,7 +6,6 @@ n,代名詞,人称,他,PRON,PronType=Prs|Reflex=Yes
 n,代名詞,人称,止格,PRON,Person=1|PronType=Prs
 n,代名詞,人称,止格,PRON,Person=2|PronType=Prs
 n,代名詞,人称,止格,PRON,Person=3|PronType=Prs
-n,代名詞,人称,止格,PRON,PronType=Prs
 n,代名詞,人称,起格,PRON,Person=1|PronType=Prs
 n,代名詞,人称,起格,PRON,Person=2|PronType=Prs
 n,代名詞,人称,起格,PRON,Person=3|PronType=Prs
@@ -20,6 +19,7 @@ n,名詞,主体,動物,NOUN,_
 n,名詞,主体,国名,PROPN,Case=Loc|NameType=Nat
 n,名詞,主体,書物,NOUN,_
 n,名詞,主体,機関,NOUN,_
+n,名詞,主体,神仏,NOUN,_
 n,名詞,主体,集団,NOUN,_
 n,名詞,人,その他の人名,PROPN,NameType=Prs
 n,名詞,人,人,NOUN,_
@@ -45,7 +45,8 @@ n,名詞,天象,天文,NOUN,_
 n,名詞,天象,怪異,NOUN,_
 n,名詞,天象,気象,NOUN,_
 n,名詞,度量衡,*,NOUN,NounType=Clf
-n,名詞,思考,*,NOUN,_
+n,名詞,思考,思考,NOUN,_
+n,名詞,思考,方略,NOUN,_
 n,名詞,描写,形質,NOUN,_
 n,名詞,描写,態度,NOUN,_
 n,名詞,数量,*,NOUN,_
