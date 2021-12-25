@@ -1,5 +1,4 @@
 {
-  "_name_or_path": "SIKU-BERT/sikubert",
   "architectures": [
     "BertForTokenClassification"
   ],
