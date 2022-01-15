@@ -216,6 +216,7 @@
 仕 仕 v,動詞,行為,交流 serve-in-office
 他 他 n,代名詞,指示,* other
 付 付 v,動詞,行為,動作 hand-over
+仙 仙 n,名詞,人,人 Taoist-immortal
 仞 仞 n,名詞,度量衡,* [length-unit]
 代 代 n,名詞,時,* generation
 代 代 v,動詞,変化,制度 substitute
@@ -666,6 +667,7 @@
 匠 匠 n,名詞,人,役割 carpenter
 匡 匡 n,名詞,固定物,地名 [place-name]
 匡 匡 v,動詞,行為,動作 rectify
+匣 匣 n,名詞,可搬,道具 small-box
 匪 匪 n,名詞,可搬,道具 box
 匪 匪 v,副詞,否定,体言否定 [negator-of-nouns]
 匪 匪 v,動詞,行為,動作 jail
@@ -1817,7 +1819,7 @@
 忒 忒 v,動詞,変化,性質 err
 忖 忖 v,動詞,行為,態度 ponder
 志 志 n,名詞,主体,書物 [book-name]
-志 志 n,名詞,思考,* aim
+志 志 n,名詞,思考,思考 aim
 志 志 v,動詞,行為,態度 aim
 忘 忘 v,動詞,行為,動作 forget
 忝 忝 v,動詞,行為,動作 shame
@@ -1845,7 +1847,7 @@
 急 急 v,動詞,描写,態度 hasty
 性 性 n,名詞,不可譲,属性 nature
 性 性 v,動詞,描写,形質 natural
-怨 怨 n,名詞,思考,* resentment
+怨 怨 n,名詞,思考,思考 resentment
 怨 怨 v,動詞,行為,態度 resent
 怩 怩 v,動詞,描写,態度 bashful
 怪 怪 v,動詞,描写,態度 strange
@@ -1953,7 +1955,7 @@
 慕 慕 v,動詞,行為,態度 yearn-for
 惭 慚 惭 v,動詞,行為,態度 ashamed
 慚 慚 惭 v,動詞,行為,態度 ashamed
-慝 慝 n,名詞,思考,* evil
+慝 慝 n,名詞,思考,思考 evil
 慝 慝 n,名詞,描写,態度 evil
 恸 慟 恸 v,動詞,描写,態度 sorely-grieved
 慟 慟 恸 v,動詞,描写,態度 sorely-grieved
@@ -2074,6 +2076,7 @@
 所 所 n,名詞,制度,場 place
 所 所 p,助詞,接続,体言化 that-which
 扃 扃 n,名詞,可搬,道具 bar-of-a-gate
+扇 扇 n,名詞,可搬,道具 fan
 扈 扈 v,動詞,行為,動作 groom
 扉 扉 n,名詞,固定物,建造物 leaf-of-a-door
 手 手 n,名詞,不可譲,身体 hand
@@ -2246,7 +2249,7 @@
 放勲 放勳 放勋 n,名詞,人,名 [given-name]
 放勳 放勳 放勋 n,名詞,人,名 [given-name]
 政 政 n,名詞,制度,儀礼 government
-故 故 n,名詞,思考,* reason
+故 故 n,名詞,思考,思考 reason
 故 故 n,名詞,描写,形質 trouble
 故 故 n,名詞,時,* former
 故 故 v,副詞,判断,確定 therefore
@@ -2325,6 +2328,7 @@
 方 方 v,副詞,時相,現在 just-then
 方 方 v,動詞,描写,形質 square
 方 方 v,動詞,行為,動作 pattern
+方便 方便 n,名詞,思考,方略 method
 方叔 方叔 n,名詞,人,名 [given-name]
 於 於 于 p,感嘆詞,*,* ah
 於 於 于 v,前置詞,基盤,* at
@@ -4099,7 +4103,9 @@
 至 至 n,名詞,描写,形質 utmost
 至 至 v,動詞,行為,移動 arrive
 致 致 v,動詞,行為,動作 cause-to-arrive
+台 臺 台 n,名詞,人,役割 officer
 臺 臺 台 n,名詞,人,役割 officer
+台 臺 台 n,名詞,固定物,建造物 terrace
 臺 臺 台 n,名詞,固定物,建造物 terrace
 臻 臻 n,名詞,人,名 [given-name]
 舅 舅 n,名詞,人,関係 mother's-brother
@@ -4160,6 +4166,7 @@
 芙蓉 芙蓉 n,名詞,固定物,樹木 hibiscus
 芥 芥 n,名詞,固定物,樹木 mustard
 花 花 n,名詞,固定物,樹木 flower
+芳 芳 v,動詞,描写,形質 fragrant
 芸 芸 v,動詞,行為,動作 mow
 刍 芻 刍 n,名詞,可搬,糧食 hay
 芻 芻 刍 n,名詞,可搬,糧食 hay
@@ -4230,6 +4237,8 @@
 菑 菑 n,名詞,描写,形質 calamity
 菑 菑 v,動詞,行為,動作 clear-land
 菜 菜 n,名詞,可搬,糧食 vegetables
+菩萨 菩薩 菩萨 n,名詞,人,役割 bodhisattva
+菩薩 菩薩 菩萨 n,名詞,人,役割 bodhisattva
 华 華 华 n,名詞,固定物,地名 [place-name]
 華 華 华 n,名詞,固定物,地名 [place-name]
 华 華 华 n,名詞,固定物,樹木 flower
@@ -4441,6 +4450,7 @@
 袂 袂 n,名詞,可搬,道具 sleeve
 袍 袍 n,名詞,可搬,道具 long-robe
 袒 袒 v,動詞,行為,動作 bare
+袖 袖 n,名詞,可搬,道具 sleeve
 袗 袗 n,名詞,可搬,道具 unlined-gown
 被 被 v,助動詞,受動,* [PASS]
 被 被 v,動詞,行為,動作 cover
