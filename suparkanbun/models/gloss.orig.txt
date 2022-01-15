@@ -273,6 +273,7 @@
 佇 佇 v,動詞,行為,姿勢 stand-for-a-long-time
 位 位 n,名詞,制度,場 rank
 位 位 v,動詞,行為,設置 rank
+住 住 v,動詞,行為,動作 stay
 佐 佐 v,動詞,行為,交流 assist
 佑 佑 v,動詞,行為,交流 protect
 何 何 n,代名詞,疑問,* what
@@ -3434,6 +3435,7 @@
 省 省 v,動詞,行為,動作 reduce
 省 省 v,動詞,行為,態度 observe
 眊 眊 v,動詞,描写,形質 blurred-vision
+看 看 v,動詞,行為,動作 look-at
 眞 眞 真 v,動詞,描写,形質 real
 真 眞 真 v,動詞,描写,形質 real
 眠 眠 v,動詞,行為,動作 sleep
@@ -4067,6 +4069,10 @@
 脩 脩 修 n,名詞,人,名 [given-name]
 脩 脩 修 n,名詞,可搬,糧食 dried-meat
 脩 脩 修 v,動詞,行為,動作 improve
+脫 脫 脱 v,動詞,行為,動作 peel-off
+脱 脫 脱 v,動詞,行為,動作 peel-off
+脫 脫 脱 v,動詞,行為,移動 escape
+脱 脫 脱 v,動詞,行為,移動 escape
 脯 脯 n,名詞,可搬,糧食 dried-meat
 腊 腊 n,名詞,可搬,糧食 dried-meat
 腎 腎 n,名詞,不可譲,身体 kidney
