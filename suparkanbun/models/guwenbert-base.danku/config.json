@@ -1,5 +1,4 @@
 {
-  "_name_or_path": "ethanyt/guwenbert-base",
   "architectures": [
     "RobertaForTokenClassification"
   ],

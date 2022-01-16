@@ -1,2 +1,2 @@
-pytorch_model.bin 413846801
-guwenbert-base.supar 463146432
+guwenbert-base.supar 463142652
+pytorch_model.bin 413846800
