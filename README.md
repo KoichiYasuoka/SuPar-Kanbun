@@ -70,3 +70,6 @@ Try [notebook](https://colab.research.google.com/github/KoichiYasuoka/SuPar-Kanb
 
 Koichi Yasuoka (安岡孝一)
 
+## Reference
+
+Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Kazunori Fujita: [Designing Universal Dependencies for Classical Chinese and Its Application](http://id.nii.ac.jp/1001/00216242/), Journal of Information Processing Society of Japan, Vol.63, No.2 (February 2022), pp.355-363.
