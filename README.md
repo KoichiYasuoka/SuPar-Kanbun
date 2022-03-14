@@ -55,7 +55,7 @@ pip3 install suparkanbun --user
 Make sure to get `python37-devel` `python37-pip` `python37-cython` `python37-numpy` `python37-wheel` `gcc-g++` `mingw64-x86_64-gcc-g++` `git` `curl` `make` `cmake` packages, and then:
 ```sh
 curl -L https://raw.githubusercontent.com/KoichiYasuoka/CygTorch/master/installer/supar.sh | sh
-pip3.7 install suparkanbun --no-build-isolation
+pip3.7 install suparkanbun
 ```
 
 ## Installation for Jupyter Notebook (Google Colaboratory)
