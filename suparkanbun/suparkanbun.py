@@ -36,7 +36,7 @@ class SuParKanbunLanguage(Language):
       "name":"SuParKanbun_lzh",
       "parent_package":"suparkanbun",
       "pipeline":"Tokenizer, POS-Tagger, Parser",
-      "spacy_version":">=2.1.0"
+      "spacy_version":">=2.2.2"
     }
     self._path=None
 
@@ -59,7 +59,7 @@ class SuParKanbunTokenizer(object):
     self.supar=Parser.load(f)
     if danku:
       d=os.path.join(DOWNLOAD_DIR,bert+".danku")
-      self.danku=AutoModelTagger(d,["B","E","E2","E3","M","S"])
+      self.danku=AutoModelTagger(d,["B","E","E2","E3","M","S"],[("B","E"),("B","E2"),("B","E3"),("B","M"),("E","B"),("E","S"),("E2","E"),("E3","E2"),("M","E3"),("M","M"),("S","B"),("S","S")])
     else:
       self.danku=None
     self.gloss=MakeGloss()
@@ -167,19 +167,32 @@ class SuParKanbunTokenizer(object):
     return doc
 
 class AutoModelTagger(object):
-  def __init__(self,dir,label=None):
+  def __init__(self,dir,label=None,links=None):
     from suparkanbun.download import checkdownload
     from transformers import AutoModelForTokenClassification,AutoTokenizer
+    import numpy
     checkdownload(MODEL_URL+os.path.basename(dir)+"/",dir)
     self.model=AutoModelForTokenClassification.from_pretrained(dir)
     self.tokenizer=AutoTokenizer.from_pretrained(dir)
     self.label=label if label else self.model.config.id2label
+    if links:
+      self.transition=numpy.full((len(self.label),len(self.label)),numpy.nan)
+      x=self.model.config.label2id
+      for f,t in links:
+        self.transition[x[f],x[t]]=0
+    else:
+      self.transition=numpy.zeros((len(self.label),len(self.label)))
   def __call__(self,text):
-    import torch
-    input=self.tokenizer.encode(text,return_tensors="pt")
-    output=self.model(input)
-    predict=torch.argmax(output[0],dim=2)
-    return [(t,self.label[p]) for t,p in zip(text,predict[0].tolist()[1:])]
+    import torch,numpy
+    v=self.tokenizer(text,return_offsets_mapping=True)
+    with torch.no_grad():
+      m=self.model(torch.tensor([v["input_ids"]])).logits[0].numpy()
+    for i in range(m.shape[0]-1,0,-1):
+      m[i-1]+=numpy.nanmax(m[i]+self.transition,axis=1)
+    p=[numpy.nanargmax(m[0])]
+    for i in range(1,m.shape[0]):
+      p.append(numpy.nanargmax(m[i]+self.transition[p[-1]]))
+    return [(text[t[0]:t[1]],self.label[q]) for t,q in zip(v["offset_mapping"],p) if t[0]<t[1]]
 
 class MakeGloss(object):
   def __init__(self,file=None):
