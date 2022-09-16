@@ -5,9 +5,6 @@ import os
 PACKAGE_DIR=os.path.abspath(os.path.dirname(__file__))
 DOWNLOAD_DIR=os.path.join(PACKAGE_DIR,"models")
 
-from transformers.file_utils import hf_bucket_url
-MODEL_URL=hf_bucket_url("KoichiYasuoka/SuPar-Kanbun","suparkanbun/models/")
-
 import numpy
 from spacy.language import Language
 from spacy.symbols import LANG,NORM,LEMMA,POS,TAG,DEP,HEAD
@@ -171,7 +168,7 @@ class AutoModelTagger(object):
     from suparkanbun.download import checkdownload
     from transformers import AutoModelForTokenClassification,AutoTokenizer
     import numpy
-    checkdownload(MODEL_URL+os.path.basename(dir)+"/",dir)
+    checkdownload("KoichiYasuoka/SuPar-Kanbun","suparkanbun/models/"+os.path.basename(dir)+"/",dir)
     self.model=AutoModelForTokenClassification.from_pretrained(dir)
     self.tokenizer=AutoTokenizer.from_pretrained(dir)
     self.label=label if label else self.model.config.id2label
