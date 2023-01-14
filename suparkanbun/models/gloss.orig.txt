@@ -83,6 +83,8 @@
 丙戌 丙戌 n,数詞,干支,* [23rd-sexagenary]
 丙申 丙申 n,数詞,干支,* [33rd-sexagenary]
 丙辰 丙辰 n,数詞,干支,* [53rd-sexagenary]
+丞 丞 n,名詞,人,役割 assistant
+丞 丞 v,動詞,行為,交流 assist
 个 个 n,名詞,度量衡,* [general-classifier]
 中 中 n,名詞,固定物,関係 centre
 中 中 v,動詞,行為,動作 hit
@@ -302,6 +304,7 @@
 來 來 来 v,動詞,行為,移動 come
 来 來 来 v,動詞,行為,移動 come
 侈 侈 n,名詞,描写,態度 extravagance
+侈 侈 v,動詞,描写,態度 extravagant
 侍 侍 v,動詞,行為,設置 serve
 侗 侗 v,動詞,描写,形質 immature
 供 供 v,動詞,行為,交流 supply
@@ -1965,6 +1968,7 @@
 慣 慣 惯 v,動詞,描写,形質 accustomed
 慥 慥 v,動詞,描写,態度 sincere
 慧 慧 n,名詞,描写,形質 intelligent
+慧 慧 v,動詞,描写,形質 intelligent
 慮 慮 虑 v,動詞,行為,交流 think
 虑 慮 虑 v,動詞,行為,交流 think
 慰 慰 v,動詞,行為,交流 comfort
@@ -2074,6 +2078,7 @@
 戾 戾 v,動詞,描写,態度 do-violence
 戻 戾 v,動詞,行為,移動 turn
 戾 戾 v,動詞,行為,移動 turn
+房 房 n,名詞,固定物,建造物 room
 所 所 n,名詞,制度,場 place
 所 所 p,助詞,接続,体言化 that-which
 扃 扃 n,名詞,可搬,道具 bar-of-a-gate
@@ -2326,6 +2331,7 @@
 斷 斷 断 v,動詞,行為,動作 decide
 方 方 n,名詞,固定物,関係 direction
 方 方 n,名詞,度量衡,* square
+方 方 n,名詞,思考,方略 method
 方 方 v,副詞,時相,現在 just-then
 方 方 v,動詞,描写,形質 square
 方 方 v,動詞,行為,動作 pattern
@@ -3110,6 +3116,7 @@
 営 營 营 v,動詞,行為,動作 plan
 營 營 营 v,動詞,行為,動作 plan
 营 營 营 v,動詞,行為,動作 plan
+燥 燥 v,動詞,描写,形質 dry
 燧 燧 n,名詞,可搬,道具 device-for-making-fire
 燧人 燧人 n,名詞,人,名 [given-name]
 烛 燭 烛 n,名詞,可搬,道具 torch
@@ -3359,6 +3366,7 @@
 瘉 瘉 愈 v,動詞,行為,態度 worry
 瘖 瘖 喑 v,動詞,変化,性質 dumb
 瘠 瘠 n,名詞,人,姓氏 [surname]
+瘠 瘠 v,動詞,描写,形質 emaciated
 瘳 瘳 v,動詞,変化,性質 recover-from-illness
 痈 癰 痈 n,名詞,不可譲,疾病 carbuncle
 癰 癰 痈 n,名詞,不可譲,疾病 carbuncle
@@ -3495,6 +3503,10 @@
 祀 祀 n,名詞,制度,儀礼 sacrifice
 祀 祀 v,動詞,行為,儀礼 sacrifice
 祇 祇 n,名詞,人,役割 earth-spirit
+祕 祕 秘 n,名詞,描写,態度 secret
+秘 祕 秘 n,名詞,描写,態度 secret
+祕 祕 秘 v,動詞,行為,動作 secret
+秘 祕 秘 v,動詞,行為,動作 secret
 祗 祗 v,動詞,行為,態度 respect
 祜 祜 n,名詞,描写,態度 blessings
 祠 祠 v,動詞,行為,儀礼 sacrifice
@@ -3644,6 +3656,7 @@
 管 管 n,名詞,可搬,道具 tube
 管 管 v,動詞,行為,動作 be-in-charge-of
 管叔 管叔 n,名詞,人,その他の人名 Guanshu
+箭 箭 n,名詞,可搬,道具 arrow
 箴 箴 n,名詞,可搬,伝達 remonstrance
 箴 箴 n,名詞,可搬,道具 needle
 範 範 范 v,動詞,行為,動作 mould
@@ -3791,6 +3804,9 @@
 经 經 经 v,動詞,行為,移動 pass-through
 綢 綢 绸 v,動詞,行為,動作 wrap
 绸 綢 绸 v,動詞,行為,動作 wrap
+綫 綫 线 n,名詞,可搬,道具 thread
+線 綫 线 n,名詞,可搬,道具 thread
+线 綫 线 n,名詞,可搬,道具 thread
 維 維 维 n,代名詞,指示,* that
 维 維 维 n,代名詞,指示,* that
 維 維 维 n,名詞,可搬,道具 guide-rope
@@ -3934,6 +3950,8 @@
 置 置 v,動詞,行為,設置 place
 罚 罰 罚 n,名詞,制度,儀礼 punishment
 罰 罰 罚 n,名詞,制度,儀礼 punishment
+罚 罰 罚 v,動詞,行為,儀礼 punish
+罰 罰 罚 v,動詞,行為,儀礼 punish
 罵 罵 骂 v,動詞,行為,交流 curse
 骂 罵 骂 v,動詞,行為,交流 curse
 罢 罷 罢 v,動詞,行為,動作 stop
@@ -4022,6 +4040,8 @@
 听 聽 听 v,動詞,行為,伝達 listen
 聴 聽 听 v,動詞,行為,伝達 listen
 聽 聽 听 v,動詞,行為,伝達 listen
+聋 聾 聋 n,名詞,不可譲,疾病 deaf
+聾 聾 聋 n,名詞,不可譲,疾病 deaf
 聿 聿 p,助詞,句頭,* [modal-particle]
 粛 肅 肃 v,動詞,行為,態度 solemn
 肃 肅 肃 v,動詞,行為,態度 solemn
@@ -4621,6 +4641,7 @@
 诔 誄 诔 n,名詞,制度,儀礼 eulogy-for-the-dead
 誅 誅 诛 v,動詞,行為,交流 execute
 诛 誅 诛 v,動詞,行為,交流 execute
+誓 誓 v,動詞,行為,動作 oath
 誕 誕 诞 v,動詞,変化,生物 give-birth
 诞 誕 诞 v,動詞,変化,生物 give-birth
 誘 誘 诱 v,動詞,行為,交流 lead
@@ -4882,6 +4903,7 @@
 贤 賢 贤 n,名詞,描写,態度 wise
 賢 賢 贤 v,動詞,描写,態度 worthy
 贤 賢 贤 v,動詞,描写,態度 worthy
+賎 賤 贱 v,動詞,描写,境遇 lowly
 賤 賤 贱 v,動詞,描写,境遇 lowly
 贱 賤 贱 v,動詞,描写,境遇 lowly
 賦 賦 赋 n,名詞,可搬,成果物 tax
@@ -5159,6 +5181,7 @@
 邑 邑 v,動詞,行為,設置 urbanize
 邠 邠 n,名詞,固定物,地名 [place-name]
 邢 邢 n,名詞,主体,国名 [country-name]
+那 那 v,副詞,疑問,反語 what
 邦 邦 n,名詞,主体,集団 country
 邪 邪 n,名詞,描写,態度 evil
 邪 邪 p,助詞,句末,* [Q]
@@ -5233,6 +5256,9 @@
 金 金 n,名詞,可搬,道具 metal
 釜 釜 n,名詞,可搬,道具 cooking-pot
 釜 釜 n,名詞,度量衡,* [capacity-unit]
+針 針 针 n,名詞,可搬,道具 needle
+鍼 針 针 n,名詞,可搬,道具 needle
+针 針 针 n,名詞,可搬,道具 needle
 釣 釣 钓 v,動詞,行為,動作 fish-with-hook-and-line
 钓 釣 钓 v,動詞,行為,動作 fish-with-hook-and-line
 鈇 鈇 𫓧 n,名詞,可搬,道具 axe
@@ -5571,6 +5597,8 @@
 韻 韻 韵 n,名詞,可搬,伝達 rhyme
 韵 韻 韵 v,動詞,行為,伝達 rhyme
 韻 韻 韵 v,動詞,行為,伝達 rhyme
+响 響 响 v,動詞,行為,動作 echo
+響 響 响 v,動詞,行為,動作 echo
 頂 頂 顶 n,名詞,不可譲,身体 crown-of-the-head
 顶 頂 顶 n,名詞,不可譲,身体 crown-of-the-head
 順 順 顺 v,動詞,行為,交流 follow
@@ -5606,6 +5634,8 @@
 頭 頭 头 n,名詞,不可譲,身体 head
 題 題 题 n,名詞,不可譲,身体 forehead
 题 題 题 n,名詞,不可譲,身体 forehead
+題 題 题 v,動詞,行為,動作 observe
+题 題 题 v,動詞,行為,動作 observe
 額 額 额 n,名詞,不可譲,身体 forehead
 额 額 额 n,名詞,不可譲,身体 forehead
 顏 顏 颜 n,名詞,不可譲,身体 face
