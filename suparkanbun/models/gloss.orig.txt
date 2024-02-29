@@ -97,6 +97,7 @@
 久 久 v,動詞,描写,量 for-a-long-time
 之 之 n,代名詞,人称,止格 [3PRON]
 之 之 n,名詞,人,名 [given-name]
+之 之 p,助詞,句末,* [verb-marker]
 之 之 p,助詞,接続,属格 's
 之 之 v,動詞,行為,移動 go
 之他 之他 n,名詞,人,名 [given-name]
@@ -725,6 +726,7 @@
 卜 卜 n,名詞,人,姓氏 [surname]
 卜 卜 v,動詞,行為,儀礼 divine-by-cracking-a-bone-or-shell
 卞 卞 n,名詞,固定物,地名 [place-name]
+占 占 n,名詞,制度,儀礼 divination
 占 占 v,動詞,行為,儀礼 divine
 占 占 v,動詞,行為,動作 occupy
 卦 卦 n,名詞,制度,儀礼 trigram
@@ -1049,6 +1051,7 @@
 堂 堂 n,名詞,固定物,建造物 hall
 坚 堅 坚 v,動詞,描写,形質 hard
 堅 堅 坚 v,動詞,描写,形質 hard
+堆 堆 n,名詞,固定物,地形 pile
 堪 堪 v,動詞,描写,態度 bear
 堯 堯 尧 n,名詞,人,名 [given-name]
 尧 堯 尧 n,名詞,人,名 [given-name]
@@ -1069,6 +1072,8 @@
 塞 塞 v,動詞,行為,設置 block-up
 塡 塡 填 v,動詞,行為,動作 block-up
 填 塡 填 v,動詞,行為,動作 block-up
+塵 塵 尘 n,名詞,可搬,成果物 dust
+尘 塵 尘 n,名詞,可搬,成果物 dust
 墁 墁 n,名詞,可搬,道具 trowel
 境 境 n,名詞,固定物,関係 boundary
 墉 墉 n,名詞,固定物,建造物 high-wall
@@ -1818,6 +1823,7 @@
 徼 徼 v,動詞,行為,動作 seek
 心 心 n,名詞,不可譲,身体 heart
 必 必 v,副詞,判断,確定 necessarily
+必 必 v,動詞,描写,態度 inevitable
 忌 忌 v,動詞,行為,態度 avoid
 忍 忍 v,動詞,描写,態度 bear
 忒 忒 v,動詞,変化,性質 err
@@ -1866,6 +1872,7 @@
 恐 恐 v,動詞,行為,態度 fear
 恔 恔 v,動詞,描写,態度 sagacious
 恕 恕 v,動詞,描写,態度 forgiving
+恙 恙 v,動詞,行為,態度 sick
 恝 恝 v,動詞,描写,態度 carefree
 恣 恣 v,動詞,描写,態度 unrestrained
 恤 恤 v,動詞,行為,態度 pity
@@ -1930,6 +1937,7 @@
 愆 愆 v,動詞,行為,動作 overflow
 愈 愈 v,動詞,変化,生物 better
 愉 愉 v,動詞,描写,態度 pleased
+意 意 n,名詞,思考,思考 thought
 意 意 v,動詞,行為,動作 think
 愕 愕 v,動詞,行為,態度 startle
 愚 愚 v,動詞,描写,形質 stupid
@@ -2837,6 +2845,7 @@
 汲 汲 v,動詞,行為,動作 draw-water
 决 決 决 v,動詞,行為,動作 open-a-passage-for-a-stream
 決 決 决 v,動詞,行為,動作 open-a-passage-for-a-stream
+沃 沃 v,動詞,描写,形質 fertile
 沈 沈 沉 v,動詞,行為,動作 submerge
 沈犹 沈猶 沈犹 n,名詞,人,姓氏 [surname]
 沈猶 沈猶 沈犹 n,名詞,人,姓氏 [surname]
@@ -3848,6 +3857,9 @@
 缗 緡 缗 n,名詞,可搬,道具 cord
 緡 緡 缗 v,動詞,描写,形質 sing-with-beautiful-voice
 缗 緡 缗 v,動詞,描写,形質 sing-with-beautiful-voice
+緣 緣 缘 n,名詞,思考,思考 reason
+縁 緣 缘 n,名詞,思考,思考 reason
+缘 緣 缘 n,名詞,思考,思考 reason
 緣 緣 缘 v,動詞,行為,動作 follow-along
 縁 緣 缘 v,動詞,行為,動作 follow-along
 缘 緣 缘 v,動詞,行為,動作 follow-along
@@ -3887,6 +3899,7 @@
 縷 縷 缕 n,名詞,可搬,道具 thread
 缕 縷 缕 n,名詞,可搬,道具 thread
 总 總 总 v,動詞,行為,交流 bind-together
+総 總 总 v,動詞,行為,交流 bind-together
 總 總 总 v,動詞,行為,交流 bind-together
 績 績 绩 n,名詞,可搬,成果物 achievement
 绩 績 绩 n,名詞,可搬,成果物 achievement
@@ -4232,6 +4245,8 @@
 荏 荏 v,動詞,描写,態度 weak
 荑 荑 n,名詞,固定物,樹木 sprout
 荒 荒 v,動詞,描写,形質 wild
+茘 荔 n,名詞,固定物,樹木 lychee
+荔 荔 n,名詞,固定物,樹木 lychee
 荷 荷 n,名詞,固定物,樹木 lotus
 荷 荷 v,動詞,行為,動作 carry
 荷宇 荷宇 n,名詞,人,名 [given-name]
@@ -4320,6 +4335,7 @@
 蓰 蓰 n,数詞,数字,* five-times
 蓺 蓺 v,動詞,行為,動作 plant
 蔑 蔑 v,副詞,否定,禁止 [NEG-PFV]
+蔚 蔚 v,動詞,描写,形質 luxuriant
 蔡 蔡 n,名詞,主体,国名 [country-name]
 蔡 蔡 n,名詞,可搬,道具 tortoise-shell
 蔬 蔬 n,名詞,可搬,糧食 vegetables
@@ -4411,6 +4427,7 @@
 蛙 蛙 n,名詞,主体,動物 frog
 蛟 蛟 n,名詞,主体,動物 dragon
 蜡 蜡 n,名詞,制度,儀礼 year-end-festival
+蝦 蝦 n,名詞,主体,動物 shrimp
 蝶 蝶 n,名詞,主体,動物 butterfly
 萤 螢 萤 n,名詞,主体,動物 glow-worm
 蛍 螢 萤 n,名詞,主体,動物 glow-worm
@@ -5794,6 +5811,8 @@
 騂 騂 骍 n,名詞,主体,動物 red-coloured-horse
 骍 騂 骍 n,名詞,主体,動物 red-coloured-horse
 騃 騃 呆 v,動詞,描写,形質 ignorant
+騎 騎 骑 n,名詞,人,役割 horseman
+骑 騎 骑 n,名詞,人,役割 horseman
 騎 騎 骑 v,動詞,行為,動作 ride-astride
 骑 騎 骑 v,動詞,行為,動作 ride-astride
 騏 騏 骐 n,名詞,主体,動物 black-grey-mottled-horse
