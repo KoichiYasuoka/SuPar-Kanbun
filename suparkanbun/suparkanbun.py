@@ -143,7 +143,8 @@ class SuParKanbunTokenizer(object):
           heads.append(0)
           deps.append(r)
         else:
-          heads.append(t["head"]-i-1)
+          h=t["head"]-i-1
+          heads.append(2**64+h if h<0 else h)
           deps.append(vs.add(t["deprel"]))
         spaces.append(False)
         g=self.gloss(form,xpos)
