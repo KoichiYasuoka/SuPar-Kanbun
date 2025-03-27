@@ -5,7 +5,7 @@ URL="https://github.com/KoichiYasuoka/SuPar-Kanbun"
 
 setuptools.setup(
   name="suparkanbun",
-  version="1.5.4",
+  version="1.5.5",
   description="Tokenizer POS-tagger and Dependency-parser for Classical Chinese",
   long_description=long_description,
   long_description_content_type="text/markdown",
@@ -17,6 +17,7 @@ setuptools.setup(
   packages=setuptools.find_packages(),
   install_requires=[
     "supar>=1.1.4",
+    "torch<2.6",
     "transformers>=4.0.1",
     "spacy>=2.2.2",
     "deplacy>=2.1.0"
