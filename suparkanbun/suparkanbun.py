@@ -43,7 +43,7 @@ class SuParKanbunTokenizer(object):
   to_bytes=lambda self,*args,**kwargs:None
   from_bytes=lambda self,*args,**kwargs:None
   def __init__(self,bert,danku,vocab):
-    from supar import Parser
+    from esupar.supar import Parser
     self.bert=bert
     self.vocab=vocab
     self.simplify={}
