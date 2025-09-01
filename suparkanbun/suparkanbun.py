@@ -53,7 +53,11 @@ class SuParKanbunTokenizer(object):
     d=os.path.join(DOWNLOAD_DIR,bert+".pos")
     self.tagger=AutoModelTagger(d)
     f=os.path.join(d,bert+".supar")
-    self.supar=Parser.load(f)
+    if os.path.exists(f):
+      self.supar=Parser.load(f)
+    else:
+      f=os.path.join(d,bert+".esupar")
+      self.supar=Parser.load(f,safe_tensor=True)
     if danku:
       d=os.path.join(DOWNLOAD_DIR,bert+".danku")
       self.danku=AutoModelTagger(d,["B","E","E2","E3","M","S"],[("B","E"),("B","E2"),("B","E3"),("B","M"),("E","B"),("E","S"),("E2","E"),("E3","E2"),("M","E3"),("M","M"),("S","B"),("S","S")])
