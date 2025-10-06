@@ -3189,6 +3189,7 @@
 牵 牽 牵 v,動詞,行為,動作 pull
 牽 牽 牵 v,動詞,行為,動作 pull
 犀 犀 n,名詞,主体,動物 rhinoceros
+犁 犂 v,動詞,行為,動作 plough
 犂 犂 v,動詞,行為,動作 plough
 牺 犧 牺 n,名詞,主体,動物 sacrificial-animal
 犠 犧 牺 n,名詞,主体,動物 sacrificial-animal
@@ -4573,6 +4574,8 @@
 言 言 n,名詞,可搬,伝達 speech
 言 言 v,副詞,時相,緊接 instantly
 言 言 v,動詞,行為,伝達 speak
+訂 訂 订 v,動詞,行為,動作 settle
+订 訂 订 v,動詞,行為,動作 settle
 計 計 计 n,名詞,可搬,伝達 calculation
 计 計 计 n,名詞,可搬,伝達 calculation
 訊 訊 讯 v,動詞,行為,伝達 ask
