@@ -5410,6 +5410,9 @@
 閾 閾 阈 n,名詞,固定物,建造物 threshold
 阈 閾 阈 n,名詞,固定物,建造物 threshold
 闇 闇 暗 v,動詞,描写,形質 dark
+濶 闊 阔 v,動詞,描写,量 widely-separated
+闊 闊 阔 v,動詞,描写,量 widely-separated
+阔 闊 阔 v,動詞,描写,量 widely-separated
 闋 闋 阕 v,動詞,行為,動作 terminate
 阕 闋 阕 v,動詞,行為,動作 terminate
 闔廬 闔廬 阖庐 n,名詞,人,名 [given-name]
