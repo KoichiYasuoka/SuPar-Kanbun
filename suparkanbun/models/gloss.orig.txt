@@ -318,6 +318,7 @@
 促 促 v,動詞,行為,態度 press
 俊 俊 n,名詞,描写,態度 outstanding-talent
 俎 俎 n,名詞,可搬,道具 stand-for-sacrificial-meat
+爼 俎 n,名詞,可搬,道具 stand-for-sacrificial-meat
 俑 俑 n,名詞,可搬,道具 puppet
 俗 俗 n,名詞,描写,形質 vulgarness
 俛 俛 v,動詞,行為,態度 bow-the-head
@@ -1989,6 +1990,9 @@
 憂 憂 忧 v,動詞,行為,態度 worry
 憃 憃 v,動詞,描写,形質 stupid
 憐 憐 怜 v,動詞,行為,態度 pity
+凭 憑 凭 v,動詞,行為,態度 rely-on
+慿 憑 凭 v,動詞,行為,態度 rely-on
+憑 憑 凭 v,動詞,行為,態度 rely-on
 憔 憔 v,動詞,描写,態度 thin
 惮 憚 惮 v,動詞,行為,態度 fear
 憚 憚 惮 v,動詞,行為,態度 fear
