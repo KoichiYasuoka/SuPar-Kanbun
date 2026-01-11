@@ -142,7 +142,9 @@
 乳 乳 n,名詞,可搬,糧食 milk
 乳 乳 v,動詞,行為,飲食 milk
 乾 乾 n,名詞,人,その他の人名 Qian
+乹 乾 n,名詞,天象,天文 heaven
 乾 乾 n,名詞,天象,天文 heaven
+乹 乾 干 v,動詞,描写,形質 dry
 乾 乾 干 v,動詞,描写,形質 dry
 乱 亂 乱 v,動詞,行為,動作 disorder
 亂 亂 乱 v,動詞,行為,動作 disorder
@@ -584,6 +586,7 @@
 列 列 n,名詞,主体,集団 row
 列 列 v,動詞,行為,設置 arrange-in-a-row
 初 初 n,名詞,時,* at-the-beginning
+判 判 v,動詞,行為,役割 judge
 別 別 别 v,動詞,行為,交流 separate
 别 別 别 v,動詞,行為,交流 separate
 利 利 n,名詞,描写,形質 profit
@@ -1139,6 +1142,8 @@
 梦 夢 梦 n,名詞,可搬,成果物 dream
 夢 夢 梦 v,動詞,行為,動作 dream
 梦 夢 梦 v,動詞,行為,動作 dream
+㚌 夥 v,動詞,描写,量 many
+夥 夥 v,動詞,描写,量 many
 大 大 n,名詞,描写,形質 big
 大 大 v,動詞,描写,量 big
 大挠 大撓 大挠 n,名詞,人,名 [given-name]
@@ -1177,6 +1182,7 @@
 夷逸 夷逸 夷逸 n,名詞,人,名 [given-name]
 奄 奄 n,名詞,主体,国名 [country-name]
 奇 奇 v,動詞,描写,態度 strange
+竒 奇 v,動詞,描写,態度 strange
 奈 奈 v,動詞,行為,分類 recourse
 柰 奈 v,動詞,行為,分類 recourse
 奉 奉 v,動詞,行為,動作 esteem
@@ -1540,6 +1546,11 @@
 岫 岫 n,名詞,固定物,地形 mountain-peak
 峯 峰 n,名詞,固定物,地形 peak
 峰 峰 n,名詞,固定物,地形 peak
+㠀 島 岛 n,名詞,固定物,地形 island
+岛 島 岛 n,名詞,固定物,地形 island
+島 島 岛 n,名詞,固定物,地形 island
+嶋 島 岛 n,名詞,固定物,地形 island
+嶌 島 岛 n,名詞,固定物,地形 island
 峻 峻 v,動詞,描写,形質 high
 峡 峽 峡 n,名詞,固定物,地形 gorge
 峽 峽 峡 n,名詞,固定物,地形 gorge
@@ -2101,6 +2112,7 @@
 才 才 n,名詞,可搬,成果物 talent
 扶 扶 v,動詞,行為,動作 support
 承 承 v,動詞,行為,伝達 receive
+𣴎 承 v,動詞,行為,伝達 receive
 技 技 n,名詞,可搬,伝達 skill
 抃 抃 v,動詞,行為,動作 clap-the-hands
 抉 抉 v,動詞,行為,動作 pull-out
@@ -2349,8 +2361,11 @@
 方 方 v,動詞,行為,動作 pattern
 方便 方便 n,名詞,思考,方略 method
 方叔 方叔 n,名詞,人,名 [given-name]
+扵 於 于 p,感嘆詞,*,* ah
 於 於 于 p,感嘆詞,*,* ah
+扵 於 于 v,前置詞,基盤,* at
 於 於 于 v,前置詞,基盤,* at
+扵 於 于 v,動詞,存在,存在 go-into
 於 於 于 v,動詞,存在,存在 go-into
 於陵 於陵 于陵 n,名詞,固定物,地名 [place-name]
 施 施 n,名詞,人,名 [given-name]
@@ -2445,6 +2460,7 @@
 智 智 v,動詞,描写,形質 wise
 暇 暇 v,動詞,行為,態度 leisure
 暑 暑 v,動詞,描写,境遇 heat
+暖 暖 v,動詞,描写,形質 warm
 暢 暢 畅 v,動詞,行為,動作 penetrate
 畅 暢 畅 v,動詞,行為,動作 penetrate
 暮 暮 n,名詞,時,* evening
@@ -3050,6 +3066,7 @@
 浜 濱 滨 n,名詞,固定物,地形 shore
 滨 濱 滨 n,名詞,固定物,地形 shore
 濱 濱 滨 n,名詞,固定物,地形 shore
+濵 濱 滨 n,名詞,固定物,地形 shore
 涜 瀆 渎 n,名詞,固定物,建造物 ditch
 渎 瀆 渎 n,名詞,固定物,建造物 ditch
 瀆 瀆 渎 n,名詞,固定物,建造物 ditch
@@ -3094,6 +3111,7 @@
 然友 然友 n,名詞,人,名 [given-name]
 煇 煇 辉 v,動詞,描写,形質 flaming
 煖 煖 v,動詞,描写,形質 warm
+烟 煙 烟 n,名詞,天象,気象 smoke
 煙 煙 烟 n,名詞,天象,気象 smoke
 焭 煢 茕 n,名詞,人,関係 orphan
 煢 煢 茕 n,名詞,人,関係 orphan
@@ -3202,6 +3220,7 @@
 犯 犯 v,動詞,行為,態度 transgress
 状 狀 状 n,名詞,描写,形質 appearance
 狀 狀 状 n,名詞,描写,形質 appearance
+抂 狂 v,動詞,描写,態度 wild
 狂 狂 v,動詞,描写,態度 wild
 狄 狄 n,名詞,主体,集団 [northern-people]
 狎 狎 v,動詞,行為,態度 familiar
@@ -3261,6 +3280,8 @@
 珠 珠 n,名詞,可搬,道具 pearl
 班 班 v,動詞,描写,形質 distribute
 珮 珮 v,動詞,行為,動作 wear-at-the-gardle
+现 現 现 v,動詞,描写,形質 appear
+現 現 现 v,動詞,描写,形質 appear
 琅邪 琅邪 n,名詞,固定物,地名 [place-name]
 理 理 n,名詞,可搬,伝達 underlying-principle
 理 理 v,動詞,行為,動作 put-in-order
@@ -3327,11 +3348,13 @@
 男 男 n,名詞,人,人 man
 男 男 n,名詞,人,役割 baron
 男 男 n,名詞,人,関係 son
+男子 男子 n,名詞,人,関係 son
 畊 畊 v,動詞,行為,動作 plough
 界 界 n,名詞,固定物,関係 boundary
 畎 畎 n,名詞,固定物,建造物 watering-channels-in-a-field
 畏 畏 v,動詞,行為,態度 fear
 畔 畔 v,動詞,行為,交流 rebel
+畄 留 v,動詞,行為,移動 remain
 留 留 v,動詞,行為,移動 remain
 畱 留 v,動詞,行為,移動 remain
 畜 畜 n,名詞,主体,動物 domestic-animals
@@ -3348,6 +3371,10 @@
 畢郢 畢郢 毕郢 n,名詞,固定物,地名 [place-name]
 略 略 n,名詞,可搬,伝達 plan
 畦 畦 n,名詞,固定物,建造物 garden-plot
+畨 番 n,名詞,時,* turn
+番 番 n,名詞,時,* turn
+畨 番 v,動詞,描写,態度 martial
+番 番 v,動詞,描写,態度 martial
 画 畫 画 v,動詞,行為,動作 delineate
 畫 畫 画 v,動詞,行為,動作 delineate
 畬 畬 v,動詞,行為,動作 slash-and-burn-cultivation
@@ -3403,6 +3430,8 @@
 白圭 白圭 n,名詞,人,名 [given-name]
 百 百 n,名詞,人,名 [given-name]
 百 百 n,数詞,数字,* hundred
+㒵 皃 n,名詞,不可譲,身体 appearance
+皃 皃 n,名詞,不可譲,身体 appearance
 的 的 v,動詞,描写,態度 brilliant
 皆 皆 v,副詞,範囲,総括 all
 皇 皇 n,名詞,人,役割 august
@@ -3916,6 +3945,8 @@
 缪 繆 缪 v,動詞,行為,動作 bind
 繆 繆 缪 v,動詞,行為,態度 err
 缪 繆 缪 v,動詞,行為,態度 err
+織 織 织 n,名詞,可搬,道具 fabric
+织 織 织 n,名詞,可搬,道具 fabric
 織 織 织 v,動詞,行為,動作 weave
 织 織 织 v,動詞,行為,動作 weave
 繚 繚 缭 n,名詞,人,名 [given-name]
@@ -3980,7 +4011,9 @@
 羅 羅 罗 v,動詞,行為,動作 gather
 羊 羊 n,名詞,主体,動物 sheep
 美 美 n,名詞,描写,形質 beauty
+羙 美 n,名詞,描写,形質 beauty
 美 美 v,動詞,描写,形質 beautiful
+羙 美 v,動詞,描写,形質 beautiful
 羔 羔 n,名詞,主体,動物 young-sheep
 羞 羞 v,動詞,描写,態度 shame
 羣 群 n,名詞,描写,形質 flock
@@ -4198,6 +4231,8 @@
 舞 舞 v,動詞,行為,動作 dance
 舟 舟 n,名詞,可搬,乗り物 boat
 般 般 v,動詞,行為,態度 pleasure
+舩 船 n,名詞,可搬,乗り物 ship
+船 船 n,名詞,可搬,乗り物 ship
 良 良 v,動詞,描写,形質 good
 色 色 n,名詞,描写,形質 colour
 艴 艴 v,動詞,描写,態度 annoyed
@@ -4389,6 +4424,8 @@
 薬 藥 药 n,名詞,可搬,道具 medicine
 藥 藥 药 n,名詞,可搬,道具 medicine
 藩 藩 n,名詞,制度,場 foreign-country
+薮 藪 薮 n,名詞,固定物,地形 marsh
+藪 藪 薮 n,名詞,固定物,地形 marsh
 藻 藻 n,名詞,固定物,樹木 seawead
 藻 藻 v,動詞,行為,動作 ornate
 芦 蘆 芦 n,名詞,固定物,樹木 reed
@@ -4402,6 +4439,9 @@
 虆 虆 蔂 n,名詞,可搬,道具 basket
 虎 虎 n,名詞,主体,動物 tiger
 虐 虐 v,動詞,行為,態度 cruel
+処 處 处 n,名詞,固定物,関係 place
+处 處 处 n,名詞,固定物,関係 place
+處 處 处 n,名詞,固定物,関係 place
 処 處 处 v,動詞,行為,設置 place
 处 處 处 v,動詞,行為,設置 place
 處 處 处 v,動詞,行為,設置 place
@@ -4917,6 +4957,8 @@
 贼子 賊子 贼子 n,名詞,主体,集団 bandit
 賚 賚 赉 v,動詞,行為,交流 bestow
 赉 賚 赉 v,動詞,行為,交流 bestow
+齎 賚 赉 v,動詞,行為,交流 bestow
+𮚁 賚 赉 v,動詞,行為,交流 bestow
 賜 賜 赐 n,名詞,人,名 [given-name]
 赐 賜 赐 n,名詞,人,名 [given-name]
 賜 賜 赐 v,動詞,行為,交流 bestow
@@ -4927,6 +4969,9 @@
 贤 賢 贤 n,名詞,描写,態度 wise
 賢 賢 贤 v,動詞,描写,態度 worthy
 贤 賢 贤 v,動詞,描写,態度 worthy
+卖 賣 卖 v,動詞,行為,得失 sell
+売 賣 卖 v,動詞,行為,得失 sell
+賣 賣 卖 v,動詞,行為,得失 sell
 賎 賤 贱 v,動詞,描写,境遇 lowly
 賤 賤 贱 v,動詞,描写,境遇 lowly
 贱 賤 贱 v,動詞,描写,境遇 lowly
@@ -4945,6 +4990,8 @@
 賴 賴 赖 v,動詞,描写,態度 lean-on
 赖 賴 赖 v,動詞,描写,態度 lean-on
 頼 賴 赖 v,動詞,描写,態度 lean-on
+購 購 购 v,動詞,行為,得失 buy
+购 購 购 v,動詞,行為,得失 buy
 贈 贈 赠 v,動詞,行為,交流 present
 赠 贈 赠 v,動詞,行為,交流 present
 賛 贊 赞 v,動詞,行為,交流 promote
@@ -5604,7 +5651,9 @@
 非 非 v,動詞,行為,交流 blame
 靡 靡 v,動詞,存在,存在 not-exist
 面 面 n,名詞,不可譲,身体 face
+靣 面 n,名詞,不可譲,身体 face
 面 面 v,動詞,行為,設置 face-to
+靣 面 v,動詞,行為,設置 face-to
 革 革 n,名詞,可搬,道具 leather
 靳 靳 n,名詞,可搬,道具 breast-strap-of-a-bridle
 靳 靳 v,動詞,描写,態度 stingy
