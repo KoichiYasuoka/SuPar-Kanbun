@@ -632,6 +632,7 @@
 勇 勇 v,動詞,描写,態度 brave
 动 動 动 v,動詞,行為,動作 move
 動 動 动 v,動詞,行為,動作 move
+𨔝 動 动 v,動詞,行為,動作 move
 务 務 务 v,動詞,行為,動作 work-at
 務 務 务 v,動詞,行為,動作 work-at
 勝 勝 胜 v,副詞,範囲,総括 fully
@@ -795,8 +796,10 @@
 叟 叟 n,名詞,人,人 old-gentleman
 丛 叢 丛 n,名詞,固定物,樹木 thicket
 叢 叢 丛 n,名詞,固定物,樹木 thicket
+樷 叢 丛 n,名詞,固定物,樹木 thicket
 丛 叢 丛 v,動詞,行為,動作 crowd-together
 叢 叢 丛 v,動詞,行為,動作 crowd-together
+樷 叢 丛 v,動詞,行為,動作 crowd-together
 口 口 n,名詞,不可譲,身体 mouth
 古 古 n,名詞,人,その他の人名 Gu
 古 古 n,名詞,時,* olden-times
@@ -954,10 +957,13 @@
 嘔 嘔 呕 v,動詞,行為,動作 vomit
 嘗 嘗 尝 n,名詞,制度,儀礼 harvest-festival
 尝 嘗 尝 n,名詞,制度,儀礼 harvest-festival
+甞 嘗 尝 n,名詞,制度,儀礼 harvest-festival
 嘗 嘗 尝 v,副詞,時相,過去 once
 尝 嘗 尝 v,副詞,時相,過去 once
+甞 嘗 尝 v,副詞,時相,過去 once
 嘗 嘗 尝 v,動詞,行為,動作 taste
 尝 嘗 尝 v,動詞,行為,動作 taste
+甞 嘗 尝 v,動詞,行為,動作 taste
 嘬 嘬 v,動詞,行為,飲食 bite
 噫 噫 p,感嘆詞,*,* alas
 噭 噭 v,動詞,行為,動作 shout
@@ -3815,8 +3821,10 @@
 絰 絰 绖 v,動詞,行為,儀礼 mourn-with-hempen-band
 绖 絰 绖 v,動詞,行為,儀礼 mourn-with-hempen-band
 統 統 统 n,名詞,不可譲,属性 continuous-succession
+綂 統 统 n,名詞,不可譲,属性 continuous-succession
 统 統 统 n,名詞,不可譲,属性 continuous-succession
 統 統 统 v,動詞,行為,交流 unite
+綂 統 统 v,動詞,行為,交流 unite
 统 統 统 v,動詞,行為,交流 unite
 丝 絲 丝 n,名詞,可搬,道具 silk
 絲 絲 丝 n,名詞,可搬,道具 silk
@@ -4453,8 +4461,10 @@
 虞仲 虞仲 n,名詞,人,名 [given-name]
 号 號 号 n,名詞,不可譲,属性 name
 號 號 号 n,名詞,不可譲,属性 name
+𭈹 號 号 n,名詞,不可譲,属性 name
 号 號 号 v,動詞,行為,動作 shout
 號 號 号 v,動詞,行為,動作 shout
+𭈹 號 号 v,動詞,行為,動作 shout
 虢 虢 n,名詞,主体,国名 [country-name]
 虧 虧 v,動詞,行為,得失 lack
 虬 虯 虬 n,名詞,主体,動物 young-dragon
