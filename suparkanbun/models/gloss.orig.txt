@@ -4619,7 +4619,9 @@
 角招 角招 n,名詞,主体,書物 [book-name]
 觚 觚 n,名詞,可搬,道具 ritual-wine-vessel
 解 解 n,名詞,可搬,伝達 analysis
+觧 解 n,名詞,可搬,伝達 analysis
 解 解 v,動詞,行為,動作 untie
+觧 解 v,動詞,行為,動作 untie
 觫 觫 v,動詞,描写,態度 fearful
 觳 觳 v,動詞,描写,態度 fearful
 觞 觴 觞 n,名詞,可搬,道具 wine-cup
