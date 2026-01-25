@@ -2450,6 +2450,7 @@
 晏子 晏子 n,名詞,人,複合的人名 Yanzi
 晚 晚 v,動詞,描写,形質 late
 晩 晚 v,動詞,描写,形質 late
+𣆶 晚 v,動詞,描写,形質 late
 昼 晝 昼 n,名詞,固定物,地名 [place-name]
 晝 晝 昼 n,名詞,固定物,地名 [place-name]
 昼 晝 昼 n,名詞,時,* daytime
@@ -4330,8 +4331,10 @@
 菩薩 菩薩 菩萨 n,名詞,人,役割 bodhisattva
 华 華 华 n,名詞,固定物,地名 [place-name]
 華 華 华 n,名詞,固定物,地名 [place-name]
+𬜻 華 华 n,名詞,固定物,地名 [place-name]
 华 華 华 n,名詞,固定物,樹木 flower
 華 華 华 n,名詞,固定物,樹木 flower
+𬜻 華 华 n,名詞,固定物,樹木 flower
 华胥 華胥 华胥 n,名詞,主体,国名 [country-name]
 華胥 華胥 华胥 n,名詞,主体,国名 [country-name]
 菲 菲 n,名詞,固定物,樹木 radishor-turnip
