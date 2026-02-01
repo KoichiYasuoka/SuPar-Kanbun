@@ -3684,6 +3684,8 @@
 笙 笙 n,名詞,可搬,道具 reed-organ
 符 符 n,名詞,可搬,道具 token
 第 第 n,名詞,数量,* order-in-a-sequence
+笔 筆 笔 n,名詞,可搬,道具 writing-brush
+筆 筆 笔 n,名詞,可搬,道具 writing-brush
 等 等 n,名詞,数量,* class
 等 等 v,動詞,描写,形質 equal
 筋 筋 n,名詞,不可譲,身体 muscle
@@ -4456,6 +4458,7 @@
 処 處 处 v,動詞,行為,設置 place
 处 處 处 v,動詞,行為,設置 place
 處 處 处 v,動詞,行為,設置 place
+虗 虛 虚 v,動詞,描写,形質 empty
 虚 虛 虚 v,動詞,描写,形質 empty
 虛 虛 虚 v,動詞,描写,形質 empty
 虞 虞 n,名詞,主体,国名 [country-name]
