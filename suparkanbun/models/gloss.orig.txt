@@ -363,6 +363,7 @@
 偕 偕 v,副詞,範囲,共同 together
 偝 偝 v,動詞,行為,態度 disobey
 健 健 v,動詞,描写,態度 strong
+徤 健 v,動詞,描写,態度 strong
 偪 偪 v,動詞,行為,移動 encroach-on
 偲 偲 v,動詞,描写,態度 urgent
 侧 側 侧 n,名詞,固定物,関係 side
@@ -1781,6 +1782,7 @@
 役 役 v,動詞,行為,動作 serve
 彼 彼 n,代名詞,指示,* that
 往 往 v,動詞,行為,移動 go
+徃 往 v,動詞,行為,移動 go
 征 征 n,名詞,行為,* expedition
 征 征 v,動詞,行為,交流 expedite
 徂 徂 v,動詞,変化,生物 pass-away
@@ -1903,6 +1905,7 @@
 恭 恭 v,動詞,描写,態度 reverent
 息 息 v,動詞,行為,動作 breathe
 悄 悄 v,動詞,描写,態度 anxious
+恱 悅 悦 v,動詞,行為,態度 relaxed
 悅 悅 悦 v,動詞,行為,態度 relaxed
 悦 悅 悦 v,動詞,行為,態度 relaxed
 悉 悉 v,副詞,範囲,総括 completely
@@ -2745,6 +2748,7 @@
 权 權 权 v,動詞,行為,動作 balance
 権 權 权 v,動詞,行為,動作 balance
 權 權 权 v,動詞,行為,動作 balance
+欠 欠 v,動詞,行為,動作 yawn
 次 次 n,名詞,固定物,関係 next
 次 次 v,動詞,行為,設置 arrange-in-order
 欣 欣 v,動詞,描写,形質 joyful
@@ -3999,7 +4003,10 @@
 纘 纘 缵 v,動詞,行為,役割 succeed
 缵 纘 缵 v,動詞,行為,役割 succeed
 缺 缺 n,名詞,人,名 [given-name]
+欠 缺 v,動詞,描写,形質 lack
+欫 缺 v,動詞,描写,形質 lack
 缺 缺 v,動詞,描写,形質 lack
+缼 缺 v,動詞,描写,形質 lack
 罔 罔 v,動詞,存在,存在 not-have
 罔 罔 v,動詞,行為,交流 catch
 罕 罕 v,動詞,描写,量 rare
@@ -4023,8 +4030,10 @@
 羊 羊 n,名詞,主体,動物 sheep
 美 美 n,名詞,描写,形質 beauty
 羙 美 n,名詞,描写,形質 beauty
+𫟈 美 n,名詞,描写,形質 beauty
 美 美 v,動詞,描写,形質 beautiful
 羙 美 v,動詞,描写,形質 beautiful
+𫟈 美 v,動詞,描写,形質 beautiful
 羔 羔 n,名詞,主体,動物 young-sheep
 羞 羞 v,動詞,描写,態度 shame
 羣 群 n,名詞,描写,形質 flock
@@ -4365,6 +4374,7 @@
 葵丘 葵丘 n,名詞,固定物,地名 [place-name]
 葸 葸 v,動詞,描写,態度 timid
 蒙 蒙 v,動詞,行為,交流 encounter
+𫎇 蒙 v,動詞,行為,交流 encounter
 蒲 蒲 n,名詞,固定物,樹木 rushes
 蒸 蒸 v,動詞,描写,量 numerous
 蒸 蒸 v,動詞,行為,動作 steam
@@ -5358,6 +5368,8 @@
 钧 鈞 钧 v,動詞,描写,形質 equal
 鉅 鉅 钜 v,動詞,描写,量 huge
 钜 鉅 钜 v,動詞,描写,量 huge
+鈆 鉛 铅 n,名詞,可搬,道具 lead
+鉛 鉛 铅 n,名詞,可搬,道具 lead
 鉞 鉞 钺 n,名詞,可搬,道具 battle-axe
 钺 鉞 钺 n,名詞,可搬,道具 battle-axe
 鉤 鉤 钩 n,名詞,可搬,道具 hook
