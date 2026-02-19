@@ -1059,6 +1059,7 @@
 培 培 v,動詞,行為,動作 earth-up
 基 基 n,名詞,固定物,建造物 foundation
 埽 埽 v,動詞,行為,動作 sweep
+坣 堂 n,名詞,固定物,建造物 hall
 堂 堂 n,名詞,固定物,建造物 hall
 坚 堅 坚 v,動詞,描写,形質 hard
 堅 堅 坚 v,動詞,描写,形質 hard
@@ -2212,6 +2213,9 @@
 损 損 损 v,動詞,行為,得失 decrease
 損 損 损 v,動詞,行為,得失 decrease
 搏 搏 v,動詞,行為,動作 beat
+揺 搖 摇 v,動詞,行為,動作 shake
+搖 搖 摇 v,動詞,行為,動作 shake
+摇 搖 摇 v,動詞,行為,動作 shake
 捣 搗 捣 v,動詞,行為,動作 beat-with-pestle
 搗 搗 捣 v,動詞,行為,動作 beat-with-pestle
 搴 搴 v,動詞,行為,動作 seize
@@ -3744,6 +3748,9 @@
 米 米 n,名詞,可搬,糧食 rice
 粉 粉 n,名詞,可搬,糧食 powder
 粒 粒 n,名詞,描写,形質 granule
+粗 粗 v,動詞,描写,形質 rough
+麁 粗 v,動詞,描写,形質 rough
+麤 粗 v,動詞,描写,形質 rough
 粟 粟 n,名詞,可搬,糧食 unhusked-grain
 粢 粢 n,名詞,可搬,糧食 sacrificial-grain
 粥 粥 n,名詞,可搬,糧食 rice-gruel
@@ -4235,8 +4242,10 @@
 舉 舉 举 v,動詞,行為,動作 raise
 旧 舊 旧 n,名詞,時,* old
 舊 舊 旧 n,名詞,時,* old
+𦾔 舊 旧 n,名詞,時,* old
 旧 舊 旧 v,動詞,描写,形質 old
 舊 舊 旧 v,動詞,描写,形質 old
+𦾔 舊 旧 v,動詞,描写,形質 old
 舌 舌 n,名詞,不可譲,身体 tongue
 舍 舍 n,名詞,人,名 [given-name]
 舎 舍 n,名詞,人,名 [given-name]
@@ -5543,8 +5552,10 @@
 陬 陬 n,名詞,固定物,関係 corner
 阴 陰 阴 n,名詞,固定物,関係 shade
 陰 陰 阴 n,名詞,固定物,関係 shade
+隂 陰 阴 n,名詞,固定物,関係 shade
 阴 陰 阴 v,動詞,描写,形質 shade
 陰 陰 阴 v,動詞,描写,形質 shade
+隂 陰 阴 v,動詞,描写,形質 shade
 阴康 陰康 阴康 n,名詞,人,名 [given-name]
 陰康 陰康 阴康 n,名詞,人,名 [given-name]
 陈 陳 陈 n,名詞,主体,国名 [country-name]
@@ -5955,6 +5966,7 @@
 鬲 鬲 n,名詞,人,名 [given-name]
 鬻 鬻 v,動詞,行為,飲食 nourish
 鬼 鬼 n,名詞,天象,怪異 ghost
+䰟 魂 n,名詞,不可譲,身体 spiritual-soul
 魂 魂 n,名詞,不可譲,身体 spiritual-soul
 魄 魄 n,名詞,不可譲,身体 terrestrial-soul
 魋 魋 n,名詞,人,名 [given-name]
@@ -6201,8 +6213,10 @@
 叹 嘆 叹 v,動詞,行為,態度 sigh
 嘆 嘆 叹 v,動詞,行為,態度 sigh
 嘆 嘆 叹 v,動詞,行為,態度 sigh
+噐 器 器 n,名詞,可搬,道具 vessel
 器 器 器 n,名詞,可搬,道具 vessel
 器 器 器 n,名詞,可搬,道具 vessel
+噐 器 器 v,動詞,描写,態度 capable
 器 器 器 v,動詞,描写,態度 capable
 器 器 器 v,動詞,描写,態度 capable
 墨 墨 墨 n,名詞,人,姓氏 [surname]
