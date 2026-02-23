@@ -48,7 +48,7 @@ class SuParKanbunTokenizer(object):
     self.vocab=vocab
     self.simplify={}
     if bert.startswith("guwenbert"):
-      from suparkanbun.simplify import simplify
+      from esupar.simplify import simplify
       self.simplify=simplify
     d=os.path.join(DOWNLOAD_DIR,bert+".pos")
     self.tagger=AutoModelTagger(d)
@@ -65,7 +65,7 @@ class SuParKanbunTokenizer(object):
       self.danku=None
     self.gloss=MakeGloss()
   def __call__(self,text):
-    from suparkanbun.tradify import tradify
+    from esupar.tradify import tradify
     t=""
     for c in text:
       if c in self.simplify:
