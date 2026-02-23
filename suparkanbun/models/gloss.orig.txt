@@ -746,8 +746,12 @@
 即墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
 卽墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
 卽墨 即墨 即墨 n,名詞,固定物,地名 [place-name]
+卷 卷 n,名詞,可搬,伝達 volume
+巻 卷 n,名詞,可搬,伝達 volume
+𢎥 卷 n,名詞,可搬,伝達 volume
 卷 卷 v,動詞,行為,動作 roll-up
 巻 卷 v,動詞,行為,動作 roll-up
+𢎥 卷 v,動詞,行為,動作 roll-up
 却 卻 却 v,動詞,行為,交流 reject
 卻 卻 却 v,動詞,行為,交流 reject
 卿 卿 n,名詞,人,役割 minister
@@ -3809,8 +3813,8 @@
 绍 紹 绍 v,動詞,行為,動作 continue
 紺 紺 绀 n,名詞,描写,形質 dark-purple
 绀 紺 绀 n,名詞,描写,形質 dark-purple
-紾 紾 v,動詞,行為,動作 twist
-𬘝 紾 v,動詞,行為,動作 twist
+紾 紾 𬘝 v,動詞,行為,動作 twist
+𬘝 紾 𬘝 v,動詞,行為,動作 twist
 紿 紿 绐 v,動詞,行為,交流 cheat
 绐 紿 绐 v,動詞,行為,交流 cheat
 終 終 终 v,動詞,変化,生物 end
@@ -3898,8 +3902,8 @@
 綿駒 綿駒 绵驹 n,名詞,人,名 [given-name]
 緜駒 綿駒 绵驹 n,名詞,人,名 [given-name]
 绵驹 綿駒 绵驹 n,名詞,人,名 [given-name]
-緅 緅 n,名詞,描写,形質 dark-brown
-𮉪 緅 n,名詞,描写,形質 dark-brown
+緅 緅 𮉪 n,名詞,描写,形質 dark-brown
+𮉪 緅 𮉪 n,名詞,描写,形質 dark-brown
 緇 緇 缁 n,名詞,可搬,道具 black-silk
 缁 緇 缁 n,名詞,可搬,道具 black-silk
 緇 緇 缁 v,動詞,描写,形質 black
@@ -3994,14 +3998,15 @@
 継 繼 继 v,動詞,行為,得失 continue
 繼 繼 继 v,動詞,行為,得失 continue
 继 繼 继 v,動詞,行為,得失 continue
-繽 繽 v,動詞,描写,量 numerous
+繽 繽 缤 v,動詞,描写,量 numerous
+缤 繽 缤 v,動詞,描写,量 numerous
 纁 纁 𫄸 n,名詞,描写,形質 crimson
 𫄸 纁 𫄸 n,名詞,描写,形質 crimson
 続 續 续 v,動詞,行為,動作 continue
 續 續 续 v,動詞,行為,動作 continue
 续 續 续 v,動詞,行為,動作 continue
-纑 纑 n,名詞,可搬,道具 bleached-hempen-threads
-𮉡 纑 n,名詞,可搬,道具 bleached-hempen-threads
+纑 纑 𮉡 n,名詞,可搬,道具 bleached-hempen-threads
+𮉡 纑 𮉡 n,名詞,可搬,道具 bleached-hempen-threads
 纓 纓 缨 n,名詞,可搬,道具 cap-string
 缨 纓 缨 n,名詞,可搬,道具 cap-string
 繊 纖 纤 n,名詞,可搬,道具 fine-thin-silk
@@ -4838,8 +4843,8 @@
 谬 謬 谬 v,動詞,行為,態度 err
 謳 謳 讴 v,動詞,行為,動作 sing
 讴 謳 讴 v,動詞,行為,動作 sing
-譈 譈 v,動詞,行為,態度 resent
-𬤣 譈 v,動詞,行為,態度 resent
+譈 譈 𬤣 v,動詞,行為,態度 resent
+𬤣 譈 𬤣 v,動詞,行為,態度 resent
 証 證 证 v,動詞,行為,動作 verify
 證 證 证 v,動詞,行為,動作 verify
 证 證 证 v,動詞,行為,動作 verify
@@ -5738,8 +5743,8 @@
 顽 頑 顽 v,動詞,描写,態度 stubborn
 頒 頒 颁 v,動詞,変化,性質 big-headed
 颁 頒 颁 v,動詞,変化,性質 big-headed
-頖 頖 n,名詞,主体,機関 academy
-𬱙 頖 n,名詞,主体,機関 academy
+頖 頖 𬱙 n,名詞,主体,機関 academy
+𬱙 頖 𬱙 n,名詞,主体,機関 academy
 頗 頗 颇 v,副詞,程度,極度 quite
 颇 頗 颇 v,副詞,程度,極度 quite
 領 領 领 n,名詞,固定物,地形 mountain-range
@@ -5851,8 +5856,8 @@
 馆 館 馆 v,動詞,行為,動作 lodge
 館 館 馆 v,動詞,行為,動作 lodge
 餱 餱 糇 n,名詞,可搬,糧食 dried-food
-餲 餲 v,動詞,描写,形質 food-gone-bad
-𮩝 餲 v,動詞,描写,形質 food-gone-bad
+餲 餲 𮩝 v,動詞,描写,形質 food-gone-bad
+𮩝 餲 𮩝 v,動詞,描写,形質 food-gone-bad
 餼 餼 饩 n,名詞,制度,儀礼 sacrificial-animal
 饩 餼 饩 n,名詞,制度,儀礼 sacrificial-animal
 餽 餽 馈 v,動詞,行為,交流 present-of-food
@@ -5864,8 +5869,8 @@
 馔 饌 馔 n,名詞,可搬,糧食 food
 饌 饌 馔 v,動詞,行為,動作 provide-food
 馔 饌 馔 v,動詞,行為,動作 provide-food
-饐 饐 v,動詞,描写,形質 food-spoiled
-𮩞 饐 v,動詞,描写,形質 food-spoiled
+饐 饐 𮩞 v,動詞,描写,形質 food-spoiled
+𮩞 饐 𮩞 v,動詞,描写,形質 food-spoiled
 饑 饑 饥 v,動詞,描写,境遇 famine
 饔 饔 n,名詞,可搬,糧食 cooked-grain
 飨 饗 飨 v,動詞,行為,交流 banquet
@@ -5998,10 +6003,10 @@
 鰍 鰍 鳅 n,名詞,主体,動物 loach
 鳅 鰍 鳅 n,名詞,主体,動物 loach
 鰥 鰥 鳏 n,名詞,主体,動物 [large-fish]
-鱞 鰥 鳏 n,名詞,主体,動物 [large-fish]
+鱞 鰥 𬶵 n,名詞,主体,動物 [large-fish]
 鳏 鰥 鳏 n,名詞,主体,動物 [large-fish]
 鰥 鰥 鳏 v,動詞,描写,境遇 wifeless
-鱞 鰥 鳏 v,動詞,描写,境遇 wifeless
+鱞 鰥 𬶵 v,動詞,描写,境遇 wifeless
 鳏 鰥 鳏 v,動詞,描写,境遇 wifeless
 鰲 鰲 鳌 n,名詞,主体,動物 huge-turtle
 鳌 鰲 鳌 n,名詞,主体,動物 huge-turtle
