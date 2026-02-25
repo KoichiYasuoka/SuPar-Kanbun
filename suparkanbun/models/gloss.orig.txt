@@ -1005,7 +1005,9 @@
 四萬五千六百 四萬五千六百 四万五千六百 n,数詞,数,* forty-five-thousand-and-six-hundred
 回 回 n,名詞,人,名 [given-name]
 回 回 v,動詞,行為,動作 revolve
+囙 因 v,副詞,判断,確定 because
 因 因 v,副詞,判断,確定 because
+囙 因 v,動詞,行為,動作 depend-on
 因 因 v,動詞,行為,動作 depend-on
 困 困 v,動詞,描写,境遇 distressed
 固 固 v,副詞,判断,確定 certainly
@@ -2837,6 +2839,8 @@
 殯 殯 殡 v,動詞,行為,動作 lay-in-a-coffin-to-await-burial
 㱩 殰 㱩 v,動詞,行為,動作 stillborn
 殰 殰 㱩 v,動詞,行為,動作 stillborn
+叚 段 n,名詞,可搬,道具 forge
+段 段 n,名詞,可搬,道具 forge
 殷 殷 n,名詞,主体,国名 [country-name]
 殿 殿 n,名詞,固定物,関係 rear-of-an-army
 毀 毀 毁 n,名詞,可搬,伝達 defame
@@ -3791,6 +3795,7 @@
 纳 納 纳 v,動詞,行為,動作 bring-in
 純 純 纯 v,動詞,描写,形質 pure
 纯 純 纯 v,動詞,描写,形質 pure
+帋 紙 纸 n,名詞,可搬,道具 paper
 紙 紙 纸 n,名詞,可搬,道具 paper
 纸 紙 纸 n,名詞,可搬,道具 paper
 級 級 级 n,名詞,度量衡,* grade
@@ -6003,11 +6008,11 @@
 鰍 鰍 鳅 n,名詞,主体,動物 loach
 鳅 鰍 鳅 n,名詞,主体,動物 loach
 鰥 鰥 鳏 n,名詞,主体,動物 [large-fish]
-鱞 鰥 𬶵 n,名詞,主体,動物 [large-fish]
 鳏 鰥 鳏 n,名詞,主体,動物 [large-fish]
 鰥 鰥 鳏 v,動詞,描写,境遇 wifeless
-鱞 鰥 𬶵 v,動詞,描写,境遇 wifeless
 鳏 鰥 鳏 v,動詞,描写,境遇 wifeless
+鱞 鰥 𬶵 n,名詞,主体,動物 [large-fish]
+鱞 鰥 𬶵 v,動詞,描写,境遇 wifeless
 鰲 鰲 鳌 n,名詞,主体,動物 huge-turtle
 鳌 鰲 鳌 n,名詞,主体,動物 huge-turtle
 鼇 鰲 鳌 n,名詞,主体,動物 huge-turtle
