@@ -1083,6 +1083,7 @@
 报 報 报 v,動詞,行為,交流 report-back
 场 場 场 n,名詞,固定物,建造物 meeting-place
 場 場 场 n,名詞,固定物,建造物 meeting-place
+塲 場 场 n,名詞,固定物,建造物 meeting-place
 堵 堵 n,名詞,度量衡,* [unit-length-of-wall]
 塗 塗 涂 n,名詞,固定物,建造物 road
 涂 塗 涂 n,名詞,固定物,建造物 road
@@ -1472,8 +1473,10 @@
 宠 寵 宠 v,動詞,行為,態度 favour
 寵 寵 宠 v,動詞,行為,態度 favour
 宝 寶 宝 n,名詞,可搬,道具 treasure
+寳 寶 宝 n,名詞,可搬,道具 treasure
 寶 寶 宝 n,名詞,可搬,道具 treasure
 宝 寶 宝 v,動詞,行為,態度 precious
+寳 寶 宝 v,動詞,行為,態度 precious
 寶 寶 宝 v,動詞,行為,態度 precious
 寸 寸 n,名詞,度量衡,* [length-unit]
 寺 寺 n,名詞,主体,機関 Buddhist-temple
@@ -2255,6 +2258,8 @@
 操 操 v,動詞,行為,動作 grasp
 擒 擒 v,動詞,行為,動作 catch
 擘 擘 n,名詞,不可譲,身体 thumb
+㨿 據 据 v,動詞,行為,姿勢 rely-on
+拠 據 据 v,動詞,行為,姿勢 rely-on
 据 據 据 v,動詞,行為,姿勢 rely-on
 據 據 据 v,動詞,行為,姿勢 rely-on
 擣 擣 捣 v,動詞,行為,動作 beat-with-pestle
@@ -2426,8 +2431,11 @@
 明 明 n,名詞,描写,形質 light
 明 明 v,動詞,描写,形質 bright
 昏 昏 n,名詞,制度,儀礼 marriage
+昬 昏 n,名詞,制度,儀礼 marriage
 昏 昏 n,名詞,時,* evening
+昬 昏 n,名詞,時,* evening
 昏 昏 v,動詞,描写,形質 dark
+昬 昏 v,動詞,描写,形質 dark
 易 易 n,名詞,主体,書物 [book-name]
 易 易 v,動詞,描写,形質 easy
 易 易 v,動詞,行為,動作 change
@@ -2625,6 +2633,7 @@
 根 根 n,名詞,固定物,樹木 root
 根 根 v,動詞,行為,設置 root
 格 格 v,動詞,行為,動作 reach-to
+㘽 栽 v,動詞,行為,設置 plant
 栽 栽 v,動詞,行為,設置 plant
 桀 桀 n,名詞,人,名 [given-name]
 桀溺 桀溺 n,名詞,人,名 [given-name]
@@ -3386,8 +3395,10 @@
 畝 畝 亩 n,名詞,人,名 [given-name]
 亩 畝 亩 n,名詞,固定物,建造物 ridge-in-cultivated-field
 畝 畝 亩 n,名詞,固定物,建造物 ridge-in-cultivated-field
+畞 畝 亩 n,名詞,固定物,建造物 ridge-in-cultivated-field
 亩 畝 亩 n,名詞,度量衡,* [land-measure-unit]
 畝 畝 亩 n,名詞,度量衡,* [land-measure-unit]
+畞 畝 亩 n,名詞,度量衡,* [land-measure-unit]
 毕 畢 毕 v,動詞,変化,性質 finish
 畢 畢 毕 v,動詞,変化,性質 finish
 毕郢 畢郢 毕郢 n,名詞,固定物,地名 [place-name]
@@ -4164,6 +4175,7 @@
 胡龁 胡齕 胡龁 n,名詞,人,複合的人名 Huhe
 胥 胥 v,動詞,行為,交流 mutual
 胸 胸 n,名詞,不可譲,身体 chest
+𮌚 胸 n,名詞,不可譲,身体 chest
 能 能 n,名詞,不可譲,属性 ability
 能 能 v,助動詞,可能,* can
 胁 脅 胁 n,名詞,不可譲,身体 side
@@ -5429,6 +5441,12 @@
 鍤 鍤 锸 n,名詞,可搬,道具 spade
 锸 鍤 锸 n,名詞,可搬,道具 spade
 鍾 鍾 锺 n,名詞,可搬,道具 wine-cup
+鎖 鎖 锁 n,名詞,可搬,道具 lock
+鎻 鎖 锁 n,名詞,可搬,道具 lock
+锁 鎖 锁 n,名詞,可搬,道具 lock
+鎖 鎖 锁 v,動詞,行為,動作 lock
+鎻 鎖 锁 v,動詞,行為,動作 lock
+锁 鎖 锁 v,動詞,行為,動作 lock
 鎡 鎡 镃 n,名詞,可搬,道具 mattock
 镃 鎡 镃 n,名詞,可搬,道具 mattock
 鎭 鎭 镇 v,動詞,行為,設置 control
