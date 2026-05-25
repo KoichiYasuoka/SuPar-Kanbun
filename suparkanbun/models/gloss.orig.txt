@@ -1465,6 +1465,7 @@
 审 審 审 v,動詞,行為,動作 examine-closely
 審 審 审 v,動詞,行為,動作 examine-closely
 写 寫 写 v,動詞,行為,動作 drain-off
+冩 寫 写 v,動詞,行為,動作 drain-off
 寫 寫 写 v,動詞,行為,動作 drain-off
 宽 寬 宽 v,動詞,描写,形質 wide
 寛 寬 宽 v,動詞,描写,形質 wide
@@ -2269,6 +2270,8 @@
 擯 擯 摈 v,動詞,行為,役割 host
 摈 擯 摈 v,動詞,行為,態度 reject
 擯 擯 摈 v,動詞,行為,態度 reject
+掷 擲 掷 v,動詞,行為,動作 throw
+擲 擲 掷 v,動詞,行為,動作 throw
 扩 擴 扩 v,動詞,行為,動作 extend
 拡 擴 扩 v,動詞,行為,動作 extend
 擴 擴 扩 v,動詞,行為,動作 extend
@@ -2522,7 +2525,9 @@
 曾 曾 n,名詞,人,姓氏 [surname]
 曾 曾 v,副詞,時相,過去 once
 曾子 曾子 n,名詞,人,複合的人名 Zengzi
+㝡 最 V,副詞,程度,極度 highest
 最 最 v,副詞,程度,極度 highest
+㝡 最 v,動詞,行為,動作 collect
 最 最 v,動詞,行為,動作 collect
 㑹 會 会 n,名詞,制度,場 meeting
 会 會 会 n,名詞,制度,場 meeting
@@ -2585,6 +2590,9 @@
 束 束 v,動詞,行為,動作 tie-in-a-bundle
 杠 杠 n,名詞,固定物,建造物 single-plank-bridge
 杯 杯 n,名詞,可搬,道具 cup
+盃 杯 n,名詞,可搬,道具 cup
+杯 杯 n,名詞,度量衡,* cup
+盃 杯 n,名詞,度量衡,* cup
 东 東 东 n,名詞,固定物,関係 east
 東 東 东 n,名詞,固定物,関係 east
 东 東 东 v,動詞,行為,移動 go-east
@@ -5792,6 +5800,7 @@
 顏子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
 顔子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
 颜子 顏子 颜子 n,名詞,人,複合的人名 Yanzi
+愿 願 愿 v,動詞,行為,動作 wish-for
 願 願 愿 v,動詞,行為,動作 wish-for
 顙 顙 颡 n,名詞,不可譲,身体 forehead
 颡 顙 颡 n,名詞,不可譲,身体 forehead
