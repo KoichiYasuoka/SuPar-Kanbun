@@ -228,6 +228,7 @@
 令 令 n,名詞,可搬,伝達 order
 令 令 v,動詞,描写,形質 beautiful
 令 令 v,動詞,行為,使役 order
+㠯 以 v,動詞,行為,動作 use
 以 以 v,動詞,行為,動作 use
 仰 仰 v,動詞,行為,動作 look-up-to
 仲 仲 n,名詞,人,名 [given-name]
@@ -1085,6 +1086,8 @@
 場 場 场 n,名詞,固定物,建造物 meeting-place
 塲 場 场 n,名詞,固定物,建造物 meeting-place
 堵 堵 n,名詞,度量衡,* [unit-length-of-wall]
+㙮 塔 n,名詞,固定物,建造物 pagoda
+塔 塔 n,名詞,固定物,建造物 pagoda
 塗 塗 涂 n,名詞,固定物,建造物 road
 涂 塗 涂 n,名詞,固定物,建造物 road
 塞 塞 n,名詞,固定物,建造物 frontier
