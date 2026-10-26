@@ -568,6 +568,7 @@
 凝 凝 v,動詞,行為,動作 freeze
 几 几 n,名詞,可搬,道具 small-table
 凡 凡 v,動詞,描写,形質 ordinary
+凢 凡 v,動詞,描写,形質 ordinary
 凰 凰 n,名詞,主体,動物 female-phoenix
 凯 凱 凯 v,動詞,描写,態度 triumphant
 凱 凱 凯 v,動詞,描写,態度 triumphant
@@ -3153,6 +3154,7 @@
 焦 焦 v,動詞,行為,動作 roast
 然 然 p,接尾辞,*,* [suffix]
 然 然 v,動詞,描写,態度 like-this
+肰 然 v,動詞,描写,態度 like-this
 然友 然友 n,名詞,人,名 [given-name]
 煇 煇 辉 v,動詞,描写,形質 flaming
 煖 煖 v,動詞,描写,形質 warm
@@ -4865,6 +4867,7 @@
 讲 講 讲 v,動詞,行為,交流 discuss
 謝 謝 谢 v,動詞,行為,交流 excuse-oneself
 谢 謝 谢 v,動詞,行為,交流 excuse-oneself
+𧬄 謝 谢 v,動詞,行為,交流 excuse-oneself
 謨 謨 谟 v,動詞,行為,動作 plan
 谟 謨 谟 v,動詞,行為,動作 plan
 謫 謫 谪 v,動詞,行為,交流 blame
@@ -5377,6 +5380,9 @@
 醬 醬 酱 n,名詞,可搬,糧食 sauce
 醯 醯 n,名詞,可搬,糧食 vinegar
 醴 醴 n,名詞,可搬,糧食 sweet-wine
+酿 釀 酿 v,動詞,行為,動作 ferment
+醸 釀 酿 v,動詞,行為,動作 ferment
+釀 釀 酿 v,動詞,行為,動作 ferment
 釁 釁 衅 v,動詞,行為,動作 consecrate
 采 采 n,名詞,描写,形質 appanage
 采 采 v,動詞,行為,動作 gather
